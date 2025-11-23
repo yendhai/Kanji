@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "kanji": "日",
+    "question": "Apa arti kanji ini?",
+    "options": ["Matahari", "Bulan", "Pohon", "Air"],
+    "answer": 0
+  },
+  {
+    "id": 2,
+    "kanji": "月",
+    "question": "Apa arti kanji ini?",
+    "options": ["Api", "Bulan", "Emas", "Tanah"],
+    "answer": 1
+  },
+  {
+    "id": 3,
+    "kanji": "木",
+    "question": "Apa arti kanji ini?",
+    "options": ["Air", "Uang", "Pohon", "Orang"],
+    "answer": 2
+  },
+  {
+    "id": 4,
+    "kanji": "水",
+    "question": "Apa arti kanji ini?",
+    "options": ["Api", "Gunung", "Sawah", "Air"],
+    "answer": 3
+  },
+  {
+    "id": 5,
+    "kanji": "火",
+    "question": "Apa arti kanji ini?",
+    "options": ["Api", "Cahaya", "Listrik", "Panas"],
+    "answer": 0
+  }
+]
