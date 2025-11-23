@@ -1,37 +1,34 @@
 [
-  {
-    "id": 1,
-    "kanji": "日",
-    "question": "Apa arti kanji ini?",
-    "options": ["Matahari", "Bulan", "Pohon", "Air"],
-    "answer": 0
-  },
-  {
-    "id": 2,
-    "kanji": "月",
-    "question": "Apa arti kanji ini?",
-    "options": ["Api", "Bulan", "Emas", "Tanah"],
-    "answer": 1
-  },
-  {
-    "id": 3,
-    "kanji": "木",
-    "question": "Apa arti kanji ini?",
-    "options": ["Air", "Uang", "Pohon", "Orang"],
-    "answer": 2
-  },
-  {
-    "id": 4,
-    "kanji": "水",
-    "question": "Apa arti kanji ini?",
-    "options": ["Api", "Gunung", "Sawah", "Air"],
-    "answer": 3
-  },
-  {
-    "id": 5,
-    "kanji": "火",
-    "question": "Apa arti kanji ini?",
-    "options": ["Api", "Cahaya", "Listrik", "Panas"],
-    "answer": 0
-  }
+  { "id": 1, "kanji": "行", "question": "Apa arti kanji ini?", "options": ["Datang", "Pergi", "Makan", "Tidur"], "answer": 1, "kategori": "kata_kerja" },
+  { "id": 2, "kanji": "来", "question": "Apa arti kanji ini?", "options": ["Pergi", "Datang", "Melihat", "Mendengar"], "answer": 1, "kategori": "kata_kerja" },
+  { "id": 3, "kanji": "食", "question": "Apa arti kanji ini?", "options": ["Minum", "Makan", "Lari", "Berdiri"], "answer": 1, "kategori": "kata_kerja" },
+  { "id": 4, "kanji": "飲", "question": "Apa arti kanji ini?", "options": ["Makan", "Membaca", "Minum", "Menulis"], "answer": 2, "kategori": "kata_kerja" },
+  { "id": 5, "kanji": "見", "question": "Apa arti kanji ini?", "options": ["Melihat", "Mendengar", "Berbicara", "Membeli"], "answer": 0, "kategori": "kata_kerja" },
+  { "id": 6, "kanji": "聞", "question": "Apa arti kanji ini?", "options": ["Melihat", "Mendengar", "Bertanya", "Berjalan"], "answer": 1, "kategori": "kata_kerja" },
+  { "id": 7, "kanji": "書", "question": "Apa arti kanji ini?", "options": ["Membaca", "Menulis", "Menggambar", "Menjual"], "answer": 1, "kategori": "kata_kerja" },
+  { "id": 8, "kanji": "読", "question": "Apa arti kanji ini?", "options": ["Menulis", "Membaca", "Berbicara", "Belajar"], "answer": 1, "kategori": "kata_kerja" },
+  { "id": 9, "kanji": "話", "question": "Apa arti kanji ini?", "options": ["Diam", "Berbicara", "Mendengar", "Menyanyi"], "answer": 1, "kategori": "kata_kerja" },
+  { "id": 10, "kanji": "買", "question": "Apa arti kanji ini?", "options": ["Menjual", "Membayar", "Membeli", "Mengambil"], "answer": 2, "kategori": "kata_kerja" },
+
+  { "id": 11, "kanji": "大", "question": "Apa arti kanji ini?", "options": ["Kecil", "Besar", "Tinggi", "Luas"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 12, "kanji": "小", "question": "Apa arti kanji ini?", "options": ["Sedikit", "Pendek", "Kecil", "Rendah"], "answer": 2, "kategori": "kata_sifat" },
+  { "id": 13, "kanji": "高", "question": "Apa arti kanji ini?", "options": ["Mahal/Tinggi", "Murah", "Baru", "Lama"], "answer": 0, "kategori": "kata_sifat" },
+  { "id": 14, "kanji": "安", "question": "Apa arti kanji ini?", "options": ["Mahal", "Aman/Murah", "Berbahaya", "Keras"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 15, "kanji": "新", "question": "Apa arti kanji ini?", "options": ["Lama", "Baru", "Kuno", "Modern"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 16, "kanji": "古", "question": "Apa arti kanji ini?", "options": ["Baru", "Muda", "Lama/Kuno", "Kuat"], "answer": 2, "kategori": "kata_sifat" },
+  { "id": 17, "kanji": "長", "question": "Apa arti kanji ini?", "options": ["Pendek", "Panjang", "Berat", "Ringan"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 18, "kanji": "短", "question": "Apa arti kanji ini?", "options": ["Panjang", "Pendek", "Jauh", "Dekat"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 19, "kanji": "白", "question": "Apa arti kanji ini?", "options": ["Hitam", "Merah", "Putih", "Biru"], "answer": 2, "kategori": "kata_sifat" },
+  { "id": 20, "kanji": "黒", "question": "Apa arti kanji ini?", "options": ["Putih", "Hitam", "Gelap", "Terang"], "answer": 1, "kategori": "kata_sifat" },
+
+  { "id": 21, "kanji": "山", "question": "Apa arti kanji ini?", "options": ["Sungai", "Gunung", "Sawah", "Laut"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 22, "kanji": "川", "question": "Apa arti kanji ini?", "options": ["Gunung", "Jalan", "Sungai", "Langit"], "answer": 2, "kategori": "kata_benda" },
+  { "id": 23, "kanji": "花", "question": "Apa arti kanji ini?", "options": ["Daun", "Pohon", "Akar", "Bunga"], "answer": 3, "kategori": "kata_benda" },
+  { "id": 24, "kanji": "魚", "question": "Apa arti kanji ini?", "options": ["Daging", "Ikan", "Ayam", "Sapi"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 25, "kanji": "犬", "question": "Apa arti kanji ini?", "options": ["Kucing", "Anjing", "Burung", "Kuda"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 26, "kanji": "猫", "question": "Apa arti kanji ini?", "options": ["Anjing", "Tikus", "Kucing", "Singa"], "answer": 2, "kategori": "kata_benda" },
+  { "id": 27, "kanji": "車", "question": "Apa arti kanji ini?", "options": ["Kereta", "Sepeda", "Mobil", "Pesawat"], "answer": 2, "kategori": "kata_benda" },
+  { "id": 28, "kanji": "雨", "question": "Apa arti kanji ini?", "options": ["Salju", "Hujan", "Awan", "Petir"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 29, "kanji": "本", "question": "Apa arti kanji ini?", "options": ["Kertas", "Buku", "Pensil", "Meja"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 30, "kanji": "名", "question": "Apa arti kanji ini?", "options": ["Nama", "Orang", "Negara", "Bahasa"], "answer": 0, "kategori": "kata_benda" }
 ]
