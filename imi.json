@@ -34,7 +34,7 @@
 
   { "id": 220, "kanji": "甘い", "question": "Apa arti kanji ini?", "options": ["Pahit", "Masam", "Asin", "Manis"], "answer": 3, "kategori": "kata_sifat" },
   { "id": 221, "kanji": "辛い", "question": "Apa arti kanji ini?", "options": ["Pedas", "Pahit", "Asin", "Panas"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 222, "kanji": "酸っぱい", "question": "Apa arti kanji ini?", "options": ["Pedas", "Masam", "Asin", "Pahit"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 222, "kanji": "酸っぱい", "question": "Apa arti kanji ini?", "options": ["Pedas", "Masam", "Asin", "Pahit"], "answer": 1, "kategori": "kata_sifat" },
   { "id": 223, "kanji": "苦い", "question": "Apa arti kanji ini?", "options": ["Pahit", "Masam", "Pedas", "Asin"], "answer": 0, "kategori": "kata_sifat" },
   { "id": 224, "kanji": "塩辛い", "question": "Apa arti kanji ini?", "options": ["Asin", "Manis", "Pedas", "Pahit"], "answer": 0, "kategori": "kata_sifat" },
   { "id": 225, "kanji": "薄い", "question": "Apa arti kanji ini?", "options": ["Tebal", "Tipis", "Keras", "Lembut"], "answer": 1, "kategori": "kata_sifat" },
