@@ -9,7 +9,7 @@
   { "id": 8, "kanji": "読", "question": "Apa arti kanji ini?", "options": ["Menulis", "Membaca", "Berbicara", "Belajar"], "answer": 1, "kategori": "kata_kerja" },
   { "id": 9, "kanji": "話", "question": "Apa arti kanji ini?", "options": ["Diam", "Berbicara", "Mendengar", "Menyanyi"], "answer": 1, "kategori": "kata_kerja" },
   { "id": 10, "kanji": "買", "question": "Apa arti kanji ini?", "options": ["Menjual", "Membayar", "Membeli", "Mengambil"], "answer": 2, "kategori": "kata_kerja" },
-
+  
   { "id": 20, "kanji": "美しい", "question": "Apa arti kata sifat ini?", "options": ["Indah", "Kotor", "Biasa", "Gelap"], "answer": 0, "kategori": "kata_sifat" },
   { "id": 21, "kanji": "高い", "question": "Apa arti kata sifat ini?", "options": ["Tinggi/Mahal", "Rendah", "Lambat", "Murah"], "answer": 0, "kategori": "kata_sifat" },
   { "id": 22, "kanji": "低い", "question": "Apa arti kata sifat ini?", "options": ["Rendah", "Tinggi", "Panas", "Cepat"], "answer": 0, "kategori": "kata_sifat" },
@@ -20,7 +20,6 @@
   { "id": 27, "kanji": "広い", "question": "Apa arti kata sifat ini?", "options": ["Sempit", "Dalam", "Luas", "Dekat"], "answer": 2, "kategori": "kata_sifat" },
   { "id": 28, "kanji": "狭い", "question": "Apa arti kata sifat ini?", "options": ["Sempit", "Luas", "Panjang", "Tinggi"], "answer": 0, "kategori": "kata_sifat" },
   { "id": 29, "kanji": "重い", "question": "Apa arti kata sifat ini?", "options": ["Ringan", "Tinggi", "Berat", "Dekat"], "answer": 2, "kategori": "kata_sifat" },
-
   { "id": 210, "kanji": "軽い", "question": "Apa arti kata sifat ini?", "options": ["Berat", "Gelap", "Lambat", "Ringan"], "answer": 3, "kategori": "kata_sifat" },
   { "id": 211, "kanji": "暑い", "question": "Apa arti kata sifat ini?", "options": ["Dingin (cuaca)", "Panas (cuaca)", "Basah", "Kering"], "answer": 1, "kategori": "kata_sifat" },
   { "id": 212, "kanji": "寒い", "question": "Apa arti kata sifat ini?", "options": ["Hangat", "Dingin (cuaca)", "Gelap", "Lambat"], "answer": 1, "kategori": "kata_sifat" },
