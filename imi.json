@@ -10,7 +10,7 @@
   { "id": 9, "kanji": "話", "question": "Apa arti kanji ini?", "options": ["Diam", "Berbicara", "Mendengar", "Menyanyi"], "answer": 1, "kategori": "kata_kerja" },
   { "id": 10, "kanji": "買", "question": "Apa arti kanji ini?", "options": ["Menjual", "Membayar", "Membeli", "Mengambil"], "answer": 2, "kategori": "kata_kerja" },
   
-  { "id": 20, "kanji": "大きい", "question": "Apa arti kanji ini?", "options": ["Kecil", "Besar", "Luas", "Tinggi"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 20, "kanji": "大きい", "question": "Apa arti kanji ini?", "options": ["Kecil - 小さい", "Besar - 大きい", "Luas - ひろい", "Tinggi - たかい"], "answer": 1, "kategori": "kata_sifat" },
   { "id": 21, "kanji": "小さい", "question": "Apa arti kanji ini?", "options": ["Kecil", "Sedikit", "Rendah", "Sempit"], "answer": 0, "kategori": "kata_sifat" },
   { "id": 22, "kanji": "高い", "question": "Apa arti kanji ini?", "options": ["Murah", "Tinggi/Mahal", "Panas", "Dalam"], "answer": 1, "kategori": "kata_sifat" },
   { "id": 23, "kanji": "安い", "question": "Apa arti kanji ini?", "options": ["Murah/Aman", "Mahal", "Dekat", "Sempit"], "answer": 0, "kategori": "kata_sifat" },
