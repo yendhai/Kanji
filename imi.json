@@ -64,14 +64,14 @@
   { "id": 248, "kanji": "豊か", "question": "Apa arti kata sifat ini?", "options": ["Kaya/Melimpah", "Miskin", "Sedikit", "Berbahaya"], "answer": 0, "kategori": "kata_sifat" },
   { "id": 249, "kanji": "幸せ", "question": "Apa arti kata sifat ini?", "options": ["Sedih", "Bahagia", "Lelah", "Gelap"], "answer": 1, "kategori": "kata_sifat" }
   
-  { "id": 21, "kanji": "山", "question": "Apa arti kanji ini?", "options": ["Sungai", "Gunung", "Sawah", "Laut"], "answer": 1, "kategori": "kata_benda" },
-  { "id": 22, "kanji": "川", "question": "Apa arti kanji ini?", "options": ["Gunung", "Jalan", "Sungai", "Langit"], "answer": 2, "kategori": "kata_benda" },
-  { "id": 23, "kanji": "花", "question": "Apa arti kanji ini?", "options": ["Daun", "Pohon", "Akar", "Bunga"], "answer": 3, "kategori": "kata_benda" },
-  { "id": 24, "kanji": "魚", "question": "Apa arti kanji ini?", "options": ["Daging", "Ikan", "Ayam", "Sapi"], "answer": 1, "kategori": "kata_benda" },
-  { "id": 25, "kanji": "犬", "question": "Apa arti kanji ini?", "options": ["Kucing", "Anjing", "Burung", "Kuda"], "answer": 1, "kategori": "kata_benda" },
-  { "id": 26, "kanji": "猫", "question": "Apa arti kanji ini?", "options": ["Anjing", "Tikus", "Kucing", "Singa"], "answer": 2, "kategori": "kata_benda" },
-  { "id": 27, "kanji": "車", "question": "Apa arti kanji ini?", "options": ["Kereta", "Sepeda", "Mobil", "Pesawat"], "answer": 2, "kategori": "kata_benda" },
-  { "id": 28, "kanji": "雨", "question": "Apa arti kanji ini?", "options": ["Salju", "Hujan", "Awan", "Petir"], "answer": 1, "kategori": "kata_benda" },
-  { "id": 29, "kanji": "本", "question": "Apa arti kanji ini?", "options": ["Kertas", "Buku", "Pensil", "Meja"], "answer": 1, "kategori": "kata_benda" },
-  { "id": 30, "kanji": "名", "question": "Apa arti kanji ini?", "options": ["Nama", "Orang", "Negara", "Bahasa"], "answer": 0, "kategori": "kata_benda" }
+  { "id": 30, "kanji": "山", "question": "Apa arti kanji ini?", "options": ["Sungai", "Gunung", "Sawah", "Laut"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 32, "kanji": "川", "question": "Apa arti kanji ini?", "options": ["Gunung", "Jalan", "Sungai", "Langit"], "answer": 2, "kategori": "kata_benda" },
+  { "id": 33, "kanji": "花", "question": "Apa arti kanji ini?", "options": ["Daun", "Pohon", "Akar", "Bunga"], "answer": 3, "kategori": "kata_benda" },
+  { "id": 324, "kanji": "魚", "question": "Apa arti kanji ini?", "options": ["Daging", "Ikan", "Ayam", "Sapi"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 325, "kanji": "犬", "question": "Apa arti kanji ini?", "options": ["Kucing", "Anjing", "Burung", "Kuda"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 326, "kanji": "猫", "question": "Apa arti kanji ini?", "options": ["Anjing", "Tikus", "Kucing", "Singa"], "answer": 2, "kategori": "kata_benda" },
+  { "id": 327, "kanji": "車", "question": "Apa arti kanji ini?", "options": ["Kereta", "Sepeda", "Mobil", "Pesawat"], "answer": 2, "kategori": "kata_benda" },
+  { "id": 328, "kanji": "雨", "question": "Apa arti kanji ini?", "options": ["Salju", "Hujan", "Awan", "Petir"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 329, "kanji": "本", "question": "Apa arti kanji ini?", "options": ["Kertas", "Buku", "Pensil", "Meja"], "answer": 1, "kategori": "kata_benda" },
+  { "id": 330, "kanji": "名", "question": "Apa arti kanji ini?", "options": ["Nama", "Orang", "Negara", "Bahasa"], "answer": 0, "kategori": "kata_benda" }
 ]
