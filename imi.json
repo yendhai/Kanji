@@ -10,59 +10,60 @@
   { "id": 9, "kanji": "話", "question": "Apa arti kanji ini?", "options": ["Diam", "Berbicara", "Mendengar", "Menyanyi"], "answer": 1, "kategori": "kata_kerja" },
   { "id": 10, "kanji": "買", "question": "Apa arti kanji ini?", "options": ["Menjual", "Membayar", "Membeli", "Mengambil"], "answer": 2, "kategori": "kata_kerja" },
   
-  { "id": 20, "kanji": "美しい", "question": "Apa arti kata sifat ini?", "options": ["Indah", "Kotor", "Biasa", "Gelap"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 21, "kanji": "高い", "question": "Apa arti kata sifat ini?", "options": ["Tinggi/Mahal", "Rendah", "Lambat", "Murah"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 22, "kanji": "低い", "question": "Apa arti kata sifat ini?", "options": ["Rendah", "Tinggi", "Panas", "Cepat"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 23, "kanji": "強い", "question": "Apa arti kata sifat ini?", "options": ["Lemah", "Kuat", "Keras", "Pahit"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 24, "kanji": "弱い", "question": "Apa arti kata sifat ini?", "options": ["Lemah", "Berani", "Tinggi", "Luas"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 25, "kanji": "新しい", "question": "Apa arti kata sifat ini?", "options": ["Baru", "Lama", "Murah", "Mahal"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 26, "kanji": "古い", "question": "Apa arti kata sifat ini?", "options": ["Kuno/Lama", "Baru", "Muda", "Kuat"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 27, "kanji": "広い", "question": "Apa arti kata sifat ini?", "options": ["Sempit", "Dalam", "Luas", "Dekat"], "answer": 2, "kategori": "kata_sifat" },
-  { "id": 28, "kanji": "狭い", "question": "Apa arti kata sifat ini?", "options": ["Sempit", "Luas", "Panjang", "Tinggi"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 29, "kanji": "重い", "question": "Apa arti kata sifat ini?", "options": ["Ringan", "Tinggi", "Berat", "Dekat"], "answer": 2, "kategori": "kata_sifat" },
-  { "id": 210, "kanji": "軽い", "question": "Apa arti kata sifat ini?", "options": ["Berat", "Gelap", "Lambat", "Ringan"], "answer": 3, "kategori": "kata_sifat" },
-  { "id": 211, "kanji": "暑い", "question": "Apa arti kata sifat ini?", "options": ["Dingin (cuaca)", "Panas (cuaca)", "Basah", "Kering"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 212, "kanji": "寒い", "question": "Apa arti kata sifat ini?", "options": ["Hangat", "Dingin (cuaca)", "Gelap", "Lambat"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 213, "kanji": "熱い", "question": "Apa arti kata sifat ini?", "options": ["Panas (benda)", "Dingin (benda)", "Manis", "Pedas"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 214, "kanji": "冷たい", "question": "Apa arti kata sifat ini?", "options": ["Panas", "Dingin (sentuhan)", "Berat", "Rendah"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 215, "kanji": "速い", "question": "Apa arti kata sifat ini?", "options": ["Lambat", "Cepat", "Tinggi", "Panas"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 216, "kanji": "遅い", "question": "Apa arti kata sifat ini?", "options": ["Cepat", "Lambat", "Kering", "Dekat"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 217, "kanji": "優しい", "question": "Apa arti kata sifat ini?", "options": ["Baik hati", "Keras", "Berbahaya", "Cepat"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 218, "kanji": "厳しい", "question": "Apa arti kata sifat ini?", "options": ["Tegas/Keras", "Lemah", "Mahal", "Ramai"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 219, "kanji": "甘い", "question": "Apa arti kata sifat ini?", "options": ["Asin", "Pahit", "Tawar", "Manis"], "answer": 3, "kategori": "kata_sifat" },
+  { "id": 20, "kanji": "大きい", "question": "Apa arti kanji ini?", "options": ["Kecil", "Besar", "Luas", "Tinggi"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 21, "kanji": "小さい", "question": "Apa arti kanji ini?", "options": ["Kecil", "Sedikit", "Rendah", "Sempit"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 22, "kanji": "高い", "question": "Apa arti kanji ini?", "options": ["Murah", "Tinggi/Mahal", "Panas", "Dalam"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 23, "kanji": "安い", "question": "Apa arti kanji ini?", "options": ["Murah/Aman", "Mahal", "Dekat", "Sempit"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 24, "kanji": "新しい", "question": "Apa arti kanji ini?", "options": ["Lama", "Modern", "Baru", "Segar"], "answer": 2, "kategori": "kata_sifat" }
+  { "id": 25, "kanji": "古い", "question": "Apa arti kanji ini?", "options": ["Baru", "Kuno/Lama", "Muda", "Luas"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 26, "kanji": "長い", "question": "Apa arti kanji ini?", "options": ["Pendek", "Berat", "Panjang", "Tinggi"], "answer": 2, "kategori": "kata_sifat" }
+  { "id": 27, "kanji": "短い", "question": "Apa arti kanji ini?", "options": ["Panjang", "Ringkas", "Pendek", "Cepat"], "answer": 2, "kategori": "kata_sifat" }
+  { "id": 28, "kanji": "白い", "question": "Apa arti kanji ini?", "options": ["Biru", "Merah", "Hitam", "Putih"], "answer": 3, "kategori": "kata_sifat" }
+  { "id": 29, "kanji": "黒い", "question": "Apa arti kanji ini?", "options": ["Putih", "Gelap", "Hitam", "Merah"], "answer": 2, "kategori": "kata_sifat" }
 
-  { "id": 220, "kanji": "苦い", "question": "Apa arti kata sifat ini?", "options": ["Pahit", "Manis", "Asam", "Lembut"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 221, "kanji": "嬉しい", "question": "Apa arti kata sifat ini?", "options": ["Sedih", "Senang", "Marah", "Takut"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 222, "kanji": "悲しい", "question": "Apa arti kata sifat ini?", "options": ["Senang", "Lelah", "Takut", "Sedih"], "answer": 3, "kategori": "kata_sifat" },
-  { "id": 223, "kanji": "怖い", "question": "Apa arti kata sifat ini?", "options": ["Bahagia", "Menakutkan", "Lembut", "Aneh"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 224, "kanji": "痛い", "question": "Apa arti kata sifat ini?", "options": ["Sakit (rasa)", "Kotor", "Halus", "Sempit"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 225, "kanji": "危ない", "question": "Apa arti kata sifat ini?", "options": ["Aman", "Berbahaya", "Ringan", "Lampat"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 226, "kanji": "安全", "question": "Apa arti kata sifat ini?", "options": ["Aman", "Berbahaya", "Cepat", "Lembut"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 227, "kanji": "便利", "question": "Apa arti kata sifat ini?", "options": ["Tidak praktis", "Berguna/Praktis", "Murah", "Luas"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 228, "kanji": "不便", "question": "Apa arti kata sifat ini?", "options": ["Tidak praktis", "Praktis", "Indah", "Panas"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 229, "kanji": "静か", "question": "Apa arti kata sifat ini?", "options": ["Berisik", "Tenang", "Panas", "Lembut"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 210, "kanji": "明るい", "question": "Apa arti kanji ini?", "options": ["Terang", "Bersih", "Luas", "Gelap"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 211, "kanji": "暗い", "question": "Apa arti kanji ini?", "options": ["Panas", "Gelap", "Dalam", "Rendah"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 212, "kanji": "重い", "question": "Apa arti kanji ini?", "options": ["Ringan", "Berat", "Kuat", "Tebal"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 213, "kanji": "軽い", "question": "Apa arti kanji ini?", "options": ["Ringan", "Tinggi", "Kecil", "Pendek"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 214, "kanji": "強い", "question": "Apa arti kanji ini?", "options": ["Lemah", "Kuat", "Keras", "Tinggi"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 215, "kanji": "弱い", "question": "Apa arti kanji ini?", "options": ["Kuat", "Lemah", "Sempit", "Pahit"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 216, "kanji": "広い", "question": "Apa arti kanji ini?", "options": ["Sempit", "Pendek", "Luas", "Dekat"], "answer": 2, "kategori": "kata_sifat" }
+  { "id": 217, "kanji": "狭い", "question": "Apa arti kanji ini?", "options": ["Luas", "Jauh", "Sempit", "Dalam"], "answer": 2, "kategori": "kata_sifat" }
+  { "id": 218, "kanji": "柔らかい", "question": "Apa arti kanji ini?", "options": ["Lembut", "Keras", "Ringan", "Panas"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 219, "kanji": "硬い", "question": "Apa arti kanji ini?", "options": ["Lembut", "Keras", "Berat", "Tinggi"], "answer": 1, "kategori": "kata_sifat" }
 
-  { "id": 230, "kanji": "賑やか", "question": "Apa arti kata sifat ini?", "options": ["Ramai", "Sepi", "Keras", "Murah"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 231, "kanji": "簡単", "question": "Apa arti kata sifat ini?", "options": ["Sulit", "Rumit", "Mudah", "Pendek"], "answer": 2, "kategori": "kata_sifat" },
-  { "id": 232, "kanji": "大変", "question": "Apa arti kata sifat ini?", "options": ["Berat/Sulit", "Bahagia", "Ringan", "Luas"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 233, "kanji": "複雑", "question": "Apa arti kata sifat ini?", "options": ["Rumit", "Mudah", "Ringan", "Lama"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 234, "kanji": "元気", "question": "Apa arti kata sifat ini?", "options": ["Sakit", "Lelah", "Sehat/Enerjik", "Lemah"], "answer": 2, "kategori": "kata_sifat" },
-  { "id": 235, "kanji": "有名", "question": "Apa arti kata sifat ini?", "options": ["Terkenal", "Biasa", "Gelap", "Tinggi"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 236, "kanji": "丁寧", "question": "Apa arti kata sifat ini?", "options": ["Kasar", "Sopan", "Berbahaya", "Lambat"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 237, "kanji": "真面目", "question": "Apa arti kata sifat ini?", "options": ["Serius/Rajin", "Pemalas", "Mahal", "Cepat"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 238, "kanji": "自由", "question": "Apa arti kata sifat ini?", "options": ["Bebas", "Kaku", "Kotor", "Panas"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 239, "kanji": "必要", "question": "Apa arti kata sifat ini?", "options": ["Tidak penting", "Perlu", "Murah", "Berbahaya"], "answer": 1, "kategori": "kata_sifat" },
+  { "id": 220, "kanji": "甘い", "question": "Apa arti kanji ini?", "options": ["Pahit", "Masam", "Asin", "Manis"], "answer": 3, "kategori": "kata_sifat" }
+  { "id": 221, "kanji": "辛い", "question": "Apa arti kanji ini?", "options": ["Pedas", "Pahit", "Asin", "Panas"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 222, "kanji": "酸っぱい", "question": "Apa arti kanji ini?", "options": ["Pedas", "Masam", "Asin", "Pahit"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 223, "kanji": "苦い", "question": "Apa arti kanji ini?", "options": ["Pahit", "Masam", "Pedas", "Asin"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 224, "kanji": "塩辛い", "question": "Apa arti kanji ini?", "options": ["Asin", "Manis", "Pedas", "Pahit"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 225, "kanji": "薄い", "question": "Apa arti kanji ini?", "options": ["Tebal", "Tipis", "Keras", "Lembut"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 226, "kanji": "厚い", "question": "Apa arti kanji ini?", "options": ["Tebal", "Tipis", "Ringan", "Panjang"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 227, "kanji": "忙しい", "question": "Apa arti kanji ini?", "options": ["Sibuk", "Lambat", "Tenang", "Mudah"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 228, "kanji": "静か", "question": "Apa arti kanji ini?", "options": ["Tenang", "Bising", "Gelap", "Rendah"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 229, "kanji": "にぎやか", "question": "Apa arti kanji ini?", "options": ["Sepi", "Ramai/Bising", "Kosong", "Panas"], "answer": 1, "kategori": "kata_sifat" }
 
-  { "id": 240, "kanji": "面白い", "question": "Apa arti kata sifat ini?", "options": ["Membosankan", "Menarik", "Lemah", "Pahit"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 241, "kanji": "つまらない", "question": "Apa arti kata sifat ini?", "options": ["Menarik", "Membosankan", "Halus", "Lama"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 242, "kanji": "明るい", "question": "Apa arti kata sifat ini?", "options": ["Gelap", "Panas", "Cerah", "Murah"], "answer": 2, "kategori": "kata_sifat" },
-  { "id": 243, "kanji": "暗い", "question": "Apa arti kata sifat ini?", "options": ["Cerah", "Gelap", "Kotor", "Ringan"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 244, "kanji": "柔らかい", "question": "Apa arti kata sifat ini?", "options": ["Lembut", "Keras", "Berbahaya", "Basah"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 245, "kanji": "硬い", "question": "Apa arti kata sifat ini?", "options": ["Lembut", "Keras", "Lama", "Besar"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 246, "kanji": "正しい", "question": "Apa arti kata sifat ini?", "options": ["Salah", "Benar", "Mahal", "Kuat"], "answer": 1, "kategori": "kata_sifat" },
-  { "id": 247, "kanji": "間違っている", "question": "Apa arti kata sifat ini?", "options": ["Benar", "Indah", "Salah", "Cerah"], "answer": 2, "kategori": "kata_sifat" },
-  { "id": 248, "kanji": "豊か", "question": "Apa arti kata sifat ini?", "options": ["Kaya/Melimpah", "Miskin", "Sedikit", "Berbahaya"], "answer": 0, "kategori": "kata_sifat" },
-  { "id": 249, "kanji": "幸せ", "question": "Apa arti kata sifat ini?", "options": ["Sedih", "Bahagia", "Lelah", "Gelap"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 230, "kanji": "きれい", "question": "Apa arti kanji ini?", "options": ["Kotor", "Cantik/Bersih", "Gelap", "Tinggi"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 231, "kanji": "汚い", "question": "Apa arti kanji ini?", "options": ["Bersih", "Cantik", "Kotor", "Gelap"], "answer": 2, "kategori": "kata_sifat" }
+  { "id": 232, "kanji": "有名", "question": "Apa arti kanji ini?", "options": ["Tidak dikenal", "Terkenal", "Penting", "Luas"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 233, "kanji": "元気", "question": "Apa arti kanji ini?", "options": ["Sakit", "Lemah", "Berenergi/Sehat", "Kotor"], "answer": 2, "kategori": "kata_sifat" }
+  { "id": 234, "kanji": "便利", "question": "Apa arti kanji ini?", "options": ["Praktis", "Cepat", "Tidak Praktis", "Mudah"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 235, "kanji": "不便", "question": "Apa arti kanji ini?", "options": ["Praktis", "Tidak Praktis", "Murah", "Panas"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 236, "kanji": "大切", "question": "Apa arti kanji ini?", "options": ["Berharga/Penting", "Murah", "Besar", "Berat"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 237, "kanji": "有用", "question": "Apa arti kanji ini?", "options": ["Tidak berguna", "Berguna", "Ringan", "Panas"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 238, "kanji": "無名", "question": "Apa arti kanji ini?", "options": ["Terkenal", "Tidak dikenal", "Gelap", "Kecil"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 239, "kanji": "親切", "question": "Apa arti kanji ini?", "options": ["Kasar", "Baik hati", "Keras", "Pendek"], "answer": 1, "kategori": "kata_sifat" }
+
+  { "id": 240, "kanji": "危険", "question": "Apa arti kanji ini?", "options": ["Aman", "Berbahaya", "Cepat", "Tinggi"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 241, "kanji": "安全", "question": "Apa arti kanji ini?", "options": ["Berbahaya", "Aman", "Murah", "Kecil"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 242, "kanji": "簡単", "question": "Apa arti kanji ini?", "options": ["Sederhana/Mudah", "Sulit", "Ringan", "Dekat"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 243, "kanji": "複雑", "question": "Apa arti kanji ini?", "options": ["Rumit", "Sederhana", "Pahit", "Cepat"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 244, "kanji": "真面目", "question": "Apa arti kanji ini?", "options": ["Serius", "Lemah", "Bercanda", "Ringan"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 245, "kanji": "面白い", "question": "Apa arti kanji ini?", "options": ["Membosankan", "Menarik/Lucu", "Gelap", "Dekat"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 246, "kanji": "つまらない", "question": "Apa arti kanji ini?", "options": ["Membosankan", "Menarik", "Lucu", "Pahit"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 247, "kanji": "正しい", "question": "Apa arti kanji ini?", "options": ["Benar", "Salah", "Gelap", "Kosong"], "answer": 0, "kategori": "kata_sifat" }
+  { "id": 248, "kanji": "間違い", "question": "Apa arti kanji ini?", "options": ["Benar", "Kesalahan", "Luas", "Kecil"], "answer": 1, "kategori": "kata_sifat" }
+  { "id": 249, "kanji": "遠い", "question": "Apa arti kanji ini?", "options": ["Dekat", "Jauh", "Panjang", "Luas"], "answer": 1, "kategori": "kata_sifat" }
   
   { "id": 30, "kanji": "山", "question": "Apa arti kanji ini?", "options": ["Sungai", "Gunung", "Sawah", "Laut"], "answer": 1, "kategori": "kata_benda" },
   { "id": 32, "kanji": "川", "question": "Apa arti kanji ini?", "options": ["Gunung", "Jalan", "Sungai", "Langit"], "answer": 2, "kategori": "kata_benda" },
