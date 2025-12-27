@@ -1,0 +1,12 @@
+[
+  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "目", "answer": 0, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
+  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "耳", "answer": 1, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
+  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "口", "answer": 2, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
+  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "鼻", "answer": 3, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
+  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "手", "answer": 0, "options": ["Tangan", "Kaki", "Kepala", "Leher"]},
+  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "机", "answer": 0, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
+  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "椅子", "answer": 1, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
+  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "鉛筆", "answer": 2, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
+  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "本", "answer": 3, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
+  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "消しゴム", "answer": 0, "options": ["Penghapus", "Penggaris", "Kertas", "Map"]}
+]
