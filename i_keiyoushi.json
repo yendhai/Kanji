@@ -1,0 +1,12 @@
+[
+  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "優しい", "answer": 0, "options": ["Baik Hati", "Galak", "Pintar", "Lucu"]},
+  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "面白い", "answer": 1, "options": ["Baik Hati", "Menarik/Lucu", "Pintar", "Sibuk"]},
+  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "忙しい", "answer": 2, "options": ["Baik Hati", "Galak", "Sibuk", "Sakit"]},
+  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "頭がいい", "answer": 3, "options": ["Jelek", "Galak", "Muda", "Pintar"]},
+  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "可愛い", "answer": 0, "options": ["Imut", "Besar", "Dingin", "Panas"]},
+  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "熱い", "answer": 0, "options": ["Panas", "Dingin", "Tinggi", "Rendah"]},
+  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "寒い", "answer": 1, "options": ["Panas", "Dingin(udara)", "Tinggi", "Rendah"]},
+  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "高い", "answer": 2, "options": ["Panas", "Dingin", "Tinggi/Mahal", "Rendah"]},
+  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "安い", "answer": 3, "options": ["Panas", "Dingin", "Tinggi", "Murah"]},
+  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "新しい", "answer": 0, "options": ["Baru", "Lama", "Besar", "Kecil"]}
+]
