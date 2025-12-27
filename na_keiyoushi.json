@@ -1,0 +1,12 @@
+[
+  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "綺麗", "answer": 0, "options": ["Cantik/Bersih", "Ramai", "Tenang", "Berisik"]},
+  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "有名", "answer": 1, "options": ["Cantik", "Terkenal", "Ramai", "Tenang"]},
+  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "静か", "answer": 2, "options": ["Cantik", "Terkenal", "Tenang", "Berisik"]},
+  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "賑やか", "answer": 3, "options": ["Cantik", "Terkenal", "Tenang", "Ramai"]},
+  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "暇", "answer": 0, "options": ["Senggang", "Sibuk", "Pintar", "Bodoh"]},
+  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "好き", "answer": 0, "options": ["Suka", "Benci", "Senang", "Sedih"]},
+  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "嫌い", "answer": 1, "options": ["Suka", "Benci", "Senang", "Sedih"]},
+  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "大切", "answer": 2, "options": ["Suka", "Benci", "Berharga", "Sedih"]},
+  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "大変", "answer": 3, "options": ["Suka", "Benci", "Berharga", "Berat/Sulit"]},
+  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "残念", "answer": 0, "options": ["Sayang sekali", "Hebat", "Aman", "Bahaya"]}
+]
