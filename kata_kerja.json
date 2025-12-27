@@ -1,0 +1,12 @@
+[
+  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "食べる", "answer": 0, "options": ["Makan", "Minum", "Tidur", "Mandi"]},
+  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "飲む", "answer": 1, "options": ["Makan", "Minum", "Tidur", "Mandi"]},
+  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "寝る", "answer": 2, "options": ["Makan", "Minum", "Tidur", "Mandi"]},
+  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "起きる", "answer": 0, "options": ["Bangun", "Pergi", "Datang", "Pulang"]},
+  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "洗う", "answer": 1, "options": ["Bangun", "Mencuci", "Datang", "Pulang"]},
+  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "行く", "answer": 0, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
+  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "来る", "answer": 1, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
+  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "帰る", "answer": 2, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
+  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "走る", "answer": 3, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
+  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "歩く", "answer": 0, "options": ["Berjalan", "Berenang", "Terbang", "Duduk"]}
+]
