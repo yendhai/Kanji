@@ -1,12 +1,122 @@
 [
-  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "優しい", "answer": 0, "options": ["Baik Hati", "Galak", "Pintar", "Lucu"]},
-  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "面白い", "answer": 1, "options": ["Baik Hati", "Menarik/Lucu", "Pintar", "Sibuk"]},
-  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "忙しい", "answer": 2, "options": ["Baik Hati", "Galak", "Sibuk", "Sakit"]},
-  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "頭がいい", "answer": 3, "options": ["Jelek", "Galak", "Muda", "Pintar"]},
-  {"kategori": "i_keiyoushi", "tema": "Sifat Manusia", "kanji": "可愛い", "answer": 0, "options": ["Imut", "Besar", "Dingin", "Panas"]},
-  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "熱い", "answer": 0, "options": ["Panas", "Dingin", "Tinggi", "Rendah"]},
-  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "寒い", "answer": 1, "options": ["Panas", "Dingin(udara)", "Tinggi", "Rendah"]},
-  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "高い", "answer": 2, "options": ["Panas", "Dingin", "Tinggi/Mahal", "Rendah"]},
-  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "安い", "answer": 3, "options": ["Panas", "Dingin", "Tinggi", "Murah"]},
-  {"kategori": "i_keiyoushi", "tema": "Kondisi", "kanji": "新しい", "answer": 0, "options": ["Baru", "Lama", "Besar", "Kecil"]}
+  {
+    "kanji": "楽しい",
+    "hiragana": "たのしい",
+    "tema": "Perasaan",
+    "answer": 0,
+    "options": [
+      "たのしい|Menyenangkan",
+      "かなしい|Sedih",
+      "うれしい|Senang",
+      "さびしい|Kesepian"
+    ]
+  },
+  {
+    "kanji": "悲しい",
+    "hiragana": "かなしい",
+    "tema": "Perasaan",
+    "answer": 1,
+    "options": [
+      "いたい|Sakit",
+      "かなしい|Sedih",
+      "おもしろい|Menarik",
+      "つまらない|Membosankan"
+    ]
+  },
+  {
+    "kanji": "暑い",
+    "hiragana": "あつい",
+    "tema": "Perasaan",
+    "answer": 2,
+    "options": [
+      "さむい|Dingin (cuaca)",
+      "つめたい|Dingin (benda)",
+      "あつい|Panas (cuaca)",
+      "あたたかい|Hangat"
+    ]
+  },
+  {
+    "kanji": "痛い",
+    "hiragana": "いたい",
+    "tema": "Perasaan",
+    "answer": 0,
+    "options": [
+      "いたい|Sakit",
+      "かゆい|Gatal",
+      "ねむい|Mengantuk",
+      "だるい|Lesu"
+    ]
+  },
+  {
+    "kanji": "寒い",
+    "hiragana": "さむい",
+    "tema": "Perasaan",
+    "answer": 3,
+    "options": [
+      "くらい|Gelap",
+      "あかるい|Terang",
+      "あつい|Panas",
+      "さむい|Dingin"
+    ]
+  },
+  {
+    "kanji": "大きい",
+    "hiragana": "おおきい",
+    "tema": "Ukuran",
+    "answer": 0,
+    "options": [
+      "おおきい|Besar",
+      "ちいさい|Kecil",
+      "ながい|Panjang",
+      "みじかい|Pendek"
+    ]
+  },
+  {
+    "kanji": "小さい",
+    "hiragana": "ちいさい",
+    "tema": "Ukuran",
+    "answer": 1,
+    "options": [
+      "ひろい|Luas",
+      "ちいさい|Kecil",
+      "おもい|Berat",
+      "かるい|Ringan"
+    ]
+  },
+  {
+    "kanji": "高い",
+    "hiragana": "たかい",
+    "tema": "Ukuran",
+    "answer": 2,
+    "options": [
+      "ひくい|Rendah",
+      "やすい|Murah",
+      "たかい|Tinggi/Mahal",
+      "とおオい|Jauh"
+    ]
+  },
+  {
+    "kanji": "長い",
+    "hiragana": "ながい",
+    "tema": "Ukuran",
+    "answer": 3,
+    "options": [
+      "みじかい|Pendek",
+      "ふとい|Gemuk",
+      "ほそい|Kurus",
+      "ながい|Panjang"
+    ]
+  },
+  {
+    "kanji": "広い",
+    "hiragana": "ひろい",
+    "tema": "Ukuran",
+    "answer": 0,
+    "options": [
+      "ひろい|Luas/Lebar",
+      "せまい|Sempit",
+      "ちかい|Dekat",
+      "とおい|Jauh"
+    ]
+  }
 ]
