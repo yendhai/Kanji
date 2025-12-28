@@ -1,0 +1,122 @@
+[
+  {
+    "kanji": "そして",
+    "hiragana": "そして",
+    "tema": "Urutan",
+    "answer": 0,
+    "options": [
+      "そして|Lalu/Dan",
+      "それから|Setelah itu",
+      "それに|Lagipula",
+      "それで|Jadi"
+    ]
+  },
+  {
+    "kanji": "だから",
+    "hiragana": "だから",
+    "tema": "Urutan",
+    "answer": 1,
+    "options": [
+      "でも|Tapi",
+      "だから|Oleh karena itu",
+      "しかし|Tetapi",
+      "けど|Walaupun"
+    ]
+  },
+  {
+    "kanji": "それから",
+    "hiragana": "それから",
+    "tema": "Urutan",
+    "answer": 2,
+    "options": [
+      "まず|Pertama-tama",
+      "つぎに|Selanjutnya",
+      "それから|Kemudian/Setelah itu",
+      "さいごに|Terakhir"
+    ]
+  },
+  {
+    "kanji": "すると",
+    "hiragana": "すると",
+    "tema": "Urutan",
+    "answer": 3,
+    "options": [
+      "じゃあ|Kalau begitu",
+      "では|Baiklah",
+      "さあ|Ayo",
+      "すると|Lantas/Lalu"
+    ]
+  },
+  {
+    "kanji": "つまり",
+    "hiragana": "つまり",
+    "tema": "Urutan",
+    "answer": 0,
+    "options": [
+      "つまり|Singkatnya/Yaitu",
+      "たとえば|Contohnya",
+      "なぜなら|Alasannya",
+      "だって|Habisnya"
+    ]
+  },
+  {
+    "kanji": "でも",
+    "hiragana": "でも",
+    "tema": "Pertentangan",
+    "answer": 0,
+    "options": [
+      "でも|Tapi",
+      "また|Dan lagi",
+      "および|Serta",
+      "あるいは|Atau"
+    ]
+  },
+  {
+    "kanji": "しかし",
+    "hiragana": "しかし",
+    "tema": "Pertentangan",
+    "answer": 1,
+    "options": [
+      "だから|Maka",
+      "しかし|Akan tetapi",
+      "したがって|Oleh sebab itu",
+      "なお|Selanjutnya"
+    ]
+  },
+  {
+    "kanji": "または",
+    "hiragana": "または",
+    "tema": "Pertentangan",
+    "answer": 2,
+    "options": [
+      "かつ|Dan juga",
+      "しかも|Apalagi",
+      "または|Atau",
+      "もしくは|Atau (formal)"
+    ]
+  },
+  {
+    "kanji": "それとも",
+    "hiragana": "それとも",
+    "tema": "Pertentangan",
+    "answer": 3,
+    "options": [
+      "どちら|Yang mana",
+      "どっち|Yang mana (kasual)",
+      "あるいは|Atau mungkin",
+      "それとも|Atau (pilihan)"
+    ]
+  },
+  {
+    "kanji": "ところで",
+    "hiragana": "ところで",
+    "tema": "Pertentangan",
+    "answer": 0,
+    "options": [
+      "ところで|Ngomong-ngomong",
+      "さて|Baiklah (ganti topik)",
+      "そういえば|Kalau dipikir-pikir",
+      "ちなみに|Sebagai tambahan"
+    ]
+  }
+]
