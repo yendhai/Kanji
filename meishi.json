@@ -1,12 +1,123 @@
 [
-  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "目", "answer": 0, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
-  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "耳", "answer": 1, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
-  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "口", "answer": 2, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
-  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "鼻", "answer": 3, "options": ["Mata", "Telinga", "Mulut", "Hidung"]},
-  {"kategori": "meishi", "tema": "Anggota Tubuh", "kanji": "手", "answer": 0, "options": ["Tangan", "Kaki", "Kepala", "Leher"]},
-  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "机", "answer": 0, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
-  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "椅子", "answer": 1, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
-  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "鉛筆", "answer": 2, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
-  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "本", "answer": 3, "options": ["Meja", "Kursi", "Pensil", "Buku"]},
-  {"kategori": "meishi", "tema": "Peralatan Kantor", "kanji": "消しゴム", "answer": 0, "options": ["Penghapus", "Penggaris", "Kertas", "Map"]}
+  {
+    "kanji": "今日",
+    "hiragana": "きょう",
+    "tema": "Waktu",
+    "answer": 0,
+    "options": [
+      "きょう|Hari ini",
+      "あした|Besok",
+      "きのう|Kemarin",
+      "あさって|Lusa"
+    ]
+  },
+  {
+    "kanji": "明日",
+    "hiragana": "あした",
+    "tema": "Waktu",
+    "answer": 1,
+    "options": [
+      "きょう|Hari ini",
+      "あした|Besok",
+      "こんしゅう|Minggu ini",
+      "らいしゅう|Minggu depan"
+    ]
+  },
+  {
+    "kanji": "毎日",
+    "hiragana": "まいにち",
+    "tema": "Waktu",
+    "answer": 2,
+    "options": [
+      "ときどき|Kadang-kadang",
+      "いつ|Kapan",
+      "まいにち|Setiap hari",
+      "いつも|Selalu"
+    ]
+  },
+  {
+    "kanji": "今",
+    "hiragana": "いま",
+    "tema": "Waktu",
+    "answer": 3,
+    "options": [
+      "あとで|Nanti",
+      "さっき|Tadi",
+      "むかし|Dulu",
+      "いま|Sekarang"
+    ]
+  },
+  {
+    "kanji": "時間",
+    "hiragana": "じかん",
+    "tema": "Waktu",
+    "answer": 0,
+    "options": [
+      "じかん|Waktu",
+      "とけい|Jam (benda)",
+      "ふん|Menit",
+      "びょう|Detik"
+    ]
+  },
+  {
+    "kanji": "学校",
+    "hiragana": "がっこう",
+    "tema": "Tempat",
+    "answer": 0,
+    "options": [
+      "がっこう|Sekolah",
+      "きょうしつ|Kelas",
+      "としょかん|Perpus",
+      "しょくどう|Kantin"
+    ]
+  },
+  {
+    "kanji": "部屋",
+    "hiragana": "へや",
+    "tema": "Tempat",
+    "answer": 1,
+    "options": [
+      "いえ|Rumah",
+      "へや|Kamar",
+      "にわ|Halaman",
+      "だいどころ|Dapur"
+    ]
+  },
+  {
+    "kanji": "トイレ",
+    "hiragana": "といれ",
+    "tema": "Tempat",
+    "answer": 2,
+    "options": [
+      "おふろ|Kamar mandi",
+      "げんかん|Pintu masuk",
+      "といれ|Toilet",
+      "かいだん|Tangga"
+    ]
+  },
+  {
+    "kanji": "日本",
+    "hiragana": "にほん",
+    "tema": "Tempat",
+    "answer": 3,
+    "options": [
+      "インドネシア|Indonesia",
+      "アメリカ|Amerika",
+      "ちゅうごく|China",
+      "にほん|Jepang"
+    ]
+  },
+  {
+    "kanji": "家",
+    "hiragana": "いえ",
+    "tema": "Tempat",
+    "answer": 0,
+    "options": [
+      "いえ|Rumah",
+      "アパート|Apartemen",
+      "マンション|Mansion",
+      "ホテル|Hotel"
+    ]
+  }
 ]
+
