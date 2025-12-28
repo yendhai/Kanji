@@ -1,0 +1,122 @@
+[
+  {
+    "kanji": "いつも",
+    "hiragana": "いつも",
+    "tema": "Frekuensi",
+    "answer": 0,
+    "options": [
+      "いつも|Selalu",
+      "よく|Sering",
+      "ときどき|Kadang-kadang",
+      "ぜんぜん|Sama sekali"
+    ]
+  },
+  {
+    "kanji": "多分",
+    "hiragana": "たぶん",
+    "tema": "Frekuensi",
+    "answer": 1,
+    "options": [
+      "きっと|Pasti",
+      "たぶん|Mungkin",
+      "もち論|Tentu saja",
+      "ぜったい|Mutlak"
+    ]
+  },
+  {
+    "kanji": "よく",
+    "hiragana": "よく",
+    "tema": "Frekuensi",
+    "answer": 2,
+    "options": [
+      "あまり|Jarang",
+      "めったに|Hampir tidak",
+      "よく|Sering",
+      "また|Lagi"
+    ]
+  },
+  {
+    "kanji": "時々",
+    "hiragana": "ときどき",
+    "tema": "Frekuensi",
+    "answer": 3,
+    "options": [
+      "まいあさ|Setiap pagi",
+      "ずっと|Terus menerus",
+      "そろそろ|Sebentar lagi",
+      "ときどき|Kadang-kadang"
+    ]
+  },
+  {
+    "kanji": "全然",
+    "hiragana": "ぜんぜん",
+    "tema": "Frekuensi",
+    "answer": 0,
+    "options": [
+      "ぜんぜん|Sama sekali (tidak)",
+      "だいたい|Sebagian besar",
+      "すこし|Sedikit",
+      "かなり|Lumayan"
+    ]
+  },
+  {
+    "kanji": "とても",
+    "hiragana": "とても",
+    "tema": "Tingkatan",
+    "answer": 0,
+    "options": [
+      "とても|Sangat",
+      "まあまあ|Biasa saja",
+      "もっと|Lebih",
+      "いちばん|Paling"
+    ]
+  },
+  {
+    "kanji": "もっと",
+    "hiragana": "もっと",
+    "tema": "Tingkatan",
+    "answer": 1,
+    "options": [
+      "たくさん|Banyak",
+      "もっと|Lebih (lagi)",
+      "ちょうど|Pas",
+      "だけ|Hanya"
+    ]
+  },
+  {
+    "kanji": "少し",
+    "hiragana": "すこし",
+    "tema": "Tingkatan",
+    "answer": 2,
+    "options": [
+      "いっぱい|Penuh",
+      "じゅうぶん|Cukup",
+      "すこし|Sedikit",
+      "はんぶん|Setengah"
+    ]
+  },
+  {
+    "kanji": "沢山",
+    "hiragana": "たくさん",
+    "tema": "Tingkatan",
+    "answer": 3,
+    "options": [
+      "すくない|Sedikit (benda)",
+      "ほど|Kira-kira",
+      "ぐらい|Sekitar",
+      "たくさん|Banyak"
+    ]
+  },
+  {
+    "kanji": "丁度",
+    "hiragana": "ちょうど",
+    "tema": "Tingkatan",
+    "answer": 0,
+    "options": [
+      "ちょうど|Tepat/Pas",
+      "ちょっと|Sebentar/Sedikit",
+      "ほとんど|Hampir",
+      "すべて|Semua"
+    ]
+  }
+]
