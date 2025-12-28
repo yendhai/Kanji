@@ -1,12 +1,123 @@
 [
-  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "綺麗", "answer": 0, "options": ["Cantik/Bersih", "Ramai", "Tenang", "Berisik"]},
-  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "有名", "answer": 1, "options": ["Cantik", "Terkenal", "Ramai", "Tenang"]},
-  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "静か", "answer": 2, "options": ["Cantik", "Terkenal", "Tenang", "Berisik"]},
-  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "賑やか", "answer": 3, "options": ["Cantik", "Terkenal", "Tenang", "Ramai"]},
-  {"kategori": "na_keiyoushi", "tema": "Kesan", "kanji": "暇", "answer": 0, "options": ["Senggang", "Sibuk", "Pintar", "Bodoh"]},
-  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "好き", "answer": 0, "options": ["Suka", "Benci", "Senang", "Sedih"]},
-  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "嫌い", "answer": 1, "options": ["Suka", "Benci", "Senang", "Sedih"]},
-  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "大切", "answer": 2, "options": ["Suka", "Benci", "Berharga", "Sedih"]},
-  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "大変", "answer": 3, "options": ["Suka", "Benci", "Berharga", "Berat/Sulit"]},
-  {"kategori": "na_keiyoushi", "tema": "Perasaan", "kanji": "残念", "answer": 0, "options": ["Sayang sekali", "Hebat", "Aman", "Bahaya"]}
+  {
+    "kanji": "元気",
+    "hiragana": "げんき",
+    "tema": "Kepribadian",
+    "answer": 0,
+    "options": [
+      "げんき|Sehat/Semangat",
+      "びょうき|Sakit",
+      "ゆうめい|Terkenal",
+      "ひま|Senggang"
+    ]
+  },
+  {
+    "kanji": "親切",
+    "hiragana": "しんせつ",
+    "tema": "Kepribadian",
+    "answer": 1,
+    "options": [
+      "いじわる|Jahat",
+      "しんせつ|Ramah/Baik hati",
+      "まじめ|Rajin/Serius",
+      "ふまじめ|Tidak serius"
+    ]
+  },
+  {
+    "kanji": "真面目",
+    "hiragana": "まじめ",
+    "tema": "Kepribadian",
+    "answer": 2,
+    "options": [
+      "しずか|Tenang",
+      "にぎやか|Ramai",
+      "まじめ|Serius/Sungguh2",
+      "けち|Pelit"
+    ]
+  },
+  {
+    "kanji": "大変",
+    "hiragana": "たいへん",
+    "tema": "Kepribadian",
+    "answer": 3,
+    "options": [
+      "らく|Mudah/Nyaman",
+      "かんたん|Gampang",
+      "ふくざつ|Rumit",
+      "たいへん|Berat/Susah"
+    ]
+  },
+  {
+    "kanji": "大丈夫",
+    "hiragana": "だいじょうぶ",
+    "tema": "Kepribadian",
+    "answer": 0,
+    "options": [
+      "だいじょうぶ|Tidak apa-apa",
+      "だめ|Tidak boleh",
+      "むり|Mustahil",
+      "むだ|Sia-sia"
+    ]
+  },
+  {
+    "kanji": "好き",
+    "hiragana": "すき",
+    "tema": "Penilaian",
+    "answer": 0,
+    "options": [
+      "すき|Suka",
+      "きらい|Benci",
+      "じょうず|Pintar",
+      "へた|Bodoh"
+    ]
+  },
+  {
+    "kanji": "嫌い",
+    "hiragana": "きらい",
+    "tema": "Penilaian",
+    "answer": 1,
+    "options": [
+      "すき|Suka",
+      "きらい|Benci/Tidak suka",
+      "とくい|Ahli",
+      "にがて|Lemah"
+    ]
+  },
+  {
+    "kanji": "上手",
+    "hiragana": "じょうず",
+    "tema": "Penilaian",
+    "answer": 2,
+    "options": [
+      "へた|Bodoh",
+      "わるい|Jelek",
+      "じょうず|Mahir/Pintar",
+      "きれい|Cantik"
+    ]
+  },
+  {
+    "kanji": "下手",
+    "hiragana": "へた",
+    "tema": "Penilaian",
+    "answer": 3,
+    "options": [
+      "うまい|Enak/Pintar",
+      "すてき|Bagus",
+      "りっぱ|Megah",
+      "へた|Kurang mahir"
+    ]
+  },
+  {
+    "kanji": "簡単",
+    "hiragana": "かんたん",
+    "tema": "Penilaian",
+    "answer": 0,
+    "options": [
+      "かんたん|Mudah/Sederhana",
+      "むずかしい|Sulit",
+      "たいせつ|Penting",
+      "しんぱい|Khawatir"
+    ]
+  }
 ]
+
