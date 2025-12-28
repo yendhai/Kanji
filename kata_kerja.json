@@ -1,25 +1,249 @@
+
 [
-  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "食べる", "answer": 0, "options": ["Makan", "Minum", "Tidur", "Mandi"]},
-  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "飲む", "answer": 1, "options": ["Makan", "Minum", "Tidur", "Mandi"]},
-  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "寝る", "answer": 2, "options": ["Makan", "Minum", "Tidur", "Mandi"]},
-  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "起きる", "answer": 0, "options": ["Bangun", "Pergi", "Datang", "Pulang"]},
-  {"kategori": "kata_kerja", "tema": "Aktivitas Harian", "kanji": "洗う", "answer": 1, "options": ["Bangun", "Mencuci", "Datang", "Pulang"]},
-  
-  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "行く", "answer": 0, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
-  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "来る", "answer": 1, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
-  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "帰る", "answer": 2, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
-  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "走る", "answer": 3, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
-  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "歩く", "answer": 0, "options": ["Berjalan", "Berenang", "Terbang", "Duduk"]},
-  
-  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "注文する", "answer": 0, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
-  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "料理する", "answer": 1, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
-  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "支払う", "answer": 2, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
-  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "提供する", "answer": 3, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
-  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "食べる", "answer": 0, "options": ["Makan", "Minum", "Mengunyah", "Mencicipi"]},
-  
-  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "見る", "answer": 0, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
-  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "餌をやる", "answer": 1, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
-  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "写真を撮る", "answer": 2, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
-  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "触る", "answer": 3, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
-  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "歩く", "answer": 0, "options": ["Berjalan", "Mendaki", "Berlari", "Berdiri"]}
+  {
+    "kanji": "食べる",
+    "hiragana": "たべる",
+    "tema": "Sehari-hari",
+    "answer": 0,
+    "options": [
+      "たべる|Makan",
+      "のむ|Minum",
+      "みる|Melihat",
+      "ねる|Tidur"
+    ]
+  },
+  {
+    "kanji": "飲む",
+    "hiragana": "のむ",
+    "tema": "Sehari-hari",
+    "answer": 1,
+    "options": [
+      "たべる|Makan",
+      "のむ|Minum",
+      "きく|Mendengar",
+      "はなす|Berbicara"
+    ]
+  },
+  {
+    "kanji": "寝る",
+    "hiragana": "ねる",
+    "tema": "Sehari-hari",
+    "answer": 2,
+    "options": [
+      "おきる|Bangun",
+      "あるく|Berjalan",
+      "ねる|Tidur",
+      "やすむ|Istirahat"
+    ]
+  },
+  {
+    "kanji": "起きる",
+    "hiragana": "おきる",
+    "tema": "Sehari-hari",
+    "answer": 0,
+    "options": [
+      "おきる|Bangun",
+      "ねる|Tidur",
+      "たつ|Berdiri",
+      "すわる|Duduk"
+    ]
+  },
+  {
+    "kanji": "見る",
+    "hiragana": "みる",
+    "tema": "Sehari-hari",
+    "answer": 3,
+    "options": [
+      "きく|Mendengar",
+      "かく|Menulis",
+      "よむ|Membaca",
+      "みる|Melihat"
+    ]
+  },
+
+
+  {
+    "kanji": "勉強する",
+    "hiragana": "べんきょうする",
+    "tema": "Sekolah",
+    "answer": 0,
+    "options": [
+      "べんきょうする|Belajar",
+      "おしえる|Mengajar",
+      "ならう|Belajar (dari orang)",
+      "れんしゅうする|Berlatih"
+    ]
+  },
+  {
+    "kanji": "書く",
+    "hiragana": "かく",
+    "tema": "Sekolah",
+    "answer": 1,
+    "options": [
+      "よむ|Membaca",
+      "かく|Menulis",
+      "きく|Mendengar",
+      "はなす|Berbicara"
+    ]
+  },
+  {
+    "kanji": "読む",
+    "hiragana": "よむ",
+    "tema": "Sekolah",
+    "answer": 2,
+    "options": [
+      "かく|Menulis",
+      "おぼえる|Mengingat",
+      "よむ|Membaca",
+      "わかる|Mengerti"
+    ]
+  },
+  {
+    "kanji": "教える",
+    "hiragana": "おしえる",
+    "tema": "Sekolah",
+    "answer": 0,
+    "options": [
+      "おしえる|Mengajar",
+      "ならう|Belajar",
+      "しつもんする|Bertanya",
+      "こたえる|Menjawab"
+    ]
+  },
+  {
+    "kanji": "覚える",
+    "hiragana": "おぼえる",
+    "tema": "Sekolah",
+    "answer": 3,
+    "options": [
+      "わすれる|Lupa",
+      "かんがえる|Berpikir",
+      "しる|Mengetahui",
+      "おぼえる|Mengingat"
+    ]
+  },
+
+
+  {
+    "kanji": "行く",
+    "hiragana": "いく",
+    "tema": "Pergerakan",
+    "answer": 1,
+    "options": [
+      "くる|Datang",
+      "いく|Pergi",
+      "かえる|Pulang",
+      "でかける|Keluar"
+    ]
+  },
+  {
+    "kanji": "来る",
+    "hiragana": "くる",
+    "tema": "Pergerakan",
+    "answer": 0,
+    "options": [
+      "くる|Datang",
+      "いく|Pergi",
+      "はしる|Berlari",
+      "とまる|Berhenti"
+    ]
+  },
+  {
+    "kanji": "帰る",
+    "hiragana": "かえる",
+    "tema": "Pergerakan",
+    "answer": 2,
+    "options": [
+      "はいる|Masuk",
+      "でる|Keluar",
+      "かえる|Pulang",
+      "のる|Naik (kendaraan)"
+    ]
+  },
+  {
+    "kanji": "歩く",
+    "hiragana": "あるく",
+    "tema": "Pergerakan",
+    "answer": 3,
+    "options": [
+      "はしる|Berlari",
+      "とぶ|Terbang",
+      "およぐ|Berenang",
+      "あるく|Berjalan"
+    ]
+  },
+  {
+    "kanji": "走る",
+    "hiragana": "はしる",
+    "tema": "Pergerakan",
+    "answer": 0,
+    "options": [
+      "はしる|Berlari",
+      "あるく|Berjalan",
+      "のぼる|Mendaki",
+      "おりる|Turun"
+    ]
+  },
+
+
+  {
+    "kanji": "洗う",
+    "hiragana": "あらう",
+    "tema": "Pekerjaan Rumah",
+    "answer": 1,
+    "options": [
+      "みがく|Menggosok",
+      "あらう|Mencuci",
+      "ふく|Mengelap",
+      "ほす|Menjemur"
+    ]
+  },
+  {
+    "kanji": "掃除する",
+    "hiragana": "そうじする",
+    "tema": "Pekerjaan Rumah",
+    "answer": 0,
+    "options": [
+      "そうじする|Membersihkan",
+      "りょうりする|Memasak",
+      "せんたくする|Mencuci baju",
+      "かいものする|Belanja"
+    ]
+  },
+  {
+    "kanji": "料理する",
+    "hiragana": "りょうりする",
+    "tema": "Pekerjaan Rumah",
+    "answer": 2,
+    "options": [
+      "たべる|Makan",
+      "かう|Membeli",
+      "りょうりする|Memasak",
+      "きる|Memotong"
+    ]
+  },
+  {
+    "kanji": "手伝う",
+    "hiragana": "てつだう",
+    "tema": "Pekerjaan Rumah",
+    "answer": 3,
+    "options": [
+      "つかう|Menggunakan",
+      "つく|Tiba",
+      "なおす|Memperbaiki",
+      "てつだう|Membantu"
+    ]
+  },
+  {
+    "kanji": "使う",
+    "hiragana": "つかう",
+    "tema": "Pekerjaan Rumah",
+    "answer": 1,
+    "options": [
+      "つくる|Membuat",
+      "つかう|Menggunakan",
+      "さがす|Mencari",
+      "あつめる|Mengumpulkan"
+    ]
+  }
 ]
