@@ -9,4 +9,16 @@
   {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "帰る", "answer": 2, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
   {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "走る", "answer": 3, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
   {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "歩く", "answer": 0, "options": ["Berjalan", "Berenang", "Terbang", "Duduk"]}
+  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "注文する", "answer": 0, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
+  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "料理する", "answer": 1, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
+  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "支払う", "answer": 2, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
+  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "提供する", "answer": 3, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
+  {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "食べる", "answer": 0, "options": ["Makan", "Minum", "Mengunyah", "Mencicipi"]},
+  
+  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "見る", "answer": 0, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
+  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "餌をやる", "answer": 1, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
+  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "写真を撮る", "answer": 2, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
+  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "触る", "answer": 3, "options": ["Melihat", "Memberi makan", "Memotret", "Menyentuh"]},
+  {"kategori": "kata_kerja", "tema": "Kebun Binatang", "kanji": "歩く", "answer": 0, "options": ["Berjalan", "Mendaki", "Berlari", "Berdiri"]}
+
 ]
