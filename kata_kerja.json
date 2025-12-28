@@ -8,7 +8,7 @@
   {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "来る", "answer": 1, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
   {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "帰る", "answer": 2, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
   {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "走る", "answer": 3, "options": ["Pergi", "Datang", "Pulang", "Lari"]},
-  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "歩く", "answer": 0, "options": ["Berjalan", "Berenang", "Terbang", "Duduk"]}
+  {"kategori": "kata_kerja", "tema": "Pergerakan", "kanji": "歩く", "answer": 0, "options": ["Berjalan", "Berenang", "Terbang", "Duduk"]},
   {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "注文する", "answer": 0, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
   {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "料理する", "answer": 1, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
   {"kategori": "kata_kerja", "tema": "Restoran", "kanji": "支払う", "answer": 2, "options": ["Memesan", "Memasak", "Membayar", "Menyajikan"]},
