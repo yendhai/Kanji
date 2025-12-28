@@ -1,0 +1,122 @@
+[
+  {
+    "kanji": "この",
+    "hiragana": "この",
+    "tema": "Penunjuk",
+    "answer": 0,
+    "options": [
+      "この|Ini (benda ini)",
+      "その|Itu (dekat lawan)",
+      "あの|Itu (jauh)",
+      "どの|Yang mana"
+    ]
+  },
+  {
+    "kanji": "その",
+    "hiragana": "その",
+    "tema": "Penunjuk",
+    "answer": 1,
+    "options": [
+      "ここ|Di sini",
+      "その|Itu (dekat lawan)",
+      "そこ|Di situ",
+      "あそこ|Di sana"
+    ]
+  },
+  {
+    "kanji": "あの",
+    "hiragana": "あの",
+    "tema": "Penunjuk",
+    "answer": 2,
+    "options": [
+      "あれ|Itu (benda)",
+      "あっち|Sebelah sana",
+      "あの|Itu (jauh)",
+      "なに|Apa"
+    ]
+  },
+  {
+    "kanji": "どの",
+    "hiragana": "どの",
+    "tema": "Penunjuk",
+    "answer": 3,
+    "options": [
+      "だれ|Siapa",
+      "どこ|Di mana",
+      "どれ|Yang mana (benda)",
+      "どの|Yang mana (+benda)"
+    ]
+  },
+  {
+    "kanji": "同じ",
+    "hiragana": "おなじ",
+    "tema": "Penunjuk",
+    "answer": 0,
+    "options": [
+      "おなじ|Sama",
+      "ちがう|Beda",
+      "べつ|Lain",
+      "ほか|Lainnya"
+    ]
+  },
+  {
+    "kanji": "大きな",
+    "hiragana": "おおきな",
+    "tema": "Deskriptif",
+    "answer": 0,
+    "options": [
+      "おおきな|Besar (ing)",
+      "ちいさな|Kecil (ing)",
+      "いろんな|Macam-macam",
+      "おかしな|Aneh"
+    ]
+  },
+  {
+    "kanji": "小さな",
+    "hiragana": "ちいさな",
+    "tema": "Deskriptif",
+    "answer": 1,
+    "options": [
+      "へんな|Aneh",
+      "ちいさな|Kecil (ing)",
+      "たいした|Hebat",
+      "ざんねんな|Sayang"
+    ]
+  },
+  {
+    "kanji": "おかしな",
+    "hiragana": "おかしな",
+    "tema": "Deskriptif",
+    "answer": 2,
+    "options": [
+      "まじめな|Serius",
+      "ゆうめいな|Terkenal",
+      "おかしな|Aneh/Lucu",
+      "だいじな|Penting"
+    ]
+  },
+  {
+    "kanji": "色んな",
+    "hiragana": "いろんな",
+    "tema": "Deskriptif",
+    "answer": 3,
+    "options": [
+      "どんな|Seperti apa",
+      "あんな|Seperti itu",
+      "そんな|Seperti itu",
+      "いろんな|Bermacam-macam"
+    ]
+  },
+  {
+    "kanji": "大した",
+    "hiragana": "たいした",
+    "tema": "Deskriptif",
+    "answer": 0,
+    "options": [
+      "たいした|Hebat/Penting",
+      "とんでもない|Mustahil",
+      "くだらない|Tidak bermutu",
+      "ふしぎな|Ajaib"
+    ]
+  }
+]
