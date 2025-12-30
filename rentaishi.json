@@ -2,121 +2,248 @@
   {
     "kanji": "この",
     "hiragana": "この",
-    "tema": "Penunjuk",
+    "kategori": "umum",
+    "tema": "penunjuk",
     "answer": 0,
     "options": [
-      "この|Ini (benda ini)",
-      "その|Itu (dekat lawan)",
-      "あの|Itu (jauh)",
-      "どの|Yang mana"
+      "ini (dekat pembicara) | ini (dekat pembicara)",
+      "itu (dekat lawan bicara) | itu (dekat lawan bicara)",
+      "itu (jauh) | itu (jauh)",
+      "yang mana | yang mana"
     ]
   },
   {
     "kanji": "その",
     "hiragana": "その",
-    "tema": "Penunjuk",
+    "kategori": "umum",
+    "tema": "penunjuk",
     "answer": 1,
     "options": [
-      "ここ|Di sini",
-      "その|Itu (dekat lawan)",
-      "そこ|Di situ",
-      "あそこ|Di sana"
+      "ini | ini",
+      "itu (dekat lawan bicara) | itu (dekat lawan bicara)",
+      "itu (jauh) | itu (jauh)",
+      "yang mana | yang mana"
     ]
   },
   {
     "kanji": "あの",
     "hiragana": "あの",
-    "tema": "Penunjuk",
+    "kategori": "umum",
+    "tema": "penunjuk",
     "answer": 2,
     "options": [
-      "あれ|Itu (benda)",
-      "あっち|Sebelah sana",
-      "あの|Itu (jauh)",
-      "なに|Apa"
+      "ini | ini",
+      "itu (dekat lawan bicara) | itu (dekat lawan bicara)",
+      "itu (jauh) | itu (jauh)",
+      "yang mana | yang mana"
     ]
   },
   {
     "kanji": "どの",
     "hiragana": "どの",
-    "tema": "Penunjuk",
+    "kategori": "umum",
+    "tema": "penunjuk",
     "answer": 3,
     "options": [
-      "だれ|Siapa",
-      "どこ|Di mana",
-      "どれ|Yang mana (benda)",
-      "どの|Yang mana (+benda)"
+      "ini | ini",
+      "itu | itu",
+      "itu (jauh) | itu (jauh)",
+      "yang mana | yang mana"
     ]
   },
   {
-    "kanji": "同じ",
-    "hiragana": "おなじ",
-    "tema": "Penunjuk",
+    "kanji": "こんな",
+    "hiragana": "こんな",
+    "kategori": "umum",
+    "tema": "deskriptif",
     "answer": 0,
     "options": [
-      "おなじ|Sama",
-      "ちがう|Beda",
-      "べつ|Lain",
-      "ほか|Lainnya"
+      "seperti ini | seperti ini",
+      "seperti itu | seperti itu",
+      "seperti itu (jauh) | seperti itu (jauh)",
+      "seperti apa | seperti apa"
     ]
   },
   {
-    "kanji": "大きな",
-    "hiragana": "おおきな",
-    "tema": "Deskriptif",
-    "answer": 0,
-    "options": [
-      "おおきな|Besar (ing)",
-      "ちいさな|Kecil (ing)",
-      "いろんな|Macam-macam",
-      "おかしな|Aneh"
-    ]
-  },
-  {
-    "kanji": "小さな",
-    "hiragana": "ちいさな",
-    "tema": "Deskriptif",
+    "kanji": "そんな",
+    "hiragana": "そんな",
+    "kategori": "umum",
+    "tema": "deskriptif",
     "answer": 1,
     "options": [
-      "へんな|Aneh",
-      "ちいさな|Kecil (ing)",
-      "たいした|Hebat",
-      "ざんねんな|Sayang"
+      "seperti ini | seperti ini",
+      "seperti itu | seperti itu",
+      "seperti itu (jauh) | seperti itu (jauh)",
+      "seperti apa | seperti apa"
     ]
   },
   {
-    "kanji": "おかしな",
-    "hiragana": "おかしな",
-    "tema": "Deskriptif",
+    "kanji": "あんな",
+    "hiragana": "あんな",
+    "kategori": "umum",
+    "tema": "deskriptif",
     "answer": 2,
     "options": [
-      "まじめな|Serius",
-      "ゆうめいな|Terkenal",
-      "おかしな|Aneh/Lucu",
-      "だいじな|Penting"
+      "seperti ini | seperti ini",
+      "seperti itu | seperti itu",
+      "seperti itu (jauh) | seperti itu (jauh)",
+      "seperti apa | seperti apa"
     ]
   },
   {
-    "kanji": "色んな",
-    "hiragana": "いろんな",
-    "tema": "Deskriptif",
+    "kanji": "どんな",
+    "hiragana": "どんな",
+    "kategori": "umum",
+    "tema": "deskriptif",
     "answer": 3,
     "options": [
-      "どんな|Seperti apa",
-      "あんな|Seperti itu",
-      "そんな|Seperti itu",
-      "いろんな|Bermacam-macam"
+      "seperti ini | seperti ini",
+      "seperti itu | seperti itu",
+      "seperti itu (jauh) | seperti itu (jauh)",
+      "seperti apa | seperti apa"
     ]
   },
   {
-    "kanji": "大した",
-    "hiragana": "たいした",
-    "tema": "Deskriptif",
+    "kanji": "おおきな",
+    "hiragana": "おおきな",
+    "kategori": "umum",
+    "tema": "ukuran",
     "answer": 0,
     "options": [
-      "たいした|Hebat/Penting",
-      "とんでもない|Mustahil",
-      "くだらない|Tidak bermutu",
-      "ふしぎな|Ajaib"
+      "besar | besar",
+      "kecil | kecil",
+      "panjang | panjang",
+      "berat | berat"
+    ]
+  },
+  {
+    "kanji": "ちいさな",
+    "hiragana": "ちいさな",
+    "kategori": "umum",
+    "tema": "ukuran",
+    "answer": 1,
+    "options": [
+      "besar | besar",
+      "kecil | kecil",
+      "pendek | pendek",
+      "ringan | ringan"
+    ]
+  },
+  {
+    "kanji": "おなじ",
+    "hiragana": "おなじ",
+    "kategori": "umum",
+    "tema": "identitas",
+    "answer": 0,
+    "options": [
+      "sama | sama",
+      "berbeda | berbeda",
+      "lain | lain",
+      "mirip | mirip"
+    ]
+  },
+  {
+    "kanji": "ある",
+    "hiragana": "ある",
+    "kategori": "jarang",
+    "tema": "abstrak",
+    "answer": 0,
+    "options": [
+      "suatu (tidak spesifik) | suatu (tidak spesifik)",
+      "yang ini | yang ini",
+      "yang itu | yang itu",
+      "yang mana | yang mana"
+    ]
+  },
+  {
+    "kanji": "いわゆる",
+    "hiragana": "いわゆる",
+    "kategori": "jarang",
+    "tema": "definisi",
+    "answer": 0,
+    "options": [
+      "yang disebut | yang disebut",
+      "yang terkenal | yang terkenal",
+      "sekadar | sekadar",
+      "suatu | suatu"
+    ]
+  },
+  {
+    "kanji": "たんなる",
+    "hiragana": "たんなる",
+    "kategori": "jarang",
+    "tema": "penekanan",
+    "answer": 0,
+    "options": [
+      "sekadar | sekadar",
+      "penting | penting",
+      "khusus | khusus",
+      "segala | segala"
+    ]
+  },
+  {
+    "kanji": "あらゆる",
+    "hiragana": "あらゆる",
+    "kategori": "jarang",
+    "tema": "cakupan",
+    "answer": 0,
+    "options": [
+      "segala | segala",
+      "sebagian | sebagian",
+      "suatu | suatu",
+      "yang mana | yang mana"
+    ]
+  },
+  {
+    "kanji": "いかなる",
+    "hiragana": "いかなる",
+    "kategori": "arkais",
+    "tema": "penekanan",
+    "answer": 0,
+    "options": [
+      "apa pun | apa pun",
+      "seperti apa | seperti apa",
+      "segala | segala",
+      "suatu | suatu"
+    ]
+  },
+  {
+    "kanji": "わが",
+    "hiragana": "わが",
+    "kategori": "arkais",
+    "tema": "kepemilikan",
+    "answer": 0,
+    "options": [
+      "milik kami / kita | milik kami / kita",
+      "milik saya | milik saya",
+      "milik itu | milik itu",
+      "milik mereka | milik mereka"
+    ]
+  },
+  {
+    "kanji": "かの",
+    "hiragana": "かの",
+    "kategori": "arkais",
+    "tema": "referensi",
+    "answer": 0,
+    "options": [
+      "yang terkenal itu | yang terkenal itu",
+      "yang ini | yang ini",
+      "yang itu | yang itu",
+      "yang mana | yang mana"
+    ]
+  },
+  {
+    "kanji": "さる",
+    "hiragana": "さる",
+    "kategori": "arkais",
+    "tema": "referensi",
+    "answer": 0,
+    "options": [
+      "seorang / suatu (formal) | seorang / suatu (formal)",
+      "orang ini | orang ini",
+      "orang itu | orang itu",
+      "siapa | siapa"
     ]
   }
 ]
