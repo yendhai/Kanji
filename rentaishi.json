@@ -1,9 +1,9 @@
+
 [
   {
     "kanji": "この",
     "hiragana": "この",
-    "kategori": "umum",
-    "tema": "penunjuk",
+    "tema": "Umum",
     "answer": 0,
     "options": [
       "ini (dekat pembicara) | ini (dekat pembicara)",
@@ -15,8 +15,7 @@
   {
     "kanji": "その",
     "hiragana": "その",
-    "kategori": "umum",
-    "tema": "penunjuk",
+    "tema": "Umum",
     "answer": 1,
     "options": [
       "ini | ini",
@@ -28,8 +27,7 @@
   {
     "kanji": "あの",
     "hiragana": "あの",
-    "kategori": "umum",
-    "tema": "penunjuk",
+    "tema": "Umum",
     "answer": 2,
     "options": [
       "ini | ini",
@@ -41,21 +39,19 @@
   {
     "kanji": "どの",
     "hiragana": "どの",
-    "kategori": "umum",
-    "tema": "penunjuk",
+    "tema": "Umum",
     "answer": 3,
     "options": [
-      "ini | ini",
-      "itu | itu",
-      "itu (jauh) | itu (jauh)",
+      "siapa | siapa",
+      "di mana | di mana",
+      "yang mana (benda) | yang mana (benda)",
       "yang mana | yang mana"
     ]
   },
   {
     "kanji": "こんな",
     "hiragana": "こんな",
-    "kategori": "umum",
-    "tema": "deskriptif",
+    "tema": "Umum",
     "answer": 0,
     "options": [
       "seperti ini | seperti ini",
@@ -67,8 +63,7 @@
   {
     "kanji": "そんな",
     "hiragana": "そんな",
-    "kategori": "umum",
-    "tema": "deskriptif",
+    "tema": "Umum",
     "answer": 1,
     "options": [
       "seperti ini | seperti ini",
@@ -80,8 +75,7 @@
   {
     "kanji": "あんな",
     "hiragana": "あんな",
-    "kategori": "umum",
-    "tema": "deskriptif",
+    "tema": "Umum",
     "answer": 2,
     "options": [
       "seperti ini | seperti ini",
@@ -93,8 +87,7 @@
   {
     "kanji": "どんな",
     "hiragana": "どんな",
-    "kategori": "umum",
-    "tema": "deskriptif",
+    "tema": "Umum",
     "answer": 3,
     "options": [
       "seperti ini | seperti ini",
@@ -106,8 +99,7 @@
   {
     "kanji": "おおきな",
     "hiragana": "おおきな",
-    "kategori": "umum",
-    "tema": "ukuran",
+    "tema": "Umum",
     "answer": 0,
     "options": [
       "besar | besar",
@@ -119,8 +111,7 @@
   {
     "kanji": "ちいさな",
     "hiragana": "ちいさな",
-    "kategori": "umum",
-    "tema": "ukuran",
+    "tema": "Umum",
     "answer": 1,
     "options": [
       "besar | besar",
@@ -132,8 +123,7 @@
   {
     "kanji": "おなじ",
     "hiragana": "おなじ",
-    "kategori": "umum",
-    "tema": "identitas",
+    "tema": "Umum",
     "answer": 0,
     "options": [
       "sama | sama",
@@ -145,21 +135,19 @@
   {
     "kanji": "ある",
     "hiragana": "ある",
-    "kategori": "jarang",
-    "tema": "abstrak",
+    "tema": "Jarang",
     "answer": 0,
     "options": [
       "suatu (tidak spesifik) | suatu (tidak spesifik)",
-      "yang ini | yang ini",
-      "yang itu | yang itu",
+      "ini | ini",
+      "itu | itu",
       "yang mana | yang mana"
     ]
   },
   {
     "kanji": "いわゆる",
     "hiragana": "いわゆる",
-    "kategori": "jarang",
-    "tema": "definisi",
+    "tema": "Jarang",
     "answer": 0,
     "options": [
       "yang disebut | yang disebut",
@@ -171,8 +159,7 @@
   {
     "kanji": "たんなる",
     "hiragana": "たんなる",
-    "kategori": "jarang",
-    "tema": "penekanan",
+    "tema": "Jarang",
     "answer": 0,
     "options": [
       "sekadar | sekadar",
@@ -184,8 +171,7 @@
   {
     "kanji": "あらゆる",
     "hiragana": "あらゆる",
-    "kategori": "jarang",
-    "tema": "cakupan",
+    "tema": "Jarang",
     "answer": 0,
     "options": [
       "segala | segala",
@@ -197,8 +183,7 @@
   {
     "kanji": "いかなる",
     "hiragana": "いかなる",
-    "kategori": "arkais",
-    "tema": "penekanan",
+    "tema": "Kuno",
     "answer": 0,
     "options": [
       "apa pun | apa pun",
@@ -210,8 +195,7 @@
   {
     "kanji": "わが",
     "hiragana": "わが",
-    "kategori": "arkais",
-    "tema": "kepemilikan",
+    "tema": "Kuno",
     "answer": 0,
     "options": [
       "milik kami / kita | milik kami / kita",
@@ -223,8 +207,7 @@
   {
     "kanji": "かの",
     "hiragana": "かの",
-    "kategori": "arkais",
-    "tema": "referensi",
+    "tema": "Kuno",
     "answer": 0,
     "options": [
       "yang terkenal itu | yang terkenal itu",
@@ -236,8 +219,7 @@
   {
     "kanji": "さる",
     "hiragana": "さる",
-    "kategori": "arkais",
-    "tema": "referensi",
+    "tema": "Kuno",
     "answer": 0,
     "options": [
       "seorang / suatu (formal) | seorang / suatu (formal)",
