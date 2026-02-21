@@ -1078,6 +1078,367 @@
       "かむ|Menggigit",
       "ふむ|Menginjak"
     ]
-  }
+  },
+  {
+    "kanji": "選ぶ",
+    "hiragana": "えらぶ",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "あそぶ|Bermain",
+      "えらぶ|Memilih",
+      "とぶ|Terbang",
+      "はこぶ|Mengangkut"
     ]
+  },
+  {
+    "kanji": "並ぶ",
+    "hiragana": "ならぶ",
+    "tema": "kelompok 1 part 4",
+    "answer": 2,
+    "options": [
+      "むすぶ|Mengikat",
+      "よろこぶ|Bergembira",
+      "ならぶ|Berbaris",
+      "さけぶ|Berteriak"
+    ]
+  },
+  {
+    "kanji": "転ぶ",
+    "hiragana": "ころぶ",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "ころぶ|Terjatuh",
+      "あそぶ|Bermain",
+      "よぶ|Memanggil",
+      "とぶ|Terbang"
+    ]
+  },
+  {
+    "kanji": "結ぶ",
+    "hiragana": "むすぶ",
+    "tema": "kelompok 1 part 4",
+    "answer": 3,
+    "options": [
+      "えらぶ|Memilih",
+      "ならぶ|Berbaris",
+      "はこぶ|Mengangkut",
+      "むすぶ|Mengikat"
+    ]
+  },
+  {
+    "kanji": "込む",
+    "hiragana": "こむ",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "こむ|Sesak/Penuh",
+      "のむ|Minum",
+      "やすむ|Istirahat",
+      "よむ|Membaca"
+    ]
+  },
+  {
+    "kanji": "噛む",
+    "hiragana": "かむ",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "すむ|Tinggal (Menetap)",
+      "かむ|Menggigit",
+      "ふむ|Menginjak",
+      "たのむ|Memohon"
+    ]
+  },
+  {
+    "kanji": "悲しむ",
+    "hiragana": "かなしむ",
+    "tema": "kelompok 1 part 4",
+    "answer": 2,
+    "options": [
+      "たのしむ|Menikmati",
+      "くるしむ|Menderita",
+      "かなしむ|Bersedih",
+      "ぬすむ|Mencuri"
+    ]
+  },
+  {
+    "kanji": "苦しむ",
+    "hiragana": "くるしむ",
+    "tema": "kelompok 1 part 4",
+    "answer": 3,
+    "options": [
+      "つつむ|Membungkus",
+      "かなしむ|Bersedih",
+      "たのしむ|Menikmati",
+      "くるしむ|Menderita"
+    ]
+  },
+  {
+    "kanji": "焼く",
+    "hiragana": "やく",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "やく|Membakar/Memanggang",
+      "かく|Menulis",
+      "さく|Mekar",
+      "なく|Menangis"
+    ]
+  },
+  {
+    "kanji": "乾く",
+    "hiragana": "かわく",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "すく|Kosong",
+      "かわく|Mengering",
+      "つづく|Berlanjut",
+      "とどく|Sampai"
+    ]
+  },
+  {
+    "kanji": "空く",
+    "hiragana": "すく",
+    "tema": "kelompok 1 part 4",
+    "answer": 2,
+    "options": [
+      "なく|Menangis",
+      "ひく|Menarik",
+      "すく|Kosong/Sepi",
+      "ふく|Meniup"
+    ]
+  },
+  {
+    "kanji": "続く",
+    "hiragana": "つづく",
+    "tema": "kelompok 1 part 4",
+    "answer": 3,
+    "options": [
+      "つく|Tiba",
+      "きく|Mendengar",
+      "あるく|Berjalan",
+      "つづく|Berlanjut"
+    ]
+  },
+  {
+    "kanji": "届く",
+    "hiragana": "とどく",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "とどく|Sampai/Terkirim",
+      "かわく|Mengering",
+      "たたく|Memukul",
+      "はたらく|Bekerja"
+    ]
+  },
+  {
+    "kanji": "叩く",
+    "hiragana": "たたく",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "あるく|Berjalan",
+      "たたく|Memukul",
+      "おどろく|Terkejut",
+      "つく|Tiba"
+    ]
+  },
+  {
+    "kanji": "沸く",
+    "hiragana": "わく",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "わく|Mendidih",
+      "さく|Mekar",
+      "かく|Menulis",
+      "はく|Memakai (sepatu)"
+    ]
+  },
+  {
+    "kanji": "驚く",
+    "hiragana": "おどろく",
+    "tema": "kelompok 1 part 4",
+    "answer": 3,
+    "options": [
+      "かわく|Mengering",
+      "つづく|Berlanjut",
+      "とどく|Sampai",
+      "おどろく|Terkejut"
+    ]
+  },
+  {
+    "kanji": "防ぐ",
+    "hiragana": "ふせぐ",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "ふせぐ|Mencegah",
+      "およぐ|Berenang",
+      "いそぐ|Bergegas",
+      "さわぐ|Membuat keributan"
+    ]
+  },
+  {
+    "kanji": "隠す",
+    "hiragana": "かくす",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "なおす|Memperbaiki",
+      "かくす|Menyembunyikan",
+      "おとす|Menjatuhkan",
+      "おこす|Membangunkan"
+    ]
+  },
+  {
+    "kanji": "壊す",
+    "hiragana": "こわす",
+    "tema": "kelompok 1 part 4",
+    "answer": 2,
+    "options": [
+      "よごす|Mengotori",
+      "わかす|Mendidihkan",
+      "こわす|Merusak",
+      "かわかす|Mengeringkan"
+    ]
+  },
+  {
+    "kanji": "落とす",
+    "hiragana": "おとす",
+    "tema": "kelompok 1 part 4",
+    "answer": 2,
+    "options": [
+      "おこす|Membangunkan",
+      "なおす|Memperbaiki",
+      "おとす|Menjatuhkan",
+      "けす|Menghapus"
+    ]
+  },
+  {
+    "kanji": "起こす",
+    "hiragana": "おこす",
+    "tema": "kelompok 1 part 4",
+    "answer": 3,
+    "options": [
+      "かくす|Menyembunyikan",
+      "おとす|Menjatuhkan",
+      "わかす|Mendidihkan",
+      "おこす|Membangunkan"
+    ]
+  },
+  {
+    "kanji": "汚す",
+    "hiragana": "よごす",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "よごす|Mengotori",
+      "こわす|Merusak",
+      "すごす|Menghabiskan waktu",
+      "くらす|Hidup/Tinggal"
+    ]
+  },
+  {
+    "kanji": "沸かす",
+    "hiragana": "わかす",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "かわかす|Mengeringkan",
+      "わかす|Mendidihkan",
+      "なおす|Memperbaiki",
+      "かくす|Menyembunyikan"
+    ]
+  },
+  {
+    "kanji": "暮らす",
+    "hiragana": "くらす",
+    "tema": "kelompok 1 part 4",
+    "answer": 2,
+    "options": [
+      "だす|Mengeluarkan",
+      "おす|Menekan",
+      "くらす|Hidup/Tinggal",
+      "けす|Menghapus"
+    ]
+  },
+  {
+    "kanji": "打つ",
+    "hiragana": "うつ",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "たつ|Berdiri",
+      "うつ|Memukul/Mengetik",
+      "まつ|Menunggu",
+      "もつ|Membawa"
+    ]
+  },
+  {
+    "kanji": "勝つ",
+    "hiragana": "かつ",
+    "tema": "kelompok 1 part 4",
+    "answer": 2,
+    "options": [
+      "うつ|Memukul/Mengetik",
+      "そだつ|Tumbuh",
+      "かつ|Menang",
+      "たつ|Berdiri"
+    ]
+  },
+  {
+    "kanji": "笑う",
+    "hiragana": "わらう",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "うたう|Bernyanyi",
+      "わらう|Tertawa",
+      "かう|Membeli",
+      "あう|Bertemu"
+    ]
+  },
+  {
+    "kanji": "伺う",
+    "hiragana": "うかがう",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "うたがう|Mencurigai",
+      "うかがう|Bertanya/Mengunjungi",
+      "さそう|Mengajak",
+      "しまう|Menyimpan"
+    ]
+  },
+  {
+    "kanji": "踊る",
+    "hiragana": "おどる",
+    "tema": "kelompok 1 part 4",
+    "answer": 0,
+    "options": [
+      "おどる|Menari",
+      "はしる|Berlari",
+      "のぼる|Mendaki",
+      "かえる|Pulang"
+    ]
+  },
+  {
+    "kanji": "折る",
+    "hiragana": "おる",
+    "tema": "kelompok 1 part 4",
+    "answer": 1,
+    "options": [
+      "とる|Mengambil",
+      "おる|Melipat/Mematahkan",
+      "とおる|Melewati",
+      "はしる|Berlari"
+    ]
+  }
+  ]
+  
 
