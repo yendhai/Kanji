@@ -5,10 +5,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "たべる|Makan",
+      "よむ|Membaca",
       "のむ|Minum",
-      "みる|Melihat",
-      "ねる|Tidur"
+      "すむ|Tinggal (Menetap)",
+      "やすむ|Istirahat"
     ]
   },
   {
@@ -17,10 +17,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "くる|Datang",
-      "かえる|Pulang",
+      "かく|Menulis",
+      "あるく|Berjalan",
       "いく|Pergi",
-      "あるく|Berjalan"
+      "きく|Mendengar"
     ]
   },
   {
@@ -30,9 +30,9 @@
     "answer": 0,
     "options": [
       "かく|Menulis",
-      "よむ|Membaca",
-      "きく|Mendengar",
-      "はなす|Berbicara"
+      "なく|Menangis",
+      "ひく|Menarik",
+      "さく|Mekar"
     ]
   },
   {
@@ -41,9 +41,9 @@
     "tema": "kelompok 1 part 1",
     "answer": 3,
     "options": [
-      "かく|Menulis",
-      "はなす|Berbicara",
-      "きく|Mendengar",
+      "たのむ|Memohon",
+      "ぬすむ|Mencuri",
+      "ふむ|Menginjak",
       "よむ|Membaca"
     ]
   },
@@ -54,9 +54,9 @@
     "answer": 0,
     "options": [
       "きく|Mendengar/Bertanya",
-      "いう|Berkata",
-      "おもう|Berpikir",
-      "わかる|Mengerti"
+      "ひく|Menarik",
+      "ふく|Meniup",
+      "やく|Membakar"
     ]
   },
   {
@@ -65,10 +65,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "うる|Menjual",
+      "あう|Bertemu",
       "かう|Membeli",
-      "はらう|Membayar",
-      "もつ|Membawa"
+      "すう|Menghisap",
+      "うたう|Bernyanyi"
     ]
   },
   {
@@ -77,10 +77,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "まつ|Menunggu",
-      "よぶ|Memanggil",
+      "あらう|Mencuci",
+      "つかう|Menggunakan",
       "あう|Bertemu",
-      "あそぶ|Bermain"
+      "いう|Berkata"
     ]
   },
   {
@@ -89,9 +89,9 @@
     "tema": "kelompok 1 part 1",
     "answer": 3,
     "options": [
-      "いく|Pergi",
-      "くる|Datang",
       "はしる|Berlari",
+      "つくる|Membuat",
+      "のる|Naik (Kendaraan)",
       "かえる|Pulang"
     ]
   },
@@ -102,9 +102,9 @@
     "answer": 0,
     "options": [
       "およぐ|Berenang",
-      "あそぶ|Bermain",
-      "のる|Naik (kendaraan)",
-      "あるく|Berjalan"
+      "いそぐ|Bergegas",
+      "ぬぐ|Melepas (Pakaian)",
+      "さわぐ|Bikin Ribut"
     ]
   },
   {
@@ -113,10 +113,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "いう|Berkata",
+      "おす|Menekan",
       "はなす|Berbicara",
-      "よむ|Membaca",
-      "こたえる|Menjawab"
+      "けす|Menghapus",
+      "だす|Mengeluarkan"
     ]
   },
   {
@@ -125,10 +125,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "もつ|Membawa",
       "たつ|Berdiri",
+      "もつ|Membawa",
       "まつ|Menunggu",
-      "すわる|Duduk"
+      "かつ|Menang"
     ]
   },
   {
@@ -138,9 +138,9 @@
     "answer": 0,
     "options": [
       "たつ|Berdiri",
-      "すわる|Duduk",
-      "あるく|Berjalan",
-      "はしる|Berlari"
+      "そだつ|Tumbuh",
+      "うつ|Memukul",
+      "たもつ|Menjaga"
     ]
   },
   {
@@ -149,9 +149,9 @@
     "tema": "kelompok 1 part 1",
     "answer": 3,
     "options": [
-      "たつ|Berdiri",
-      "ねる|Tidur",
-      "やすむ|Istirahat",
+      "とる|Mengambil",
+      "うる|Menjual",
+      "おわる|Selesai",
       "すわる|Duduk"
     ]
   },
@@ -161,10 +161,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "おりる|Turun",
+      "ふる|Turun (Hujan)",
       "のる|Naik (kendaraan)",
-      "あるく|Berjalan",
-      "はしる|Berlari"
+      "しる|Mengetahui",
+      "きる|Memotong"
     ]
   },
   {
@@ -173,10 +173,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "しる|Mengetahui",
-      "おもう|Berpikir",
+      "さわる|Menyentuh",
+      "おこる|Marah",
       "わかる|Mengerti",
-      "きく|Mendengar"
+      "いのる|Berdoa"
     ]
   },
   {
@@ -186,9 +186,9 @@
     "answer": 0,
     "options": [
       "うたう|Bernyanyi",
-      "おどる|Menari",
-      "あそぶ|Bermain",
-      "わらう|Tertawa"
+      "ひろう|Memungut",
+      "さそう|Mengajak",
+      "いわう|Merayakan"
     ]
   },
   {
@@ -197,10 +197,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "やすむ|Istirahat",
+      "よぶ|Memanggil",
       "あそぶ|Bermain",
-      "およぐ|Berenang",
-      "うたう|Bernyanyi"
+      "とぶ|Terbang",
+      "えらぶ|Memilih"
     ]
   },
   {
@@ -209,10 +209,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "ねる|Tidur",
-      "あそぶ|Bermain",
+      "にくむ|Membenci",
+      "かむ|Menggigit",
       "やすむ|Istirahat/Libur",
-      "おわる|Selesai"
+      "しずむ|Tenggelam"
     ]
   },
   {
@@ -221,9 +221,9 @@
     "tema": "kelompok 1 part 1",
     "answer": 3,
     "options": [
-      "はじまる|Mulai",
-      "つづく|Berlanjut",
+      "しまる|Tertutup",
       "とまる|Berhenti",
+      "はじまる|Mulai",
       "おわる|Selesai"
     ]
   },
@@ -234,9 +234,9 @@
     "answer": 0,
     "options": [
       "つくる|Membuat",
-      "つかう|Menggunakan",
-      "なおす|Memperbaiki",
-      "こわす|Merusak"
+      "はかる|Mengukur",
+      "ねむる|Tidur",
+      "ひかる|Bercahaya"
     ]
   },
   {
@@ -245,10 +245,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "つくる|Membuat",
+      "ちがう|Berbeda",
       "つかう|Menggunakan",
-      "もつ|Membawa",
-      "おく|Meletakkan"
+      "わらう|Tertawa",
+      "はらう|Membayar"
     ]
   },
   {
@@ -257,10 +257,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "おく|Meletakkan",
-      "とる|Mengambil",
+      "はなつ|Melepaskan",
+      "そだつ|Tumbuh",
       "もつ|Membawa/Memiliki",
-      "はこぶ|Mengangkut"
+      "たつ|Memutuskan"
     ]
   },
   {
@@ -269,9 +269,9 @@
     "tema": "kelompok 1 part 1",
     "answer": 3,
     "options": [
-      "もつ|Membawa",
-      "おく|Meletakkan",
-      "あげる|Memberi",
+      "ほる|Menggali",
+      "あやまる|Meminta Maaf",
+      "かざる|Menghias",
       "とる|Mengambil"
     ]
   },
@@ -282,9 +282,9 @@
     "answer": 0,
     "options": [
       "あるく|Berjalan",
-      "はしる|Berlari",
-      "いそぐ|Bergegas",
-      "とまる|Berhenti"
+      "はたらく|Bekerja",
+      "かわく|Mengering",
+      "すく|Kosong"
     ]
   },
   {
@@ -293,10 +293,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "かう|Membeli",
+      "つる|Memancing",
       "うる|Menjual",
-      "はらう|Membayar",
-      "かす|Meminjamkan"
+      "ぬる|Mengecat",
+      "まもる|Melindungi"
     ]
   },
   {
@@ -305,10 +305,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "わかる|Mengerti",
-      "おもう|Berpikir",
+      "はしる|Berlari",
+      "ちる|Gugur",
       "しる|Mengetahui",
-      "きく|Mendengar"
+      "はいる|Masuk"
     ]
   },
   {
@@ -317,9 +317,9 @@
     "tema": "kelompok 1 part 1",
     "answer": 3,
     "options": [
-      "いる|Ada (Benda Hidup)",
-      "ある|Ada (Benda Mati)",
-      "はたらく|Bekerja",
+      "たたむ|Melipat",
+      "こむ|Sesak/Penuh",
+      "うらむ|Dendam",
       "すむ|Tinggal (Menetap)"
     ]
   },
@@ -330,9 +330,9 @@
     "answer": 0,
     "options": [
       "はたらく|Bekerja",
-      "やすむ|Istirahat",
-      "べんきょうする|Belajar",
-      "あそぶ|Bermain"
+      "とどく|Sampai/Terkirim",
+      "つづく|Berlanjut",
+      "たたく|Memukul"
     ]
   },
   {
@@ -341,10 +341,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 1,
     "options": [
-      "ふく|Mengelap",
+      "うたがう|Mencurigai",
       "あらう|Mencuci",
-      "そうじする|Membersihkan",
-      "みがく|Menyikat"
+      "あらそう|Berselisih",
+      "おう|Mengejar"
     ]
   },
   {
@@ -353,10 +353,10 @@
     "tema": "kelompok 1 part 1",
     "answer": 2,
     "options": [
-      "はなす|Berbicara",
-      "きく|Mendengar",
+      "よう|Mabuk",
+      "ぬう|Menjahit",
       "いう|Berkata",
-      "よぶ|Memanggil"
+      "かう|Memelihara"
     ]
   },
   {
@@ -365,10 +365,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 1,
     "options": [
-      "かりる|Meminjam",
+      "おす|Menekan",
       "かす|Meminjamkan",
-      "かえす|Mengembalikan",
-      "あげる|Memberikan"
+      "さす|Memakai (payung)",
+      "けす|Menghapus"
     ]
   },
   {
@@ -378,9 +378,9 @@
     "answer": 0,
     "options": [
       "けす|Mematikan/Menghapus",
-      "つける|Menyalakan",
-      "しめる|Menutup",
-      "あける|Membuka"
+      "なおす|Memperbaiki",
+      "おとす|Menjatuhkan",
+      "かえす|Mengembalikan"
     ]
   },
   {
@@ -389,9 +389,9 @@
     "tema": "kelompok 1 part 2",
     "answer": 3,
     "options": [
-      "はいる|Masuk",
-      "いれる|Memasukkan",
-      "でる|Keluar",
+      "はなす|Berbicara",
+      "おす|Menekan",
+      "わたす|Menyerahkan",
       "だす|Mengeluarkan"
     ]
   },
@@ -401,10 +401,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 2,
     "options": [
-      "ひく|Menarik",
-      "もつ|Membawa",
+      "だす|Mengeluarkan",
+      "かす|Meminjamkan",
       "おす|Menekan/Mendorong",
-      "おとす|Menjatuhkan"
+      "さす|Menunjuk"
     ]
   },
   {
@@ -414,9 +414,9 @@
     "answer": 0,
     "options": [
       "さす|Memakai (payung)",
-      "かぶる|Memakai (topi)",
-      "きる|Memakai (baju)",
-      "はく|Memakai (sepatu)"
+      "けす|Menghapus",
+      "おとす|Menjatuhkan",
+      "なおす|Memperbaiki"
     ]
   },
   {
@@ -425,10 +425,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 1,
     "options": [
-      "かりる|Meminjam",
+      "わたす|Menyerahkan",
       "かえす|Mengembalikan",
-      "かす|Meminjamkan",
-      "もらう|Menerima"
+      "はなす|Berbicara",
+      "だす|Mengeluarkan"
     ]
   },
   {
@@ -437,10 +437,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 2,
     "options": [
-      "もらう|Menerima",
-      "あげる|Memberi",
+      "かす|Meminjamkan",
+      "けす|Menghapus",
       "わたす|Menyerahkan/Menyeberangkan",
-      "うけとる|Menerima"
+      "おす|Menekan"
     ]
   },
   {
@@ -449,9 +449,9 @@
     "tema": "kelompok 1 part 2",
     "answer": 3,
     "options": [
-      "ちる|Gugur",
-      "はえる|Tumbuh",
-      "かれる|Layu",
+      "いく|Pergi",
+      "かく|Menulis",
+      "ふく|Meniup",
       "さく|Mekar"
     ]
   },
@@ -462,9 +462,9 @@
     "answer": 0,
     "options": [
       "ふく|Meniup/Berhembus",
-      "ふる|Turun (Hujan)",
-      "はれる|Cerah",
-      "くもる|Mendung"
+      "ひく|Menarik",
+      "きく|Mendengar",
+      "なく|Menangis/Berbunyi"
     ]
   },
   {
@@ -473,10 +473,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 1,
     "options": [
-      "おす|Menekan",
+      "はたらく|Bekerja",
       "ひく|Menarik",
-      "あける|Membuka",
-      "しめる|Menutup"
+      "あるく|Berjalan",
+      "みがく|Menyikat"
     ]
   },
   {
@@ -485,10 +485,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 2,
     "options": [
-      "うたう|Bernyanyi",
-      "きく|Mendengar",
-      "ひく|Memainkan (alat musik petik/tuts)",
-      "おどる|Menari"
+      "たたく|Memukul",
+      "おく|Meletakkan",
+      "ひく|Memainkan (alat musik)",
+      "つく|Tiba"
     ]
   },
   {
@@ -497,9 +497,9 @@
     "tema": "kelompok 1 part 2",
     "answer": 3,
     "options": [
-      "あらう|Mencuci",
-      "ふく|Mengelap",
-      "あびる|Mandi",
+      "はく|Memakai (sepatu)",
+      "すく|Kosong",
+      "さく|Mekar",
       "みがく|Menyikat/Menggosok"
     ]
   },
@@ -510,9 +510,9 @@
     "answer": 0,
     "options": [
       "つく|Tiba/Sampai",
-      "でる|Berangkat/Keluar",
-      "かえる|Pulang",
-      "いく|Pergi"
+      "はく|Memakai (sepatu)",
+      "かわく|Mengering",
+      "きく|Mendengar"
     ]
   },
   {
@@ -521,10 +521,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 1,
     "options": [
-      "きえる|Padam/Mati",
+      "いく|Pergi",
       "つく|Menyala",
-      "つける|Menyalakan",
-      "けす|Mematikan"
+      "ふく|Meniup",
+      "かく|Menulis"
     ]
   },
   {
@@ -533,10 +533,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 2,
     "options": [
-      "やすむ|Beristirahat",
-      "まつ|Menunggu",
+      "およぐ|Berenang",
+      "ぬぐ|Melepas (Pakaian)",
       "いそぐ|Bergegas/Buru-buru",
-      "あるく|Berjalan"
+      "さわぐ|Bikin ribut"
     ]
   },
   {
@@ -545,9 +545,9 @@
     "tema": "kelompok 1 part 2",
     "answer": 3,
     "options": [
-      "きる|Memakai (Baju)",
-      "はく|Memakai (Sepatu/Celana)",
-      "かぶる|Memakai (Topi)",
+      "つなぐ|Menyambung",
+      "かぐ|Mencium (bau)",
+      "ふせぐ|Mencegah",
       "ぬぐ|Melepas (Pakaian)"
     ]
   },
@@ -558,9 +558,9 @@
     "answer": 0,
     "options": [
       "とぶ|Terbang",
-      "およぐ|Berenang",
-      "はしる|Berlari",
-      "あるく|Berjalan"
+      "あそぶ|Bermain",
+      "よぶ|Memanggil",
+      "えらぶ|Memilih"
     ]
   },
   {
@@ -569,10 +569,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 1,
     "options": [
-      "さけぶ|Berteriak",
+      "あそぶ|Bermain",
       "よぶ|Memanggil",
-      "はなす|Berbicara",
-      "なく|Menangis/Bersiul"
+      "はこぶ|Mengangkut",
+      "むすぶ|Mengikat"
     ]
   },
   {
@@ -581,10 +581,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 2,
     "options": [
-      "いきる|Hidup",
-      "うまれる|Lahir",
+      "いぬ|Pergi (Klasik)",
+      "こぬ|Tidak datang",
       "しぬ|Mati/Meninggal",
-      "ねる|Tidur"
+      "みぬ|Tidak melihat"
     ]
   },
   {
@@ -593,9 +593,9 @@
     "tema": "kelompok 1 part 2",
     "answer": 3,
     "options": [
-      "ふく|Berhembus",
-      "はれる|Cerah",
-      "くもる|Mendung",
+      "わかる|Mengerti",
+      "はしる|Berlari",
+      "とまる|Berhenti",
       "ふる|Turun (Hujan/Salju)"
     ]
   },
@@ -606,9 +606,9 @@
     "answer": 0,
     "options": [
       "なく|Berbunyi (Hewan)",
-      "なく|Menangis",
-      "わらう|Tertawa",
-      "おこる|Marah"
+      "さく|Mekar",
+      "はく|Memakai (sepatu)",
+      "つく|Tiba"
     ]
   },
   {
@@ -619,8 +619,8 @@
     "options": [
       "おわる|Selesai",
       "はじまる|Dimulai",
-      "つづく|Berlanjut",
-      "やめる|Berhenti"
+      "しまる|Tertutup",
+      "あつまる|Berkumpul"
     ]
   },
   {
@@ -629,10 +629,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 2,
     "options": [
-      "うごく|Bergerak",
-      "はしる|Berlari",
+      "のぼる|Mendaki",
+      "かえる|Pulang",
       "とまる|Berhenti",
-      "すすむ|Maju"
+      "つくる|Membuat"
     ]
   },
   {
@@ -641,9 +641,9 @@
     "tema": "kelompok 1 part 2",
     "answer": 3,
     "options": [
-      "でる|Keluar",
-      "だす|Mengeluarkan",
-      "いれる|Memasukkan",
+      "かぶる|Memakai (topi)",
+      "けずる|Mengerut/Memotong",
+      "やる|Melakukan",
       "はいる|Masuk"
     ]
   },
@@ -654,9 +654,9 @@
     "answer": 0,
     "options": [
       "きる|Memotong",
-      "はる|Menempel",
-      "おる|Melipat",
-      "かく|Menggambar"
+      "しる|Mengetahui",
+      "ある|Ada (Benda Mati)",
+      "なる|Menjadi"
     ]
   },
   {
@@ -665,10 +665,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 1,
     "options": [
-      "あるく|Berjalan",
+      "いじる|Mengutak-atik",
       "はしる|Berlari",
-      "いそぐ|Bergegas",
-      "とまる|Berhenti"
+      "かじる|Menggigit",
+      "ねじる|Memelintir"
     ]
   },
   {
@@ -677,10 +677,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 2,
     "options": [
-      "おりる|Turun",
-      "あるく|Berjalan",
+      "やる|Melakukan",
+      "ぬる|Mengecat",
       "のぼる|Mendaki/Naik",
-      "はしる|Berlari"
+      "とる|Mengambil"
     ]
   },
   {
@@ -689,9 +689,9 @@
     "tema": "kelompok 1 part 2",
     "answer": 3,
     "options": [
-      "はく|Menghembuskan",
-      "のむ|Minum",
-      "たべる|Makan",
+      "かう|Membeli",
+      "あう|Bertemu",
+      "いう|Berkata",
       "すう|Menghisap/Menghirup"
     ]
   },
@@ -702,9 +702,9 @@
     "answer": 0,
     "options": [
       "おく|Meletakkan",
-      "とる|Mengambil",
-      "もつ|Membawa",
-      "だす|Mengeluarkan"
+      "かく|Menulis",
+      "ふく|Meniup",
+      "ひく|Menarik"
     ]
   },
   {
@@ -713,10 +713,10 @@
     "tema": "kelompok 1 part 2",
     "answer": 1,
     "options": [
-      "おなじ|Sama",
+      "たたかう|Bertarung",
       "ちがう|Berbeda/Salah",
-      "わかる|Mengerti",
-      "ただしい|Benar"
+      "にあう|Cocok",
+      "むかう|Menuju"
     ]
   }
 ]
