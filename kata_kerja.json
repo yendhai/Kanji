@@ -647,5 +647,170 @@
       "うる|Menjual",
       "しる|Tahu"
     ]
+  },
+  {
+    "kanji": "見る",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 0,
+    "options": [
+      "みる|Melihat",
+      "きる|Memakai pakaian atas",
+      "できる|Bisa / Mampu",
+      "ねる|Tidur"
+    ]
+  },
+  {
+    "kanji": "着る",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 1,
+    "options": [
+      "みる|Melihat",
+      "きる|Memakai pakaian atas",
+      "できる|Bisa / Mampu",
+      "でる|Keluar"
+    ]
+  },
+  {
+    "kanji": "出来る",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 2,
+    "options": [
+      "きる|Memakai pakaian atas",
+      "ねる|Tidur",
+      "できる|Bisa / Mampu",
+      "でる|Keluar"
+    ]
+  },
+  {
+    "kanji": "寝る",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 3,
+    "options": [
+      "でる|Keluar",
+      "みる|Melihat",
+      "きる|Memakai pakaian atas",
+      "ねる|Tidur"
+    ]
+  },
+  {
+    "kanji": "出る",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 0,
+    "options": [
+      "でる|Keluar",
+      "みる|Melihat",
+      "きる|Memakai pakaian atas",
+      "できる|Bisa / Mampu"
+    ]
+  },
+  {
+    "kanji": "開ける",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 1,
+    "options": [
+      "かける|Menggantung / Menelepon",
+      "あける|Membuka",
+      "つける|Menyalakan mesin/lampu",
+      "まける|Kalah"
+    ]
+  },
+  {
+    "kanji": "掛ける",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 2,
+    "options": [
+      "あける|Membuka",
+      "つける|Menyalakan mesin/lampu",
+      "かける|Menggantung / Menelepon",
+      "まける|Kalah"
+    ]
+  },
+  {
+    "kanji": "点ける",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 3,
+    "options": [
+      "かける|Menggantung / Menelepon",
+      "あける|Membuka",
+      "まける|Kalah",
+      "つける|Menyalakan mesin/lampu"
+    ]
+  },
+  {
+    "kanji": "入れる",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 0,
+    "options": [
+      "いれる|Memasukkan sesuatu",
+      "わすれる|Lupa",
+      "つかれる|Lelah",
+      "はれる|Cerah"
+    ]
+  },
+  {
+    "kanji": "忘れる",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 1,
+    "options": [
+      "いれる|Memasukkan sesuatu",
+      "わすれる|Lupa",
+      "つかれる|Lelah",
+      "はれる|Cerah"
+    ]
+  },
+  {
+    "kanji": "疲れる",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 2,
+    "options": [
+      "はれる|Cerah",
+      "いれる|Memasukkan sesuatu",
+      "つかれる|Lelah",
+      "わすれる|Lupa"
+    ]
+  },
+  {
+    "kanji": "晴れる",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 3,
+    "options": [
+      "わすれる|Lupa",
+      "つかれる|Lelah",
+      "いれる|Memasukkan sesuatu",
+      "はれる|Cerah"
+    ]
+  },
+  {
+    "kanji": "教える",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 0,
+    "options": [
+      "おしえる|Mengajar / Memberitahu",
+      "おぼえる|Mengingat / Menghafal",
+      "こたえる|Menjawab",
+      "かえる|Mengubah"
+    ]
+  },
+  {
+    "kanji": "覚える",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 1,
+    "options": [
+      "おしえる|Mengajar / Memberitahu",
+      "おぼえる|Mengingat / Menghafal",
+      "こたえる|Menjawab",
+      "かえる|Mengubah"
+    ]
+  },
+  {
+    "kanji": "答える",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 2,
+    "options": [
+      "かえる|Mengubah",
+      "おしえる|Mengajar / Memberitahu",
+      "こたえる|Menjawab",
+      "おぼえる|Mengingat / Menghafal"
+    ]
   }
 ]
