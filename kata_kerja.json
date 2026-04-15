@@ -1483,5 +1483,137 @@
       "みる|Melihat",
       "おきる|Bangun tidur"
     ]
+  },
+    {
+    "kanji": "勉強",
+    "tema": "kelompok 3 N5",
+    "answer": 0,
+    "options": [
+      "べんきょう|Belajar",
+      "かいもの|Berbelanja",
+      "せんたく|Mencuci pakaian",
+      "そうじ|Membersihkan"
+    ]
+  },
+  {
+    "kanji": "買い物",
+    "tema": "kelompok 3 N5",
+    "answer": 1,
+    "options": [
+      "さんぽ|Jalan-jalan",
+      "かいもの|Berbelanja",
+      "けっこん|Menikah",
+      "れんしゅう|Berlatih"
+    ]
+  },
+  {
+    "kanji": "洗濯",
+    "tema": "kelompok 3 N5",
+    "answer": 2,
+    "options": [
+      "でんわ|Menelepon",
+      "りょうり|Memasak",
+      "せんたく|Mencuci pakaian",
+      "しょうかい|Memperkenalkan"
+    ]
+  },
+  {
+    "kanji": "掃除",
+    "tema": "kelompok 3 N5",
+    "answer": 3,
+    "options": [
+      "やくそく|Berjanji",
+      "りょこう|Berwisata",
+      "べんきょう|Belajar",
+      "そうじ|Membersihkan"
+    ]
+  },
+  {
+    "kanji": "散歩",
+    "tema": "kelompok 3 N5",
+    "answer": 0,
+    "options": [
+      "さんぽ|Jalan-jalan",
+      "けっこん|Menikah",
+      "れんしゅう|Berlatih",
+      "でんわ|Menelepon"
+    ]
+  },
+  {
+    "kanji": "結婚",
+    "tema": "kelompok 3 N5",
+    "answer": 1,
+    "options": [
+      "りょうり|Memasak",
+      "けっこん|Menikah",
+      "しょうかい|Memperkenalkan",
+      "やくそく|Berjanji"
+    ]
+  },
+  {
+    "kanji": "練習",
+    "tema": "kelompok 3 N5",
+    "answer": 2,
+    "options": [
+      "りょこう|Berwisata",
+      "べんきょう|Belajar",
+      "れんしゅう|Berlatih",
+      "かいもの|Berbelanja"
+    ]
+  },
+  {
+    "kanji": "電話",
+    "tema": "kelompok 3 N5",
+    "answer": 3,
+    "options": [
+      "せんたく|Mencuci pakaian",
+      "そうじ|Membersihkan",
+      "さんぽ|Jalan-jalan",
+      "でんわ|Menelepon"
+    ]
+  },
+  {
+    "kanji": "料理",
+    "tema": "kelompok 3 N5",
+    "answer": 0,
+    "options": [
+      "りょうり|Memasak",
+      "しょうかい|Memperkenalkan",
+      "やくそく|Berjanji",
+      "りょこう|Berwisata"
+    ]
+  },
+  {
+    "kanji": "紹介",
+    "tema": "kelompok 3 N5",
+    "answer": 1,
+    "options": [
+      "べんきょう|Belajar",
+      "しょうかい|Memperkenalkan",
+      "かいもの|Berbelanja",
+      "せんたく|Mencuci pakaian"
+    ]
+  },
+  {
+    "kanji": "約束",
+    "tema": "kelompok 3 N5",
+    "answer": 2,
+    "options": [
+      "そうじ|Membersihkan",
+      "さんぽ|Jalan-jalan",
+      "やくそく|Berjanji",
+      "けっこん|Menikah"
+    ]
+  },
+  {
+    "kanji": "旅行",
+    "tema": "kelompok 3 N5",
+    "answer": 3,
+    "options": [
+      "れんしゅう|Berlatih",
+      "でんわ|Menelepon",
+      "りょうり|Memasak",
+      "りょこう|Berwisata"
+    ]
   }
 ]
