@@ -4090,5 +4090,291 @@
       "おりる|Turun (dari kendaraan)",
       "かりる|Meminjam"
     ]
+  },
+    {
+    "kanji": "案内",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 0,
+    "options": [
+      "あんない|Memandu",
+      "うんてん|Mengemudi",
+      "えんりょ|Sungkan",
+      "おうえん|Mendukung"
+    ]
+  },
+  {
+    "kanji": "運転",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 1,
+    "options": [
+      "かんしゃ|Berterima kasih",
+      "うんてん|Mengemudi",
+      "きたい|Berharap",
+      "きこく|Pulang ke negara asal"
+    ]
+  },
+  {
+    "kanji": "遠慮",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 2,
+    "options": [
+      "けいかく|Merencanakan",
+      "けいけん|Mengalami",
+      "えんりょ|Sungkan",
+      "けんぶつ|Menonton / Berwisata"
+    ]
+  },
+  {
+    "kanji": "応援",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 3,
+    "options": [
+      "こしょう|Rusak",
+      "しゅっせき|Hadir",
+      "しゅっぱつ|Berangkat",
+      "おうえん|Mendukung"
+    ]
+  },
+  {
+    "kanji": "感謝",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 0,
+    "options": [
+      "かんしゃ|Berterima kasih",
+      "あんない|Memandu",
+      "うんてん|Mengemudi",
+      "えんりょ|Sungkan"
+    ]
+  },
+  {
+    "kanji": "期待",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 1,
+    "options": [
+      "おうえん|Mendukung",
+      "きたい|Berharap",
+      "きこく|Pulang ke negara asal",
+      "けいかく|Merencanakan"
+    ]
+  },
+  {
+    "kanji": "帰国",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 2,
+    "options": [
+      "けいけん|Mengalami",
+      "けんぶつ|Menonton / Berwisata",
+      "きこく|Pulang ke negara asal",
+      "こしょう|Rusak"
+    ]
+  },
+  {
+    "kanji": "計画",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 3,
+    "options": [
+      "しゅっせき|Hadir",
+      "しゅっぱつ|Berangkat",
+      "あんない|Memandu",
+      "けいかく|Merencanakan"
+    ]
+  },
+  {
+    "kanji": "経験",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 0,
+    "options": [
+      "けいけん|Mengalami",
+      "うんてん|Mengemudi",
+      "えんりょ|Sungkan",
+      "おうえん|Mendukung"
+    ]
+  },
+  {
+    "kanji": "見物",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 1,
+    "options": [
+      "かんしゃ|Berterima kasih",
+      "けんぶつ|Menonton / Berwisata",
+      "きたい|Berharap",
+      "きこく|Pulang ke negara asal"
+    ]
+  },
+  {
+    "kanji": "故障",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 2,
+    "options": [
+      "けいかく|Merencanakan",
+      "けいけん|Mengalami",
+      "こしょう|Rusak",
+      "しゅっせき|Hadir"
+    ]
+  },
+  {
+    "kanji": "出席",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 3,
+    "options": [
+      "しゅっぱつ|Berangkat",
+      "あんない|Memandu",
+      "うんてん|Mengemudi",
+      "しゅっせき|Hadir"
+    ]
+  },
+  {
+    "kanji": "出発",
+    "tema": "kelompok 3 N4 part 1",
+    "answer": 0,
+    "options": [
+      "しゅっぱつ|Berangkat",
+      "えんりょ|Sungkan",
+      "おうえん|Mendukung",
+      "かんしゃ|Berterima kasih"
+    ]
+  },
+  {
+    "kanji": "準備",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 1,
+    "options": [
+      "しょうたい|Mengundang",
+      "じゅんび|Bersiap",
+      "そうだん|Berdiskusi",
+      "そつぎょう|Lulus"
+    ]
+  },
+  {
+    "kanji": "招待",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 2,
+    "options": [
+      "たいいん|Keluar RS",
+      "ちゅうい|Berhati-hati",
+      "しょうたい|Mengundang",
+      "ちょきん|Menabung"
+    ]
+  },
+  {
+    "kanji": "相談",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 3,
+    "options": [
+      "はつおん|Melafalkan",
+      "ほんやく|Menerjemahkan",
+      "よやく|Memesan",
+      "そうだん|Berdiskusi"
+    ]
+  },
+  {
+    "kanji": "卒業",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 0,
+    "options": [
+      "そつぎょう|Lulus",
+      "れんらく|Menghubungi",
+      "あんしん|Lega",
+      "しっぱい|Gagal"
+    ]
+  },
+  {
+    "kanji": "退院",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 1,
+    "options": [
+      "じゅんび|Bersiap",
+      "たいいん|Keluar RS",
+      "しょうたい|Mengundang",
+      "そうだん|Berdiskusi"
+    ]
+  },
+  {
+    "kanji": "注意",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 2,
+    "options": [
+      "そつぎょう|Lulus",
+      "たいいん|Keluar RS",
+      "ちゅうい|Berhati-hati",
+      "ちょきin|Menabung"
+    ]
+  },
+  {
+    "kanji": "貯金",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 3,
+    "options": [
+      "はつおん|Melafalkan",
+      "ほんやく|Menerjemahkan",
+      "よやく|Memesan",
+      "ちょきん|Menabung"
+    ]
+  },
+  {
+    "kanji": "発音",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 0,
+    "options": [
+      "はつおん|Melafalkan",
+      "れんらく|Menghubungi",
+      "あんしin|Lega",
+      "しっぱい|Gagal"
+    ]
+  },
+  {
+    "kanji": "翻訳",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 1,
+    "options": [
+      "じゅんび|Bersiap",
+      "ほんやく|Menerjemahkan",
+      "しょうたい|Mengundang",
+      "そうだん|Berdiskusi"
+    ]
+  },
+  {
+    "kanji": "予約",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 2,
+    "options": [
+      "そつぎょう|Lulus",
+      "たいいん|Keluar RS",
+      "よやく|Memesan",
+      "ちゅうい|Berhati-hati"
+    ]
+  },
+  {
+    "kanji": "連絡",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 3,
+    "options": [
+      "ちょきん|Menabung",
+      "はつおん|Melafalkan",
+      "ほんやく|Menerjemahkan",
+      "れんらく|Menghubungi"
+    ]
+  },
+  {
+    "kanji": "安心",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 0,
+    "options": [
+      "あんしん|Lega",
+      "よやく|Memesan",
+      "れんらく|Menghubungi",
+      "しっぱい|Gagal"
+    ]
+  },
+  {
+    "kanji": "失敗",
+    "tema": "kelompok 3 N4 part 2",
+    "answer": 1,
+    "options": [
+      "じゅんび|Bersiap",
+      "しっぱい|Gagal",
+      "しょうたい|Mengundang",
+      "そうだん|Berdiskusi"
+    ]
   }
 ]
