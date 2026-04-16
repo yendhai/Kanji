@@ -3375,5 +3375,720 @@
       "いやがる|Merasa tidak suka",
       "ふる|Turun (hujan)"
     ]
+  },
+  {
+    "kanji": "与える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 0,
+    "options": [
+      "あたえる|Memberikan",
+      "あわてる|Panik",
+      "なぐさめる|Menghibur",
+      "いれる|Memasukkan"
+    ]
+  },
+  {
+    "kanji": "慌てる",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 1,
+    "options": [
+      "あたえる|Memberikan",
+      "あわてる|Panik",
+      "うえる|Menanam",
+      "うける|Menerima / Mengikuti ujian"
+    ]
+  },
+  {
+    "kanji": "慰める",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 2,
+    "options": [
+      "おくれる|Terlambat",
+      "おさめる|Membayar",
+      "なぐさめる|Menghibur",
+      "かえる|Mengganti"
+    ]
+  },
+  {
+    "kanji": "入れる",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 3,
+    "options": [
+      "かぞえる|Menghitung",
+      "かまえる|Bersiap",
+      "こえる|Melampaui",
+      "いれる|Memasukkan"
+    ]
+  },
+  {
+    "kanji": "植える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 0,
+    "options": [
+      "うえる|Menanam",
+      "こたえる|Menjawab",
+      "こわれる|Rusak",
+      "さげる|Menurunkan"
+    ]
+  },
+  {
+    "kanji": "飢える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 1,
+    "options": [
+      "さける|Menghindari",
+      "うえる|Kelaparan",
+      "さめる|Terbangun",
+      "すすめる|Menyarankan"
+    ]
+  },
+  {
+    "kanji": "受ける",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 2,
+    "options": [
+      "そだてる|Membesarkan",
+      "たおれる|Roboh",
+      "うける|Menerima / Mengikuti ujian",
+      "たしかめる|Memastikan"
+    ]
+  },
+  {
+    "kanji": "遅れる",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 3,
+    "options": [
+      "たすける|Menolong",
+      "たてる|Membangun",
+      "つかれる|Lelah",
+      "おくれる|Terlambat"
+    ]
+  },
+  {
+    "kanji": "納める",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 0,
+    "options": [
+      "おさめる|Membayar",
+      "つたえる|Menyampaikan",
+      "つづける|Melanjutkan",
+      "つとめる|Bekerja (perusahaan)"
+    ]
+  },
+  {
+    "kanji": "替える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 1,
+    "options": [
+      "とける|Terpecahkan",
+      "かえる|Mengganti",
+      "にげる|Melarikan diri",
+      "ぬれる|Basah"
+    ]
+  },
+  {
+    "kanji": "数える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 2,
+    "options": [
+      "ならべる|Menyusun",
+      "なれる|Terbiasa",
+      "かぞえる|Menghitung",
+      "のがれる|Lolos / Menghindar"
+    ]
+  },
+  {
+    "kanji": "構える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 3,
+    "options": [
+      "のせる|Menaikkan",
+      "はれる|Cerah",
+      "ほめる|Memuji",
+      "かまえる|Bersiap"
+    ]
+  },
+  {
+    "kanji": "越える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 0,
+    "options": [
+      "こえる|Melampaui",
+      "まける|Kalah",
+      "まちがえる|Melakukan kesalahan",
+      "まとめる|Merangkum"
+    ]
+  },
+  {
+    "kanji": "答える",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 1,
+    "options": [
+      "みとめる|Mengakui",
+      "こたえる|Menjawab",
+      "むかえる|Menyambut",
+      "やめる|Berhenti (bekerja)"
+    ]
+  },
+  {
+    "kanji": "壊れる",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 2,
+    "options": [
+      "ゆれる|Bergoyang",
+      "わかれる|Berpisah",
+      "こわれる|Rusak",
+      "あたえる|Memberikan"
+    ]
+  },
+  {
+    "kanji": "下げる",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 3,
+    "options": [
+      "あわてる|Panik",
+      "なぐさめる|Menghibur",
+      "いれる|Memasukkan",
+      "さげる|Menurunkan"
+    ]
+  },
+  {
+    "kanji": "避ける",
+    "tema": "kelompok 2 N4 part 1",
+    "answer": 0,
+    "options": [
+      "さける|Menghindari",
+      "うえる|Menanam",
+      "うえる|Kelaparan",
+      "うける|Menerima / Mengikuti ujian"
+    ]
+  },
+  {
+    "kanji": "覚める",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 1,
+    "options": [
+      "おくれる|Terlambat",
+      "さめる|Terbangun",
+      "おさめる|Membayar",
+      "かえる|Mengganti"
+    ]
+  },
+  {
+    "kanji": "勧める",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 2,
+    "options": [
+      "かぞえる|Menghitung",
+      "かまえる|Bersiap",
+      "すすめる|Menyarankan",
+      "こえる|Melampaui"
+    ]
+  },
+  {
+    "kanji": "育てる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 3,
+    "options": [
+      "こたえる|Menjawab",
+      "こわれる|Rusak",
+      "さげる|Menurunkan",
+      "そだてる|Membesarkan"
+    ]
+  },
+  {
+    "kanji": "倒れる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 0,
+    "options": [
+      "たおれる|Roboh",
+      "さける|Menghindari",
+      "さめる|Terbangun",
+      "すすめる|Menyarankan"
+    ]
+  },
+  {
+    "kanji": "確かめる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 1,
+    "options": [
+      "そだてる|Membesarkan",
+      "たしかめる|Memastikan",
+      "たおれる|Roboh",
+      "たすける|Menolong"
+    ]
+  },
+  {
+    "kanji": "助ける",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 2,
+    "options": [
+      "たてる|Membangun",
+      "つかれる|Lelah",
+      "たすける|Menolong",
+      "つたえる|Menyampaikan"
+    ]
+  },
+  {
+    "kanji": "建てる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 3,
+    "options": [
+      "つづける|Melanjutkan",
+      "つとめる|Bekerja (perusahaan)",
+      "とける|Terpecahkan",
+      "たてる|Membangun"
+    ]
+  },
+  {
+    "kanji": "疲れる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 0,
+    "options": [
+      "つかれる|Lelah",
+      "にげる|Melarikan diri",
+      "ぬれる|Basah",
+      "ならべる|Menyusun"
+    ]
+  },
+  {
+    "kanji": "伝える",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 1,
+    "options": [
+      "なれる|Terbiasa",
+      "つたえる|Menyampaikan",
+      "のがれる|Lolos / Menghindar",
+      "のせる|Menaikkan"
+    ]
+  },
+  {
+    "kanji": "続ける",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 2,
+    "options": [
+      "はれる|Cerah",
+      "ほめる|Memuji",
+      "つづける|Melanjutkan",
+      "まける|Kalah"
+    ]
+  },
+  {
+    "kanji": "勤める",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 3,
+    "options": [
+      "まちがえる|Melakukan kesalahan",
+      "まとめる|Merangkum",
+      "みとめる|Mengakui",
+      "つとめる|Bekerja (perusahaan)"
+    ]
+  },
+  {
+    "kanji": "解ける",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 0,
+    "options": [
+      "とける|Terpecahkan",
+      "むかえる|Menyambut",
+      "やめる|Berhenti (bekerja)",
+      "ゆれる|Bergoyang"
+    ]
+  },
+  {
+    "kanji": "逃げる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 1,
+    "options": [
+      "わかれる|Berpisah",
+      "にげる|Melarikan diri",
+      "あたえる|Memberikan",
+      "あわてる|Panik"
+    ]
+  },
+  {
+    "kanji": "濡れる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 2,
+    "options": [
+      "なぐさめる|Menghibur",
+      "いれる|Memasukkan",
+      "ぬれる|Basah",
+      "うえる|Menanam"
+    ]
+  },
+  {
+    "kanji": "並べる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 3,
+    "options": [
+      "うえる|Kelaparan",
+      "うける|Menerima / Mengikuti ujian",
+      "おくれる|Terlambat",
+      "ならべる|Menyusun"
+    ]
+  },
+  {
+    "kanji": "慣れる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 0,
+    "options": [
+      "なれる|Terbiasa",
+      "おさめる|Membayar",
+      "かえる|Mengganti",
+      "かぞえる|Menghitung"
+    ]
+  },
+  {
+    "kanji": "逃れる",
+    "tema": "kelompok 2 N4 part 2",
+    "answer": 1,
+    "options": [
+      "かまえる|Bersiap",
+      "のがれる|Lolos / Menghindar",
+      "こえる|Melampaui",
+      "こたえる|Menjawab"
+    ]
+  },
+  {
+    "kanji": "乗せる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 2,
+    "options": [
+      "こわれる|Rusak",
+      "さげる|Menurunkan",
+      "のせる|Menaikkan",
+      "さける|Menghindari"
+    ]
+  },
+  {
+    "kanji": "晴れる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 3,
+    "options": [
+      "さめる|Terbangun",
+      "すすめる|Menyarankan",
+      "そだてる|Membesarkan",
+      "はれる|Cerah"
+    ]
+  },
+  {
+    "kanji": "褒める",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 0,
+    "options": [
+      "ほめる|Memuji",
+      "たおれる|Roboh",
+      "たしかめる|Memastikan",
+      "たすける|Menolong"
+    ]
+  },
+  {
+    "kanji": "負ける",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 1,
+    "options": [
+      "たてる|Membangun",
+      "まける|Kalah",
+      "つかれる|Lelah",
+      "つたえる|Menyampaikan"
+    ]
+  },
+  {
+    "kanji": "間違える",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 2,
+    "options": [
+      "つづける|Melanjutkan",
+      "つとめる|Bekerja (perusahaan)",
+      "まちがえる|Melakukan kesalahan",
+      "とける|Terpecahkan"
+    ]
+  },
+  {
+    "kanji": "まとめる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 3,
+    "options": [
+      "にげる|Melarikan diri",
+      "ぬれる|Basah",
+      "ならべる|Menyusun",
+      "まとめる|Merangkum"
+    ]
+  },
+  {
+    "kanji": "認める",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 0,
+    "options": [
+      "みとめる|Mengakui",
+      "なれる|Terbiasa",
+      "のがれる|Lolos / Menghindar",
+      "のせる|Menaikkan"
+    ]
+  },
+  {
+    "kanji": "迎える",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 1,
+    "options": [
+      "はれる|Cerah",
+      "むかえる|Menyambut",
+      "ほめる|Memuji",
+      "まける|Kalah"
+    ]
+  },
+  {
+    "kanji": "辞める",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 2,
+    "options": [
+      "まちがえる|Melakukan kesalahan",
+      "まとめる|Merangkum",
+      "やめる|Berhenti (bekerja)",
+      "みとめる|Mengakui"
+    ]
+  },
+  {
+    "kanji": "揺れる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 3,
+    "options": [
+      "むかえる|Menyambut",
+      "やめる|Berhenti (bekerja)",
+      "わかれる|Berpisah",
+      "ゆれる|Bergoyang"
+    ]
+  },
+  {
+    "kanji": "分かれる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 0,
+    "options": [
+      "わかれる|Berpisah",
+      "あたえる|Memberikan",
+      "あわてる|Panik",
+      "なぐさめる|Menghibur"
+    ]
+  },
+  {
+    "kanji": "飽きる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 1,
+    "options": [
+      "いきる|Hidup",
+      "あきる|Bosan",
+      "おきる|Bangun",
+      "おりる|Turun (dari kendaraan)"
+    ]
+  },
+  {
+    "kanji": "生きる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 2,
+    "options": [
+      "かりる|Meminjam",
+      "かんじる|Merasakan",
+      "いきる|Hidup",
+      "きる|Mengenakan"
+    ]
+  },
+  {
+    "kanji": "起きる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 3,
+    "options": [
+      "すぎる|Melewati",
+      "ぞんじる|Mengetahui (humble)",
+      "たりる|Cukup",
+      "おきる|Bangun"
+    ]
+  },
+  {
+    "kanji": "降りる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 0,
+    "options": [
+      "おりる|Turun (dari kendaraan)",
+      "できる|Bisa",
+      "とじる|Menutup (buku)",
+      "にる|Mirip"
+    ]
+  },
+  {
+    "kanji": "借りる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 1,
+    "options": [
+      "にる|Merebus",
+      "かりる|Meminjam",
+      "おちる|Jatuh",
+      "しんじる|Percaya"
+    ]
+  },
+  {
+    "kanji": "感じる",
+    "tema": "kelompok 2 N4 part 3",
+    "answer": 2,
+    "options": [
+      "つうじる|Mengerti",
+      "みちる|Penuh / Pasang",
+      "かんじる|Merasakan",
+      "もちいる|Menggunakan"
+    ]
+  },
+  {
+    "kanji": "着る",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 3,
+    "options": [
+      "めいじる|Memerintahkan",
+      "あきる|Bosan",
+      "いきる|Hidup",
+      "きる|Mengenakan"
+    ]
+  },
+  {
+    "kanji": "過ぎる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 0,
+    "options": [
+      "すぎる|Melewati",
+      "おきる|Bangun",
+      "おりる|Turun (dari kendaraan)",
+      "かりる|Meminjam"
+    ]
+  },
+  {
+    "kanji": "存じる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 1,
+    "options": [
+      "かんじる|Merasakan",
+      "ぞんじる|Mengetahui (humble)",
+      "きる|Mengenakan",
+      "すぎる|Melewati"
+    ]
+  },
+  {
+    "kanji": "足りる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 2,
+    "options": [
+      "できる|Bisa",
+      "とじる|Menutup (buku)",
+      "たりる|Cukup",
+      "にる|Mirip"
+    ]
+  },
+  {
+    "kanji": "出来る",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 3,
+    "options": [
+      "にる|Merebus",
+      "おちる|Jatuh",
+      "しんじる|Percaya",
+      "できる|Bisa"
+    ]
+  },
+  {
+    "kanji": "閉じる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 0,
+    "options": [
+      "とじる|Menutup (buku)",
+      "つうじる|Mengerti",
+      "みちる|Penuh / Pasang",
+      "もちいる|Menggunakan"
+    ]
+  },
+  {
+    "kanji": "似る",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 1,
+    "options": [
+      "めいじる|Memerintahkan",
+      "にる|Mirip",
+      "あきる|Bosan",
+      "いきる|Hidup"
+    ]
+  },
+  {
+    "kanji": "煮る",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 2,
+    "options": [
+      "おきる|Bangun",
+      "おりる|Turun (dari kendaraan)",
+      "にる|Merebus",
+      "かりる|Meminjam"
+    ]
+  },
+  {
+    "kanji": "落ちる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 3,
+    "options": [
+      "かんじる|Merasakan",
+      "きる|Mengenakan",
+      "すぎる|Melewati",
+      "おちる|Jatuh"
+    ]
+  },
+  {
+    "kanji": "信じる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 0,
+    "options": [
+      "しんじる|Percaya",
+      "ぞんじる|Mengetahui (humble)",
+      "たりる|Cukup",
+      "できる|Bisa"
+    ]
+  },
+  {
+    "kanji": "通じる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 1,
+    "options": [
+      "とじる|Menutup (buku)",
+      "つうじる|Mengerti",
+      "にる|Mirip",
+      "にる|Merebus"
+    ]
+  },
+  {
+    "kanji": "満ちる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 2,
+    "options": [
+      "おちる|Jatuh",
+      "しんじる|Percaya",
+      "みちる|Penuh / Pasang",
+      "もちいる|Menggunakan"
+    ]
+  },
+  {
+    "kanji": "用いる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 3,
+    "options": [
+      "めいじる|Memerintahkan",
+      "あきる|Bosan",
+      "いきる|Hidup",
+      "もちいる|Menggunakan"
+    ]
+  },
+  {
+    "kanji": "命じる",
+    "tema": "kelompok 2 N4 part 4",
+    "answer": 0,
+    "options": [
+      "めいじる|Memerintahkan",
+      "おきる|Bangun",
+      "おりる|Turun (dari kendaraan)",
+      "かりる|Meminjam"
+    ]
   }
 ]
