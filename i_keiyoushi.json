@@ -61,6 +61,7 @@
   },
   {
     "kanji": "大きい",
+    "special": true,
     "hiragana": "おおきい",
     "tema": "Ukuran",
     "answer": 0,
@@ -73,6 +74,7 @@
   },
   {
     "kanji": "小さい",
+    "special": true,
     "hiragana": "ちいさい",
     "tema": "Ukuran",
     "answer": 1,
