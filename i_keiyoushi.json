@@ -1,7 +1,4 @@
 [
-  // ==========================================
-  // TEMA 1: RASA
-  // ==========================================
   {
     "kanji": "甘い",
     "tema": "Rasa",
@@ -58,10 +55,6 @@
       "うれしい|Asin"
     ]
   },
-
-  // ==========================================
-  // TEMA 3: WARNA & VISUAL
-  // ==========================================
   {
     "kanji": "赤い",
     "tema": "Warna & Visual",
@@ -185,10 +178,6 @@
       "はずかしい|Pekat"
     ]
   },
-
-  // ==========================================
-  // TEMA 4: CUACA & SUHU
-  // ==========================================
   {
     "kanji": "暑い",
     "tema": "Cuaca & Suhu",
@@ -234,30 +223,6 @@
     ]
   },
   {
-    "kanji": "暖かい",
-    "spesial": true,
-    "tema": "Cuaca & Suhu",
-    "answer": 0,
-    "options": [
-      "あたたかい|Hangat (Cuaca)",
-      "こまかい|Panas",
-      "やわらかい|Dingin",
-      "あたたかい|Hangat Kuku"
-    ]
-  },
-  {
-    "kanji": "温かい",
-    "spesial": true,
-    "tema": "Cuaca & Suhu",
-    "answer": 1,
-    "options": [
-      "やわらかい|Dingin",
-      "あたたかい|Hangat (Benda)",
-      "こまかい|Panas",
-      "あたたかい|Sejuk"
-    ]
-  },
-  {
     "kanji": "涼しい",
     "spesial": true,
     "tema": "Cuaca & Suhu",
@@ -269,10 +234,6 @@
       "くるしい|Hangat"
     ]
   },
-
-  // ==========================================
-  // TEMA 5: PERASAAN & KONDISI MENTAL
-  // ==========================================
   {
     "kanji": "楽しい",
     "tema": "Perasaan & Kondisi Mental",
@@ -407,10 +368,6 @@
       "にくい|Benci"
     ]
   },
-
-  // ==========================================
-  // TEMA 6: SIFAT & KARAKTER
-  // ==========================================
   {
     "kanji": "大人しい",
     "tema": "Sifat & Karakter",
@@ -521,22 +478,6 @@
       "えらい|Hebat"
     ]
   },
-  {
-    "kanji": "だらしない",
-    "spesial": true,
-    "tema": "Sifat & Karakter",
-    "answer": 2,
-    "options": [
-      "つまらない|Disiplin",
-      "くだらない|Hebat",
-      "だらしない|Berantakan",
-      "すくない|Licik"
-    ]
-  },
-
-  // ==========================================
-  // TEMA 7: PENILAIAN & KUALITAS
-  // ==========================================
   {
     "kanji": "新しい",
     "tema": "Penilaian & Kualitas",
@@ -725,45 +666,17 @@
     ]
   },
   {
-    "kanji": "詰まらない",
+    "kanji": "危ない",
     "spesial": true,
     "tema": "Penilaian & Kualitas",
     "answer": 1,
     "options": [
-      "くだらない|Remeh",
-      "つまらない|Membosankan",
+      "すくない|Berbahaya",
       "あぶない|Berbahaya",
-      "すくない|Luar biasa"
+      "もったいない|Luar biasa",
+      "しかたがない|Membosankan"
     ]
   },
-  {
-    "kanji": "くだらない",
-    "spesial": true,
-    "tema": "Penilaian & Kualitas",
-    "answer": 2,
-    "options": [
-      "あぶない|Berbahaya",
-      "つまらない|Membosankan",
-      "くだらない|Remeh",
-      "もったいない|Parah"
-    ]
-  },
-  {
-    "kanji": "危ない",
-    "spesial": true,
-    "tema": "Penilaian & Kualitas",
-    "answer": 3,
-    "options": [
-      "くだらない|Remeh",
-      "つまらない|Membosankan",
-      "みっともない|Luar biasa",
-      "あぶない|Berbahaya"
-    ]
-  },
-
-  // ==========================================
-  // TEMA 8: RUANG, JARAK & KUANTITAS
-  // ==========================================
   {
     "kanji": "遠い",
     "tema": "Ruang, Jarak & Kuantitas",
@@ -904,7 +817,7 @@
       "かるい|Ringan",
       "おもい|Berat",
       "するどい|Tajam",
-      "けわしい|Terjal"
+      "ひくい|Rendah"
     ]
   },
   {
@@ -915,7 +828,7 @@
       "かるい|Ringan",
       "おもい|Berat",
       "するどい|Tajam",
-      "けわしい|Terjal"
+      "ひくい|Rendah"
     ]
   },
   {
@@ -959,28 +872,12 @@
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 1,
     "options": [
-      "つまらない|Rinci",
+      "あぶない|Rinci",
       "すくない|Sedikit",
-      "くだらない|Banyak",
-      "あぶない|Luas"
+      "もったいない|Banyak",
+      "しかたがない|Sempit"
     ]
   },
-  {
-    "kanji": "細かい",
-    "spesial": true,
-    "tema": "Ruang, Jarak & Kuantitas",
-    "answer": 2,
-    "options": [
-      "あたたかい|Banyak",
-      "やわらかい|Sedikit",
-      "こまかい|Rinci",
-      "あたたかい|Sempit"
-    ]
-  },
-
-  // ==========================================
-  // TEMA 9: SENSASI FISIK
-  // ==========================================
   {
     "kanji": "痛い",
     "tema": "Sensasi Fisik",
@@ -1059,97 +956,47 @@
     ]
   },
   {
-    "kanji": "柔らかい",
-    "spesial": true,
-    "tema": "Sensasi Fisik",
-    "answer": 3,
-    "options": [
-      "こまかい|Keras",
-      "あたたかい|Sakit",
-      "あたたかい|Gatal",
-      "やわらかい|Lembut"
-    ]
-  },
-  {
-    "kanji": "軟らかい",
-    "spesial": true,
-    "tema": "Sensasi Fisik",
-    "answer": 0,
-    "options": [
-      "やわらかい|Lunak",
-      "こまかい|Keras",
-      "あたたかい|Kuat",
-      "あたたかい|Lemah"
-    ]
-  },
-
-  // ==========================================
-  // TEMA 10: FRASA/UNGKAPAN BAKU (KHUSUS N4)
-  // ==========================================
-  {
     "kanji": "仕方がない",
     "tema": "Frasa/Ungkapan Baku",
     "answer": 0,
     "options": [
       "しかたがない|Tidak ada cara lain",
-      "とんでもない|Tidak masuk akal",
-      "みっともない|Tidak pantas",
-      "もったいない|Mubazir"
-    ]
-  },
-  {
-    "kanji": "とんでもない",
-    "tema": "Frasa/Ungkapan Baku",
-    "answer": 1,
-    "options": [
-      "やむをえない|Terpaksa",
-      "とんでもない|Tidak masuk akal",
-      "もうしわけない|Mohon maaf",
-      "しかたがない|Tidak ada cara lain"
-    ]
-  },
-  {
-    "kanji": "みっともない",
-    "tema": "Frasa/Ungkapan Baku",
-    "answer": 2,
-    "options": [
       "もったいない|Mubazir",
       "やむをえない|Terpaksa",
-      "みっともない|Tidak pantas",
       "もうしわけない|Mohon maaf"
     ]
   },
   {
     "kanji": "勿体ない",
     "tema": "Frasa/Ungkapan Baku",
-    "answer": 3,
+    "answer": 1,
     "options": [
       "しかたがない|Tidak ada cara lain",
-      "とんでもない|Tidak masuk akal",
-      "みっともない|Tidak pantas",
-      "もったいない|Mubazir"
+      "もったいない|Mubazir",
+      "やむをえない|Terpaksa",
+      "もうしわけない|Mohon maaf"
     ]
   },
   {
     "kanji": "止むを得ない",
     "tema": "Frasa/Ungkapan Baku",
-    "answer": 0,
+    "answer": 2,
     "options": [
-      "やむをえない|Terpaksa",
       "もうしわけない|Mohon maaf",
-      "しかたがない|Tidak ada cara lain",
-      "とんでもない|Tidak masuk akal"
+      "もったいない|Mubazir",
+      "やむをえない|Terpaksa",
+      "しかたがない|Tidak ada cara lain"
     ]
   },
   {
     "kanji": "申し訳ない",
     "tema": "Frasa/Ungkapan Baku",
-    "answer": 1,
+    "answer": 3,
     "options": [
-      "みっともない|Tidak pantas",
-      "もうしわけない|Mohon maaf",
       "もったいない|Mubazir",
-      "やむをえない|Terpaksa"
+      "やむをえない|Terpaksa",
+      "しかたがない|Tidak ada cara lain",
+      "もうしわけない|Mohon maaf"
     ]
   }
 ]
