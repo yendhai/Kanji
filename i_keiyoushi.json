@@ -68,7 +68,7 @@
   },
   {
     "kanji": "美味しい",
-    "spesial": true,
+    "special": true,
     "tema": "Rasa",
     "answer": 0,
     "options": [
@@ -213,7 +213,7 @@
   },
   {
     "kanji": "汚い",
-    "spesial": true,
+    "special": true,
     "tema": "Warna & Visual",
     "answer": 0,
     "options": [
@@ -225,7 +225,7 @@
   },
   {
     "kanji": "美しい",
-    "spesial": true,
+    "special": true,
     "tema": "Warna & Visual",
     "answer": 1,
     "options": [
@@ -237,7 +237,7 @@
   },
   {
     "kanji": "眩しい",
-    "spesial": true,
+    "special": true,
     "tema": "Warna & Visual",
     "answer": 2,
     "options": [
@@ -249,7 +249,7 @@
   },
   {
     "kanji": "華々しい",
-    "spesial": true,
+    "special": true,
     "tema": "Warna & Visual",
     "answer": 3,
     "options": [
@@ -306,7 +306,7 @@
   },
   {
     "kanji": "涼しい",
-    "spesial": true,
+    "special": true,
     "tema": "Cuaca & Suhu",
     "answer": 0,
     "options": [
@@ -318,7 +318,7 @@
   },
   {
     "kanji": "暖かい",
-    "spesial": true,
+    "special": true,
     "tema": "Cuaca & Suhu",
     "answer": 1,
     "options": [
@@ -330,7 +330,7 @@
   },
   {
     "kanji": "温かい",
-    "spesial": true,
+    "special": true,
     "tema": "Cuaca & Suhu",
     "answer": 2,
     "options": [
@@ -486,7 +486,7 @@
   },
   {
     "kanji": "悩ましい",
-    "spesial": true,
+    "special": true,
     "tema": "Perasaan & Kondisi Mental",
     "answer": 1,
     "options": [
@@ -542,7 +542,7 @@
   },
   {
     "kanji": "切ない",
-    "spesial": true,
+    "special": true,
     "tema": "Perasaan & Kondisi Mental",
     "answer": 2,
     "options": [
@@ -554,7 +554,7 @@
   },
   {
     "kanji": "ありがたい",
-    "spesial": true,
+    "special": true,
     "tema": "Perasaan & Kondisi Mental",
     "answer": 3,
     "options": [
@@ -787,7 +787,7 @@
   },
   {
     "kanji": "浅ましい",
-    "spesial": true,
+    "special": true,
     "tema": "Sifat & Karakter",
     "answer": 0,
     "options": [
@@ -799,7 +799,7 @@
   },
   {
     "kanji": "厚かましい",
-    "spesial": true,
+    "special": true,
     "tema": "Sifat & Karakter",
     "answer": 1,
     "options": [
@@ -1098,7 +1098,7 @@
   },
   {
     "kanji": "素晴らしい",
-    "spesial": true,
+    "special": true,
     "tema": "Penilaian & Kualitas",
     "answer": 2,
     "options": [
@@ -1110,7 +1110,7 @@
   },
   {
     "kanji": "危ない",
-    "spesial": true,
+    "special": true,
     "tema": "Penilaian & Kualitas",
     "answer": 3,
     "options": [
@@ -1122,7 +1122,7 @@
   },
   {
     "kanji": "めでたい",
-    "spesial": true,
+    "special": true,
     "tema": "Penilaian & Kualitas",
     "answer": 0,
     "options": [
@@ -1134,7 +1134,7 @@
   },
   {
     "kanji": "痛ましい",
-    "spesial": true,
+    "special": true,
     "tema": "Penilaian & Kualitas",
     "answer": 1,
     "options": [
@@ -1146,7 +1146,7 @@
   },
   {
     "kanji": "望ましい",
-    "spesial": true,
+    "special": true,
     "tema": "Penilaian & Kualitas",
     "answer": 2,
     "options": [
@@ -1158,7 +1158,7 @@
   },
   {
     "kanji": "勇ましい",
-    "spesial": true,
+    "special": true,
     "tema": "Penilaian & Kualitas",
     "answer": 3,
     "options": [
@@ -1347,7 +1347,7 @@
   },
   {
     "kanji": "険しい",
-    "spesial": true,
+    "special": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 0,
     "options": [
@@ -1359,7 +1359,7 @@
   },
   {
     "kanji": "夥しい",
-    "spesial": true,
+    "special": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 1,
     "options": [
@@ -1371,7 +1371,7 @@
   },
   {
     "kanji": "等しい",
-    "spesial": true,
+    "special": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 2,
     "options": [
@@ -1383,7 +1383,7 @@
   },
   {
     "kanji": "短い",
-    "spesial": true,
+    "special": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 3,
     "options": [
@@ -1395,7 +1395,7 @@
   },
   {
     "kanji": "細かい",
-    "spesial": true,
+    "special": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 0,
     "options": [
@@ -1407,7 +1407,7 @@
   },
   {
     "kanji": "少ない",
-    "spesial": true,
+    "special": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 1,
     "options": [
