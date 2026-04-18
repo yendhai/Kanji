@@ -855,27 +855,15 @@
     ]
   },
   {
-    "kanji": "等しい",
+    "kanji": "平たい",
     "spesial": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 0,
     "options": [
-      "ひとしい|Setara",
-      "むずかしい|Sedikit",
-      "やさしい|Rinci",
-      "おかしい|Banyak"
-    ]
-  },
-  {
-    "kanji": "少ない",
-    "spesial": true,
-    "tema": "Ruang, Jarak & Kuantitas",
-    "answer": 1,
-    "options": [
-      "あぶない|Rinci",
-      "すくない|Sedikit",
-      "もったいない|Banyak",
-      "しかたがない|Sempit"
+      "ひらたい|Pipih",
+      "つめたい|Luas",
+      "ねむたい|Dalam",
+      "おもたい|Dangkal"
     ]
   },
   {
@@ -956,47 +944,39 @@
     ]
   },
   {
-    "kanji": "仕方がない",
-    "tema": "Frasa/Ungkapan Baku",
+    "kanji": "冷たい",
+    "spesial": true,
+    "tema": "Sensasi Fisik",
     "answer": 0,
     "options": [
-      "しかたがない|Tidak ada cara lain",
-      "もったいない|Mubazir",
-      "やむをえない|Terpaksa",
-      "もうしわけない|Mohon maaf"
+      "つめたい|Dingin",
+      "ねむたい|Sakit",
+      "おもたい|Mengantuk",
+      "ひらたい|Lemah"
     ]
   },
   {
-    "kanji": "勿体ない",
-    "tema": "Frasa/Ungkapan Baku",
+    "kanji": "眠たい",
+    "spesial": true,
+    "tema": "Sensasi Fisik",
     "answer": 1,
     "options": [
-      "しかたがない|Tidak ada cara lain",
-      "もったいない|Mubazir",
-      "やむをえない|Terpaksa",
-      "もうしわけない|Mohon maaf"
+      "つめたい|Keras",
+      "ねむたい|Mengantuk",
+      "おもたい|Lemah",
+      "ひらたい|Gatal"
     ]
   },
   {
-    "kanji": "止むを得ない",
-    "tema": "Frasa/Ungkapan Baku",
+    "kanji": "重たい",
+    "spesial": true,
+    "tema": "Sensasi Fisik",
     "answer": 2,
     "options": [
-      "もうしわけない|Mohon maaf",
-      "もったいない|Mubazir",
-      "やむをえない|Terpaksa",
-      "しかたがない|Tidak ada cara lain"
-    ]
-  },
-  {
-    "kanji": "申し訳ない",
-    "tema": "Frasa/Ungkapan Baku",
-    "answer": 3,
-    "options": [
-      "もったいない|Mubazir",
-      "やむをえない|Terpaksa",
-      "しかたがない|Tidak ada cara lain",
-      "もうしわけない|Mohon maaf"
+      "つめたい|Lemah",
+      "ねむたい|Kuat",
+      "おもたい|Berat",
+      "ひらたい|Sakit"
     ]
   }
 ]
