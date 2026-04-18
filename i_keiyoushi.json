@@ -1,5 +1,6 @@
 [
   {
+    "_penanda_tema": "=== TEMA 1: RASA ===",
     "kanji": "甘い",
     "tema": "Rasa",
     "answer": 0,
@@ -37,10 +38,32 @@
     "tema": "Rasa",
     "answer": 3,
     "options": [
-      "あまい|Manis",
-      "しおからい|Asin",
+      "からい|Pedas",
+      "しぶい|Sepat",
       "にがい|Pahit",
       "まずい|Tidak enak"
+    ]
+  },
+  {
+    "kanji": "辛い",
+    "tema": "Rasa",
+    "answer": 0,
+    "options": [
+      "からい|Pedas",
+      "しぶい|Sepat",
+      "あまい|Manis",
+      "にがい|Pahit"
+    ]
+  },
+  {
+    "kanji": "渋い",
+    "tema": "Rasa",
+    "answer": 1,
+    "options": [
+      "からい|Pedas",
+      "しぶい|Sepat",
+      "まずい|Tidak enak",
+      "しおからい|Asin"
     ]
   },
   {
@@ -51,11 +74,12 @@
     "options": [
       "おいしい|Enak",
       "たのしい|Pahit",
-      "さびしい|Manis",
-      "うれしい|Asin"
+      "うつくしい|Asin",
+      "さびしい|Sepat"
     ]
   },
   {
+    "_penanda_tema": "=== TEMA 3: WARNA & VISUAL ===",
     "kanji": "赤い",
     "tema": "Warna & Visual",
     "answer": 0,
@@ -73,7 +97,7 @@
     "options": [
       "あかい|Merah",
       "あおい|Biru",
-      "ちゃいろい|Coklat",
+      "ちゃいろい|Cokelat",
       "きいろい|Kuning"
     ]
   },
@@ -104,10 +128,10 @@
     "tema": "Warna & Visual",
     "answer": 0,
     "options": [
-      "ちゃいろい|Coklat",
+      "ちゃいろい|Cokelat",
       "きいろい|Kuning",
-      "きたない|Kotor",
-      "こい|Pekat"
+      "こい|Pekat",
+      "くらい|Gelap"
     ]
   },
   {
@@ -115,43 +139,88 @@
     "tema": "Warna & Visual",
     "answer": 1,
     "options": [
-      "ちゃいろい|Coklat",
+      "ちゃいろい|Cokelat",
       "きいろい|Kuning",
-      "くらい|Gelap",
-      "しろい|Putih"
-    ]
-  },
-  {
-    "kanji": "汚い",
-    "tema": "Warna & Visual",
-    "answer": 2,
-    "options": [
-      "こい|Pekat",
-      "くらい|Gelap",
-      "きたない|Kotor",
-      "あかい|Merah"
+      "うすい|Tipis/Pudar",
+      "あくどい|Mencolok"
     ]
   },
   {
     "kanji": "濃い",
     "tema": "Warna & Visual",
-    "answer": 3,
+    "answer": 2,
     "options": [
-      "きたない|Kotor",
       "くらい|Gelap",
-      "あおい|Biru",
-      "こい|Pekat"
+      "うすい|Tipis/Pudar",
+      "こい|Pekat",
+      "あおい|Biru"
     ]
   },
   {
     "kanji": "暗い",
     "tema": "Warna & Visual",
+    "answer": 3,
+    "options": [
+      "あくどい|Mencolok",
+      "みにくい|Buruk rupa",
+      "こい|Pekat",
+      "くらい|Gelap"
+    ]
+  },
+  {
+    "kanji": "薄い",
+    "tema": "Warna & Visual",
     "answer": 0,
     "options": [
-      "くらい|Gelap",
-      "きたない|Kotor",
+      "うすい|Tipis/Pudar",
       "こい|Pekat",
-      "くろい|Hitam"
+      "あおじろい|Pucat",
+      "みにくい|Buruk rupa"
+    ]
+  },
+  {
+    "kanji": "青白い",
+    "tema": "Warna & Visual",
+    "answer": 1,
+    "options": [
+      "うすい|Tipis/Pudar",
+      "あおじろい|Pucat",
+      "あくどい|Mencolok",
+      "くらい|Gelap"
+    ]
+  },
+  {
+    "kanji": "醜い",
+    "tema": "Warna & Visual",
+    "answer": 2,
+    "options": [
+      "あくどい|Mencolok",
+      "あおじろい|Pucat",
+      "みにくい|Buruk rupa",
+      "うすい|Tipis/Pudar"
+    ]
+  },
+  {
+    "kanji": "あくどい",
+    "tema": "Warna & Visual",
+    "answer": 3,
+    "options": [
+      "みにくい|Buruk rupa",
+      "こい|Pekat",
+      "くらい|Gelap",
+      "あくどい|Mencolok"
+    ]
+  },
+  {
+    "kanji": "汚い",
+    "spesial": true,
+    "tema": "Warna & Visual",
+    "answer": 0,
+    "options": [
+      "きたない|Kotor",
+      "あぶない|Pekat",
+      "すくない|Buruk rupa",
+      "せつない|Pucat"
     ]
   },
   {
@@ -179,6 +248,19 @@
     ]
   },
   {
+    "kanji": "華々しい",
+    "spesial": true,
+    "tema": "Warna & Visual",
+    "answer": 3,
+    "options": [
+      "まぶしい|Silau",
+      "うつくしい|Indah",
+      "たのしい|Kotor",
+      "はなばなしい|Gemilang"
+    ]
+  },
+  {
+    "_penanda_tema": "=== TEMA 4: CUACA & SUHU ===",
     "kanji": "暑い",
     "tema": "Cuaca & Suhu",
     "answer": 0,
@@ -226,22 +308,47 @@
     "kanji": "涼しい",
     "spesial": true,
     "tema": "Cuaca & Suhu",
-    "answer": 2,
+    "answer": 0,
     "options": [
-      "たのしい|Panas",
-      "さびしい|Dingin",
       "すずしい|Sejuk",
+      "さびしい|Dingin",
+      "たのしい|Panas",
       "くるしい|Hangat"
     ]
   },
   {
+    "kanji": "暖かい",
+    "spesial": true,
+    "tema": "Cuaca & Suhu",
+    "answer": 1,
+    "options": [
+      "こまかい|Panas",
+      "あたたかい|Hangat (Cuaca)",
+      "みじかい|Dingin",
+      "あたたかい|Hangat Kuku"
+    ]
+  },
+  {
+    "kanji": "温かい",
+    "spesial": true,
+    "tema": "Cuaca & Suhu",
+    "answer": 2,
+    "options": [
+      "みじかい|Dingin",
+      "こまかい|Panas",
+      "あたたかい|Hangat (Benda)",
+      "あたたかい|Sejuk"
+    ]
+  },
+  {
+    "_penanda_tema": "=== TEMA 5: PERASAAN & KONDISI MENTAL ===",
     "kanji": "楽しい",
     "tema": "Perasaan & Kondisi Mental",
     "answer": 0,
     "options": [
       "たのしい|Menyenangkan",
       "さびしい|Kesepian",
-      "はずかしい|Malu",
+      "くるしい|Tersiksa",
       "おそろしい|Mengerikan"
     ]
   },
@@ -253,130 +360,220 @@
       "たのしい|Menyenangkan",
       "さびしい|Kesepian",
       "くるしい|Tersiksa",
-      "うらやましい|Iri"
-    ]
-  },
-  {
-    "kanji": "恥ずかしい",
-    "tema": "Perasaan & Kondisi Mental",
-    "answer": 2,
-    "options": [
-      "おそろしい|Mengerikan",
-      "くるしい|Tersiksa",
-      "はずかしい|Malu",
-      "たのしい|Menyenangkan"
+      "かなしい|Sedih"
     ]
   },
   {
     "kanji": "恐ろしい",
     "tema": "Perasaan & Kondisi Mental",
-    "answer": 3,
+    "answer": 2,
     "options": [
-      "さびしい|Kesepian",
-      "うらやましい|Iri",
-      "はずかしい|Malu",
-      "おそろしい|Mengerikan"
-    ]
-  },
-  {
-    "kanji": "羨ましい",
-    "tema": "Perasaan & Kondisi Mental",
-    "answer": 0,
-    "options": [
-      "うらやましい|Iri",
       "くるしい|Tersiksa",
-      "ほしい|Ingin",
-      "あやしい|Mencurigakan"
+      "かなしい|Sedih",
+      "おそろしい|Mengerikan",
+      "たのしい|Menyenangkan"
     ]
   },
   {
     "kanji": "苦しい",
     "tema": "Perasaan & Kondisi Mental",
-    "answer": 1,
+    "answer": 3,
     "options": [
       "ほしい|Ingin",
-      "くるしい|Tersiksa",
+      "あやしい|Mencurigakan",
       "たのもしい|Diandalkan",
-      "さびしい|Kesepian"
+      "くるしい|Tersiksa"
     ]
   },
   {
     "kanji": "欲しい",
     "tema": "Perasaan & Kondisi Mental",
-    "answer": 2,
+    "answer": 0,
     "options": [
+      "ほしい|Ingin",
       "あやしい|Mencurigakan",
       "たのもしい|Diandalkan",
-      "ほしい|Ingin",
-      "うらやましい|Iri"
+      "いそがしい|Sibuk"
     ]
   },
   {
     "kanji": "怪しい",
     "tema": "Perasaan & Kondisi Mental",
-    "answer": 3,
+    "answer": 1,
     "options": [
-      "くるしい|Tersiksa",
       "ほしい|Ingin",
+      "あやしい|Mencurigakan",
       "たのもしい|Diandalkan",
-      "あやしい|Mencurigakan"
+      "いそがしい|Sibuk"
     ]
   },
   {
     "kanji": "頼もしい",
     "tema": "Perasaan & Kondisi Mental",
-    "answer": 0,
+    "answer": 2,
     "options": [
-      "たのもしい|Diandalkan",
+      "いそがしい|Sibuk",
       "あやしい|Mencurigakan",
-      "はずかしい|Malu",
-      "たのしい|Menyenangkan"
+      "たのもしい|Diandalkan",
+      "かなしい|Sedih"
     ]
   },
   {
     "kanji": "忙しい",
     "tema": "Perasaan & Kondisi Mental",
+    "answer": 3,
+    "options": [
+      "かなしい|Sedih",
+      "うれしい|Senang",
+      "くやしい|Kesal",
+      "いそがしい|Sibuk"
+    ]
+  },
+  {
+    "kanji": "悲しい",
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 0,
+    "options": [
+      "かなしい|Sedih",
+      "うれしい|Senang",
+      "くやしい|Kesal",
+      "なつかしい|Rindu"
+    ]
+  },
+  {
+    "kanji": "嬉しい",
+    "tema": "Perasaan & Kondisi Mental",
     "answer": 1,
     "options": [
-      "たのしい|Menyenangkan",
-      "いそがしい|Sibuk",
-      "さびしい|Kesepian",
-      "くるしい|Tersiksa"
+      "かなしい|Sedih",
+      "うれしい|Senang",
+      "くやしい|Kesal",
+      "なつかしい|Rindu"
+    ]
+  },
+  {
+    "kanji": "悔しい",
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 2,
+    "options": [
+      "うれしい|Senang",
+      "なつかしい|Rindu",
+      "くやしい|Kesal",
+      "まちどおしい|Dinantikan"
+    ]
+  },
+  {
+    "kanji": "懐かしい",
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 3,
+    "options": [
+      "くやしい|Kesal",
+      "まちどおしい|Dinantikan",
+      "なやましい|Memusingkan",
+      "なつかしい|Rindu"
+    ]
+  },
+  {
+    "kanji": "待ち遠しい",
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 0,
+    "options": [
+      "まちどおしい|Dinantikan",
+      "なやましい|Memusingkan",
+      "わずらわしい|Merepotkan",
+      "かなしい|Sedih"
+    ]
+  },
+  {
+    "kanji": "悩ましい",
+    "spesial": true,
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 1,
+    "options": [
+      "あさましい|Rindu",
+      "なやましい|Memusingkan",
+      "うらやましい|Sedih",
+      "いたましい|Senang"
     ]
   },
   {
     "kanji": "怖い",
-    "spesial": true,
     "tema": "Perasaan & Kondisi Mental",
     "answer": 2,
     "options": [
       "にくい|Benci",
-      "あかい|Tersiksa",
+      "こころづよい|Merasa aman",
       "こわい|Takut",
-      "しろい|Malu"
+      "こころぼそい|Cemas"
     ]
   },
   {
     "kanji": "憎い",
-    "spesial": true,
     "tema": "Perasaan & Kondisi Mental",
     "answer": 3,
     "options": [
-      "あおい|Takut",
-      "くろい|Kesepian",
-      "こわい|Iri",
+      "こわい|Takut",
+      "こころぼそい|Cemas",
+      "こころづよい|Merasa aman",
       "にくい|Benci"
     ]
   },
   {
+    "kanji": "心強い",
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 0,
+    "options": [
+      "こころづよい|Merasa aman",
+      "こころぼそい|Cemas",
+      "こわい|Takut",
+      "にくい|Benci"
+    ]
+  },
+  {
+    "kanji": "心細い",
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 1,
+    "options": [
+      "こころづよい|Merasa aman",
+      "こころぼそい|Cemas",
+      "にくい|Benci",
+      "こわい|Takut"
+    ]
+  },
+  {
+    "kanji": "切ない",
+    "spesial": true,
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 2,
+    "options": [
+      "きたない|Takut",
+      "あぶない|Cemas",
+      "せつない|Sedih/Pilu",
+      "すくない|Senang"
+    ]
+  },
+  {
+    "kanji": "ありがたい",
+    "spesial": true,
+    "tema": "Perasaan & Kondisi Mental",
+    "answer": 3,
+    "options": [
+      "つめたい|Sedih",
+      "ねむたい|Takut",
+      "おもたい|Cemas",
+      "ありがたい|Bersyukur"
+    ]
+  },
+  {
+    "_penanda_tema": "=== TEMA 6: SIFAT & KARAKTER ===",
     "kanji": "大人しい",
     "tema": "Sifat & Karakter",
     "answer": 0,
     "options": [
       "おとなしい|Pendiam",
       "きびしい|Disiplin",
-      "あさましい|Hina",
-      "あつかましい|Tahu malu"
+      "やさしい|Baik hati",
+      "したしい|Akrab"
     ]
   },
   {
@@ -384,300 +581,595 @@
     "tema": "Sifat & Karakter",
     "answer": 1,
     "options": [
-      "やさしい|Lemah lembut",
-      "きびしい|Disiplin",
-      "おとなしい|Pendiam",
-      "あさましい|Hina"
-    ]
-  },
-  {
-    "kanji": "浅ましい",
-    "tema": "Sifat & Karakter",
-    "answer": 2,
-    "options": [
-      "あつかましい|Tahu malu",
-      "やさしい|Lemah lembut",
-      "あさましい|Hina",
-      "きびしい|Disiplin"
-    ]
-  },
-  {
-    "kanji": "厚かましい",
-    "tema": "Sifat & Karakter",
-    "answer": 3,
-    "options": [
-      "やさしい|Lemah lembut",
       "おとなしい|Pendiam",
       "きびしい|Disiplin",
-      "あつかましい|Tahu malu"
+      "ずうずうしい|Lancang",
+      "かたくるしい|Kaku"
     ]
   },
   {
     "kanji": "優しい",
     "tema": "Sifat & Karakter",
-    "answer": 0,
+    "answer": 2,
     "options": [
-      "やさしい|Lemah lembut",
-      "あつかましい|Tahu malu",
-      "あさましい|Hina",
-      "おとなしい|Pendiam"
+      "したしい|Akrab",
+      "ずうずうしい|Lancang",
+      "やさしい|Baik hati",
+      "なれなれしい|Sok kenal"
     ]
   },
   {
     "kanji": "親しい",
     "tema": "Sifat & Karakter",
+    "answer": 3,
+    "options": [
+      "やさしい|Baik hati",
+      "おとなしい|Pendiam",
+      "きびしい|Disiplin",
+      "したしい|Akrab"
+    ]
+  },
+  {
+    "kanji": "図々しい",
+    "tema": "Sifat & Karakter",
+    "answer": 0,
+    "options": [
+      "ずうずうしい|Lancang",
+      "なれなれしい|Sok kenal",
+      "かたくるしい|Kaku",
+      "やさしい|Baik hati"
+    ]
+  },
+  {
+    "kanji": "馴れ馴れしい",
+    "tema": "Sifat & Karakter",
     "answer": 1,
     "options": [
-      "きびしい|Disiplin",
-      "したしい|Akrab",
-      "やさしい|Lemah lembut",
-      "あつかましい|Tahu malu"
+      "ずうずうしい|Lancang",
+      "なれなれしい|Sok kenal",
+      "かたくるしい|Kaku",
+      "おとなしい|Pendiam"
+    ]
+  },
+  {
+    "kanji": "堅苦しい",
+    "tema": "Sifat & Karakter",
+    "answer": 2,
+    "options": [
+      "なれなれしい|Sok kenal",
+      "ずうずうしい|Lancang",
+      "かたくるしい|Kaku",
+      "きびしい|Disiplin"
     ]
   },
   {
     "kanji": "狡い",
     "tema": "Sifat & Karakter",
-    "answer": 2,
+    "answer": 3,
     "options": [
       "えらい|Hebat",
       "あらい|Kasar",
-      "ずるい|Licik",
-      "おさない|Kekanak-kanakan"
+      "おさない|Kekanak-kanakan",
+      "ずるい|Licik"
     ]
   },
   {
     "kanji": "偉い",
     "tema": "Sifat & Karakter",
-    "answer": 3,
+    "answer": 0,
     "options": [
+      "えらい|Hebat",
       "ずるい|Licik",
-      "あらい|Kasar",
-      "おさない|Kekanak-kanakan",
-      "えらい|Hebat"
+      "かしこい|Pintar",
+      "にぶい|Lamban"
     ]
   },
   {
     "kanji": "荒い",
     "tema": "Sifat & Karakter",
-    "answer": 0,
+    "answer": 1,
     "options": [
-      "あらい|Kasar",
       "おさない|Kekanak-kanakan",
+      "あらい|Kasar",
       "えらい|Hebat",
-      "ずるい|Licik"
+      "いやしい|Hina"
     ]
   },
   {
     "kanji": "幼い",
     "tema": "Sifat & Karakter",
+    "answer": 2,
+    "options": [
+      "あらい|Kasar",
+      "えらい|Hebat",
+      "おさない|Kekanak-kanakan",
+      "たくましい|Tangguh"
+    ]
+  },
+  {
+    "kanji": "賢い",
+    "tema": "Sifat & Karakter",
+    "answer": 3,
+    "options": [
+      "にぶい|Lamban",
+      "いやしい|Hina",
+      "たくましい|Tangguh",
+      "かしこい|Pintar"
+    ]
+  },
+  {
+    "kanji": "鈍い",
+    "tema": "Sifat & Karakter",
+    "answer": 0,
+    "options": [
+      "にぶい|Lamban",
+      "かしこい|Pintar",
+      "いやしい|Hina",
+      "かわいい|Imut"
+    ]
+  },
+  {
+    "kanji": "卑しい",
+    "tema": "Sifat & Karakter",
     "answer": 1,
     "options": [
-      "ずるい|Licik",
-      "おさない|Kekanak-kanakan",
-      "あらい|Kasar",
+      "たくましい|Tangguh",
+      "いやしい|Hina",
+      "かわいい|Imut",
       "えらい|Hebat"
     ]
   },
   {
+    "kanji": "逞しい",
+    "tema": "Sifat & Karakter",
+    "answer": 2,
+    "options": [
+      "かわいい|Imut",
+      "いやしい|Hina",
+      "たくましい|Tangguh",
+      "かしこい|Pintar"
+    ]
+  },
+  {
+    "kanji": "可愛い",
+    "tema": "Sifat & Karakter",
+    "answer": 3,
+    "options": [
+      "たくましい|Tangguh",
+      "かしこい|Pintar",
+      "にぶい|Lamban",
+      "かわいい|Imut"
+    ]
+  },
+  {
+    "kanji": "荒っぽい",
+    "tema": "Sifat & Karakter",
+    "answer": 0,
+    "options": [
+      "あらっぽい|Kasar (tindakan)",
+      "やすっぽい|Murahan",
+      "おこりっぽい|Pemarah",
+      "わすれっぽい|Pelupa"
+    ]
+  },
+  {
+    "kanji": "安っぽい",
+    "tema": "Sifat & Karakter",
+    "answer": 1,
+    "options": [
+      "おこりっぽい|Pemarah",
+      "やすっぽい|Murahan",
+      "わすれっぽい|Pelupa",
+      "あらっぽい|Kasar (tindakan)"
+    ]
+  },
+  {
+    "kanji": "怒りっぽい",
+    "tema": "Sifat & Karakter",
+    "answer": 2,
+    "options": [
+      "わすれっぽい|Pelupa",
+      "あらっぽい|Kasar (tindakan)",
+      "おこりっぽい|Pemarah",
+      "やすっぽい|Murahan"
+    ]
+  },
+  {
+    "kanji": "忘れっぽい",
+    "tema": "Sifat & Karakter",
+    "answer": 3,
+    "options": [
+      "やすっぽい|Murahan",
+      "おこりっぽい|Pemarah",
+      "あらっぽい|Kasar (tindakan)",
+      "わすれっぽい|Pelupa"
+    ]
+  },
+  {
+    "kanji": "浅ましい",
+    "spesial": true,
+    "tema": "Sifat & Karakter",
+    "answer": 0,
+    "options": [
+      "あさましい|Hina",
+      "うらやましい|Lancang",
+      "いたましい|Licik",
+      "のぞましい|Kaku"
+    ]
+  },
+  {
+    "kanji": "厚かましい",
+    "spesial": true,
+    "tema": "Sifat & Karakter",
+    "answer": 1,
+    "options": [
+      "うらやましい|Kasar",
+      "あつかましい|Tidak tahu malu",
+      "いさましい|Pintar",
+      "たくましい|Lamban"
+    ]
+  },
+  {
+    "_penanda_tema": "=== TEMA 7: PENILAIAN & KUALITAS ===",
     "kanji": "新しい",
     "tema": "Penilaian & Kualitas",
     "answer": 0,
     "options": [
       "あたらしい|Baru",
-      "すばらしい|Luar biasa",
       "めずらしい|Langka",
-      "ただしい|Benar"
-    ]
-  },
-  {
-    "kanji": "素晴らしい",
-    "tema": "Penilaian & Kualitas",
-    "answer": 1,
-    "options": [
-      "あたらしい|Baru",
-      "すばらしい|Luar biasa",
-      "むずかしい|Sulit",
-      "やさしい|Mudah"
+      "ただしい|Benar",
+      "むずかしい|Sulit"
     ]
   },
   {
     "kanji": "珍しい",
     "tema": "Penilaian & Kualitas",
-    "answer": 2,
+    "answer": 1,
     "options": [
       "ただしい|Benar",
-      "むずかしい|Sulit",
       "めずらしい|Langka",
-      "よろしい|Baik"
+      "むずかしい|Sulit",
+      "やさしい|Mudah"
     ]
   },
   {
     "kanji": "正しい",
     "tema": "Penilaian & Kualitas",
-    "answer": 3,
+    "answer": 2,
     "options": [
       "やさしい|Mudah",
       "よろしい|Baik",
-      "あたらしい|Baru",
-      "ただしい|Benar"
+      "ただしい|Benar",
+      "くわしい|Detail"
     ]
   },
   {
     "kanji": "難しい",
     "tema": "Penilaian & Kualitas",
-    "answer": 0,
+    "answer": 3,
     "options": [
-      "むずかしい|Sulit",
-      "やさしい|Mudah",
       "くわしい|Detail",
-      "おかしい|Aneh"
+      "はげしい|Keras",
+      "むなしい|Kosong",
+      "むずかしい|Sulit"
     ]
   },
   {
     "kanji": "易しい",
     "tema": "Penilaian & Kualitas",
-    "answer": 1,
+    "answer": 0,
     "options": [
-      "むずかしい|Sulit",
       "やさしい|Mudah",
-      "すばらしい|Luar biasa",
-      "めずらしい|Langka"
+      "よろしい|Baik",
+      "くわしい|Detail",
+      "はげしい|Keras"
     ]
   },
   {
     "kanji": "宜しい",
     "tema": "Penilaian & Kualitas",
-    "answer": 2,
+    "answer": 1,
     "options": [
-      "おかしい|Aneh",
       "くわしい|Detail",
       "よろしい|Baik",
-      "ただしい|Benar"
+      "はげしい|Keras",
+      "むなしい|Kosong"
     ]
   },
   {
     "kanji": "詳しい",
     "tema": "Penilaian & Kualitas",
-    "answer": 3,
+    "answer": 2,
     "options": [
-      "やさしい|Mudah",
-      "おかしい|Aneh",
-      "むずかしい|Sulit",
-      "くわしい|Detail"
-    ]
-  },
-  {
-    "kanji": "可笑しい",
-    "tema": "Penilaian & Kualitas",
-    "answer": 0,
-    "options": [
-      "おかしい|Aneh",
+      "はげしい|Keras",
+      "むなしい|Kosong",
       "くわしい|Detail",
-      "めずらしい|Langka",
-      "あたらしい|Baru"
+      "おもくるしい|Suram"
     ]
   },
   {
     "kanji": "激しい",
     "tema": "Penilaian & Kualitas",
+    "answer": 3,
+    "options": [
+      "むなしい|Kosong",
+      "いきぐるしい|Pengap",
+      "かんばしい|Harum",
+      "はげしい|Keras"
+    ]
+  },
+  {
+    "kanji": "空しい",
+    "tema": "Penilaian & Kualitas",
+    "answer": 0,
+    "options": [
+      "むなしい|Hampa",
+      "おもくるしい|Suram",
+      "いきぐるしい|Pengap",
+      "かんばしい|Harum"
+    ]
+  },
+  {
+    "kanji": "虚しい",
+    "tema": "Penilaian & Kualitas",
     "answer": 1,
     "options": [
-      "おかしい|Aneh",
-      "はげしい|Keras/Hebat",
+      "おもくるしい|Suram",
+      "むなしい|Sia-sia",
+      "いきぐるしい|Pengap",
+      "かんばしい|Harum"
+    ]
+  },
+  {
+    "kanji": "重苦しい",
+    "tema": "Penilaian & Kualitas",
+    "answer": 2,
+    "options": [
+      "いきぐるしい|Pengap",
+      "かんばしい|Harum",
+      "おもくるしい|Suram",
+      "あたらしい|Baru"
+    ]
+  },
+  {
+    "kanji": "息苦しい",
+    "tema": "Penilaian & Kualitas",
+    "answer": 3,
+    "options": [
+      "かんばしい|Harum",
+      "あたらしい|Baru",
+      "めずらしい|Langka",
+      "いきぐるしい|Pengap"
+    ]
+  },
+  {
+    "kanji": "芳しい",
+    "tema": "Penilaian & Kualitas",
+    "answer": 0,
+    "options": [
+      "かんばしい|Harum/Baik",
+      "ただしい|Benar",
       "むずかしい|Sulit",
-      "ただしい|Benar"
+      "やさしい|Mudah"
     ]
   },
   {
     "kanji": "古い",
     "tema": "Penilaian & Kualitas",
-    "answer": 2,
+    "answer": 1,
     "options": [
       "わるい|Buruk",
-      "よい|Bagus",
       "ふるい|Lama",
+      "よい|Bagus",
       "たかい|Mahal"
     ]
   },
   {
     "kanji": "悪い",
     "tema": "Penilaian & Kualitas",
-    "answer": 3,
+    "answer": 2,
     "options": [
+      "よい|Bagus",
       "たかい|Mahal",
-      "やすい|Murah",
-      "ひどい|Parah",
-      "わるい|Buruk"
+      "わるい|Buruk",
+      "やすい|Murah"
     ]
   },
   {
     "kanji": "良い",
     "tema": "Penilaian & Kualitas",
-    "answer": 0,
+    "answer": 3,
     "options": [
-      "よい|Bagus",
-      "うまい|Pandai",
-      "ふるい|Lama",
-      "ひどい|Parah"
+      "たかい|Mahal",
+      "やすい|Murah",
+      "ひどい|Parah",
+      "よい|Bagus"
     ]
   },
   {
     "kanji": "高い",
     "tema": "Penilaian & Kualitas",
-    "answer": 1,
+    "answer": 0,
     "options": [
-      "やすい|Murah",
       "たかい|Mahal",
-      "わるい|Buruk",
-      "よい|Bagus"
+      "やすい|Murah",
+      "ひどい|Parah",
+      "うまい|Pandai"
     ]
   },
   {
     "kanji": "安い",
     "tema": "Penilaian & Kualitas",
-    "answer": 2,
+    "answer": 1,
     "options": [
       "ひどい|Parah",
-      "うまい|Pandai",
       "やすい|Murah",
-      "たかい|Mahal"
+      "うまい|Pandai",
+      "もろい|Rapuh"
     ]
   },
   {
     "kanji": "酷い",
     "tema": "Penilaian & Kualitas",
-    "answer": 3,
+    "answer": 2,
     "options": [
-      "ふるい|Lama",
-      "わるい|Buruk",
-      "よい|Bagus",
-      "ひどい|Parah"
+      "うまい|Pandai",
+      "もろい|Rapuh",
+      "ひどい|Parah",
+      "とうとい|Mulia"
     ]
   },
   {
     "kanji": "上手い",
     "tema": "Penilaian & Kualitas",
+    "answer": 3,
+    "options": [
+      "もろい|Rapuh",
+      "とうとい|Mulia",
+      "こころよい|Nyaman",
+      "うまい|Pandai"
+    ]
+  },
+  {
+    "kanji": "脆い",
+    "tema": "Penilaian & Kualitas",
     "answer": 0,
     "options": [
-      "うまい|Pandai",
-      "ひどい|Parah",
-      "やすい|Murah",
+      "もろい|Rapuh",
+      "とうとい|Mulia",
+      "こころよい|Nyaman",
+      "はかない|Fana"
+    ]
+  },
+  {
+    "kanji": "貴い",
+    "tema": "Penilaian & Kualitas",
+    "answer": 1,
+    "options": [
+      "こころよい|Nyaman",
+      "とうとい|Mulia",
+      "はかない|Fana",
+      "とぼしい|Kekurangan"
+    ]
+  },
+  {
+    "kanji": "尊い",
+    "tema": "Penilaian & Kualitas",
+    "answer": 2,
+    "options": [
+      "はかない|Fana",
+      "とぼしい|Kekurangan",
+      "とうとい|Berharga",
+      "ふるい|Lama"
+    ]
+  },
+  {
+    "kanji": "快い",
+    "tema": "Penilaian & Kualitas",
+    "answer": 3,
+    "options": [
+      "とぼしい|Kekurangan",
+      "ふるい|Lama",
+      "わるい|Buruk",
+      "こころよい|Nyaman"
+    ]
+  },
+  {
+    "kanji": "儚い",
+    "tema": "Penilaian & Kualitas",
+    "answer": 0,
+    "options": [
+      "はかない|Fana",
+      "ふるい|Lama",
+      "わるい|Buruk",
+      "よい|Bagus"
+    ]
+  },
+  {
+    "kanji": "乏しい",
+    "tema": "Penilaian & Kualitas",
+    "answer": 1,
+    "options": [
+      "わるい|Buruk",
+      "とぼしい|Miskin",
+      "よい|Bagus",
       "たかい|Mahal"
+    ]
+  },
+  {
+    "kanji": "素晴らしい",
+    "spesial": true,
+    "tema": "Penilaian & Kualitas",
+    "answer": 2,
+    "options": [
+      "にくらしい|Baru",
+      "かわいらしい|Lama",
+      "すばらしい|Luar biasa",
+      "ほこらしい|Buruk"
     ]
   },
   {
     "kanji": "危ない",
     "spesial": true,
     "tema": "Penilaian & Kualitas",
-    "answer": 1,
+    "answer": 3,
     "options": [
-      "すくない|Berbahaya",
-      "あぶない|Berbahaya",
-      "もったいない|Luar biasa",
-      "しかたがない|Membosankan"
+      "すくない|Luar biasa",
+      "きたない|Lama",
+      "せつない|Buruk",
+      "あぶない|Berbahaya"
     ]
   },
   {
+    "kanji": "めでたい",
+    "spesial": true,
+    "tema": "Penilaian & Kualitas",
+    "answer": 0,
+    "options": [
+      "めでたい|Menggembirakan",
+      "つめたい|Parah",
+      "ねむたい|Rapuh",
+      "おもたい|Fana"
+    ]
+  },
+  {
+    "kanji": "痛ましい",
+    "spesial": true,
+    "tema": "Penilaian & Kualitas",
+    "answer": 1,
+    "options": [
+      "のぞましい|Mahal",
+      "いたましい|Menyedihkan",
+      "いさましい|Murah",
+      "あさましい|Luar biasa"
+    ]
+  },
+  {
+    "kanji": "望ましい",
+    "spesial": true,
+    "tema": "Penilaian & Kualitas",
+    "answer": 2,
+    "options": [
+      "いさましい|Buruk",
+      "あさましい|Lama",
+      "のぞましい|Diharapkan",
+      "あつかましい|Baru"
+    ]
+  },
+  {
+    "kanji": "勇ましい",
+    "spesial": true,
+    "tema": "Penilaian & Kualitas",
+    "answer": 3,
+    "options": [
+      "あさましい|Rapuh",
+      "あつかましい|Fana",
+      "のぞましい|Mulia",
+      "いさましい|Berani"
+    ]
+  },
+  {
+    "_penanda_tema": "=== TEMA 8: RUANG, JARAK & KUANTITAS ===",
     "kanji": "遠い",
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 0,
@@ -777,96 +1269,156 @@
     ]
   },
   {
-    "kanji": "高い",
+    "kanji": "低い",
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 1,
     "options": [
-      "とおい|Jauh",
-      "たかい|Tinggi",
-      "ちかい|Dekat",
-      "おおい|Banyak"
-    ]
-  },
-  {
-    "kanji": "低い",
-    "tema": "Ruang, Jarak & Kuantitas",
-    "answer": 2,
-    "options": [
-      "はやい|Cepat",
-      "おそい|Lambat",
+      "かるい|Ringan",
       "ひくい|Rendah",
-      "あさい|Dangkal"
+      "おもい|Berat",
+      "するどい|Tajam"
     ]
   },
   {
     "kanji": "粗い",
     "tema": "Ruang, Jarak & Kuantitas",
-    "answer": 3,
+    "answer": 2,
     "options": [
-      "ふかい|Dalam",
-      "ひろい|Luas",
-      "せまい|Sempit",
-      "あらい|Kasar"
+      "おもい|Berat",
+      "するどい|Tajam",
+      "あらい|Kasar",
+      "ながい|Panjang"
     ]
   },
   {
     "kanji": "軽い",
     "tema": "Ruang, Jarak & Kuantitas",
-    "answer": 0,
+    "answer": 3,
     "options": [
-      "かるい|Ringan",
-      "おもい|Berat",
       "するどい|Tajam",
-      "ひくい|Rendah"
+      "ながい|Panjang",
+      "ゆるい|Longgar",
+      "かるい|Ringan"
     ]
   },
   {
     "kanji": "重い",
     "tema": "Ruang, Jarak & Kuantitas",
-    "answer": 1,
+    "answer": 0,
     "options": [
-      "かるい|Ringan",
       "おもい|Berat",
-      "するどい|Tajam",
-      "ひくい|Rendah"
+      "ながい|Panjang",
+      "ゆるい|Longgar",
+      "とおい|Jauh"
     ]
   },
   {
     "kanji": "鋭い",
     "tema": "Ruang, Jarak & Kuantitas",
+    "answer": 1,
+    "options": [
+      "ゆるい|Longgar",
+      "するどい|Tajam",
+      "とおい|Jauh",
+      "ちかい|Dekat"
+    ]
+  },
+  {
+    "kanji": "長い",
+    "tema": "Ruang, Jarak & Kuantitas",
     "answer": 2,
     "options": [
-      "かるい|Ringan",
-      "おもい|Berat",
-      "するどい|Tajam",
-      "ひくい|Rendah"
+      "とおい|Jauh",
+      "ちかい|Dekat",
+      "ながい|Panjang",
+      "おおい|Banyak"
+    ]
+  },
+  {
+    "kanji": "緩い",
+    "tema": "Ruang, Jarak & Kuantitas",
+    "answer": 3,
+    "options": [
+      "ちかい|Dekat",
+      "おおい|Banyak",
+      "はやい|Cepat",
+      "ゆるい|Longgar"
     ]
   },
   {
     "kanji": "険しい",
     "spesial": true,
     "tema": "Ruang, Jarak & Kuantitas",
-    "answer": 3,
+    "answer": 0,
     "options": [
-      "たのしい|Ringan",
-      "さびしい|Berat",
-      "くるしい|Tajam",
-      "けわしい|Terjal"
+      "けわしい|Terjal",
+      "おびただしい|Sangat banyak",
+      "ひとしい|Setara",
+      "たのしい|Banyak"
     ]
   },
   {
-    "kanji": "平たい",
+    "kanji": "夥しい",
+    "spesial": true,
+    "tema": "Ruang, Jarak & Kuantitas",
+    "answer": 1,
+    "options": [
+      "ひとしい|Setara",
+      "おびただしい|Sangat banyak",
+      "さびしい|Sedikit",
+      "くるしい|Panjang"
+    ]
+  },
+  {
+    "kanji": "等しい",
+    "spesial": true,
+    "tema": "Ruang, Jarak & Kuantitas",
+    "answer": 2,
+    "options": [
+      "さびしい|Luas",
+      "くるしい|Sempit",
+      "ひとしい|Setara",
+      "はずかしい|Dalam"
+    ]
+  },
+  {
+    "kanji": "短い",
+    "spesial": true,
+    "tema": "Ruang, Jarak & Kuantitas",
+    "answer": 3,
+    "options": [
+      "あたたかい|Panjang",
+      "こまかい|Rinci",
+      "あたたかい|Dekat",
+      "みじかい|Pendek"
+    ]
+  },
+  {
+    "kanji": "細かい",
     "spesial": true,
     "tema": "Ruang, Jarak & Kuantitas",
     "answer": 0,
     "options": [
-      "ひらたい|Pipih",
-      "つめたい|Luas",
-      "ねむたい|Dalam",
-      "おもたい|Dangkal"
+      "こまかい|Rinci",
+      "みじかい|Pendek",
+      "あたたかい|Jauh",
+      "あたたかい|Dangkal"
     ]
   },
   {
+    "kanji": "少ない",
+    "spesial": true,
+    "tema": "Ruang, Jarak & Kuantitas",
+    "answer": 1,
+    "options": [
+      "あぶない|Panjang",
+      "すくない|Sedikit",
+      "せつない|Pendek",
+      "きたない|Rinci"
+    ]
+  },
+  {
+    "_penanda_tema": "=== TEMA 9: SENSASI FISIK ===",
     "kanji": "痛い",
     "tema": "Sensasi Fisik",
     "answer": 0,
@@ -882,10 +1434,10 @@
     "tema": "Sensasi Fisik",
     "answer": 1,
     "options": [
-      "つよい|Kuat",
+      "かゆい|Gatal",
       "ねむい|Mengantuk",
-      "かたい|Keras",
-      "くさい|Bau Busuk"
+      "よわい|Lemah",
+      "つよい|Kuat"
     ]
   },
   {
@@ -893,10 +1445,10 @@
     "tema": "Sensasi Fisik",
     "answer": 2,
     "options": [
-      "いたい|Sakit",
-      "ねむい|Mengantuk",
+      "よわい|Lemah",
+      "つよい|Kuat",
       "かゆい|Gatal",
-      "よわい|Lemah"
+      "かたい|Keras"
     ]
   },
   {
@@ -916,9 +1468,9 @@
     "answer": 0,
     "options": [
       "つよい|Kuat",
-      "いたい|Sakit",
-      "ねむい|Mengantuk",
-      "かゆい|Gatal"
+      "かたい|Keras",
+      "くさい|Bau Busuk",
+      "けむい|Berasap"
     ]
   },
   {
@@ -926,9 +1478,9 @@
     "tema": "Sensasi Fisik",
     "answer": 1,
     "options": [
-      "よわい|Lemah",
-      "かたい|Keras",
       "くさい|Bau Busuk",
+      "かたい|Keras",
+      "けむい|Berasap",
       "いたい|Sakit"
     ]
   },
@@ -937,46 +1489,65 @@
     "tema": "Sensasi Fisik",
     "answer": 2,
     "options": [
+      "けむい|Berasap",
+      "いたい|Sakit",
+      "くさい|Bau Busuk",
+      "ねむい|Mengantuk"
+    ]
+  },
+  {
+    "kanji": "煙い",
+    "tema": "Sensasi Fisik",
+    "answer": 3,
+    "options": [
+      "いたい|Sakit",
       "ねむい|Mengantuk",
       "かゆい|Gatal",
-      "くさい|Bau Busuk",
-      "よわい|Lemah"
+      "けむい|Berasap"
     ]
   },
   {
     "kanji": "冷たい",
-    "spesial": true,
     "tema": "Sensasi Fisik",
     "answer": 0,
     "options": [
       "つめたい|Dingin",
-      "ねむたい|Sakit",
-      "おもたい|Mengantuk",
-      "ひらたい|Lemah"
+      "ねむたい|Mengantuk",
+      "おもたい|Berat",
+      "けむたい|Sesak Asap"
     ]
   },
   {
     "kanji": "眠たい",
-    "spesial": true,
     "tema": "Sensasi Fisik",
     "answer": 1,
     "options": [
-      "つめたい|Keras",
+      "おもたい|Berat",
       "ねむたい|Mengantuk",
-      "おもたい|Lemah",
-      "ひらたい|Gatal"
+      "けむたい|Sesak Asap",
+      "つめたい|Dingin"
     ]
   },
   {
     "kanji": "重たい",
-    "spesial": true,
     "tema": "Sensasi Fisik",
     "answer": 2,
     "options": [
-      "つめたい|Lemah",
-      "ねむたい|Kuat",
+      "けむたい|Sesak Asap",
+      "つめたい|Dingin",
       "おもたい|Berat",
-      "ひらたい|Sakit"
+      "ねむたい|Mengantuk"
+    ]
+  },
+  {
+    "kanji": "煙たい",
+    "tema": "Sensasi Fisik",
+    "answer": 3,
+    "options": [
+      "つめたい|Dingin",
+      "ねむたい|Mengantuk",
+      "おもたい|Berat",
+      "けむたい|Sesak Asap"
     ]
   }
 ]
