@@ -790,5 +790,643 @@
       "まいとし|Setiap tahun",
       "まいばん|Setiap malam"
     ]
+  },
+  {
+    "kanji": "駅",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "えき|Stasiun",
+      "くに|Negara",
+      "まち|Kota",
+      "みせ|Toko"
+    ]
+  },
+  {
+    "kanji": "国",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "いえ|Rumah",
+      "くに|Negara",
+      "にわ|Halaman/Taman",
+      "もん|Gerbang"
+    ]
+  },
+  {
+    "kanji": "町",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "みち|Jalan",
+      "ところ|Tempat",
+      "まち|Kota",
+      "りょう|Asrama"
+    ]
+  },
+  {
+    "kanji": "店",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "えき|Stasiun",
+      "みせ|Toko",
+      "くに|Negara",
+      "まち|Kota"
+    ]
+  },
+  {
+    "kanji": "家",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "みせ|Toko",
+      "いえ|Rumah",
+      "にわ|Halaman/Taman",
+      "もん|Gerbang"
+    ]
+  },
+  {
+    "kanji": "庭",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "みち|Jalan",
+      "にわ|Halaman/Taman",
+      "ところ|Tempat",
+      "りょう|Asrama"
+    ]
+  },
+  {
+    "kanji": "門",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "もん|Gerbang",
+      "えき|Stasiun",
+      "くに|Negara",
+      "まち|Kota"
+    ]
+  },
+  {
+    "kanji": "道",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "みせ|Toko",
+      "いえ|Rumah",
+      "みち|Jalan",
+      "にわ|Halaman/Taman"
+    ]
+  },
+  {
+    "kanji": "所",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "もん|Gerbang",
+      "ところ|Tempat",
+      "みち|Jalan",
+      "りょう|Asrama"
+    ]
+  },
+  {
+    "kanji": "寮",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "えき|Stasiun",
+      "くに|Negara",
+      "りょう|Asrama",
+      "まち|Kota"
+    ]
+  },
+  {
+    "kanji": "学校",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "がっこう|Sekolah",
+      "だいがく|Universitas",
+      "かいしゃ|Perusahaan",
+      "ぎんこう|Bank"
+    ]
+  },
+  {
+    "kanji": "大学",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "びょういん|Rumah sakit",
+      "だいがく|Universitas",
+      "へや|Kamar/Ruangan",
+      "こうえん|Taman umum"
+    ]
+  },
+  {
+    "kanji": "会社",
+    "tema": "Bangunan dan Fasilitas Umum Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "しょくどう|Kantin/Ruang makan",
+      "こうばん|Pos polisi",
+      "かいしゃ|Perusahaan",
+      "きょうしつ|Ruang kelas"
+    ]
+  },
+  {
+    "kanji": "銀行",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "かいだん|Tangga",
+      "げんかん|Pintu masuk/Foyer",
+      "ぎんこう|Bank",
+      "がっこう|Sekolah"
+    ]
+  },
+  {
+    "kanji": "病院",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "だいがく|Universitas",
+      "びょういん|Rumah sakit",
+      "かいしゃ|Perusahaan",
+      "ぎんこう|Bank"
+    ]
+  },
+  {
+    "kanji": "部屋",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "へや|Kamar/Ruangan",
+      "こうえん|Taman umum",
+      "しょくどう|Kantin/Ruang makan",
+      "こうばん|Pos polisi"
+    ]
+  },
+  {
+    "kanji": "公園",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "きょうしつ|Ruang kelas",
+      "こうえん|Taman umum",
+      "かいだん|Tangga",
+      "げんかん|Pintu masuk/Foyer"
+    ]
+  },
+  {
+    "kanji": "食堂",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "がっこう|Sekolah",
+      "だいがく|Universitas",
+      "しょくどう|Kantin/Ruang makan",
+      "かいしゃ|Perusahaan"
+    ]
+  },
+  {
+    "kanji": "交番",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "ぎんこう|Bank",
+      "びょういん|Rumah sakit",
+      "こうばん|Pos polisi",
+      "へや|Kamar/Ruangan"
+    ]
+  },
+  {
+    "kanji": "教室",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "こうえん|Taman umum",
+      "きょうしつ|Ruang kelas",
+      "しょくどう|Kantin/Ruang makan",
+      "こうばん|Pos polisi"
+    ]
+  },
+  {
+    "kanji": "階段",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "かいだん|Tangga",
+      "がっこう|Sekolah",
+      "だいがく|Universitas",
+      "かいしゃ|Perusahaan"
+    ]
+  },
+  {
+    "kanji": "玄関",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "ぎんこう|Bank",
+      "げんかん|Pintu masuk/Foyer",
+      "びょういん|Rumah sakit",
+      "へや|Kamar/Ruangan"
+    ]
+  },
+  {
+    "kanji": "映画館",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "えいがかん|Bioskop",
+      "たいしかん|Kedutaan",
+      "としょかん|Perpustakaan",
+      "かいぎしつ|Ruang rapat"
+    ]
+  },
+  {
+    "kanji": "大使館",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "としょかん|Perpustakaan",
+      "たいしかん|Kedutaan",
+      "かいぎしつ|Ruang rapat",
+      "えいがかん|Bioskop"
+    ]
+  },
+  {
+    "kanji": "図書館",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "かいぎしつ|Ruang rapat",
+      "えいがかん|Bioskop",
+      "としょかん|Perpustakaan",
+      "たいしかん|Kedutaan"
+    ]
+  },
+  {
+    "kanji": "会議室",
+    "tema": "Bangunan dan Fasilitas Umum Part 2 (N5)",
+    "answer": 3,
+    "options": [
+      "たいしかん|Kedutaan",
+      "としょかん|Perpustakaan",
+      "えいがかん|Bioskop",
+      "かいぎしつ|Ruang rapat"
+    ]
+  },
+  {
+    "kanji": "前",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 0,
+    "options": [
+      "まえ|Depan",
+      "みぎ|Kanan",
+      "ひだり|Kiri",
+      "うえ|Atas"
+    ]
+  },
+  {
+    "kanji": "右",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 2,
+    "options": [
+      "した|Bawah",
+      "なか|Dalam",
+      "みぎ|Kanan",
+      "そと|Luar"
+    ]
+  },
+  {
+    "kanji": "左",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 1,
+    "options": [
+      "ひがし|Timur",
+      "ひだり|Kiri",
+      "にし|Barat",
+      "みなみ|Selatan"
+    ]
+  },
+  {
+    "kanji": "上",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 2,
+    "options": [
+      "きた|Utara",
+      "よこ|Samping/Menyamping",
+      "うえ|Atas",
+      "すみ|Pojok/Sudut"
+    ]
+  },
+  {
+    "kanji": "下",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 0,
+    "options": [
+      "した|Bawah",
+      "かど|Sudut luar/Belokan",
+      "あいだ|Di antara",
+      "ほう|Arah/Sisi"
+    ]
+  },
+  {
+    "kanji": "中",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 3,
+    "options": [
+      "がわ|Sisi",
+      "まえ|Depan",
+      "みぎ|Kanan",
+      "なか|Dalam"
+    ]
+  },
+  {
+    "kanji": "外",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 1,
+    "options": [
+      "ひだり|Kiri",
+      "そと|Luar",
+      "うえ|Atas",
+      "した|Bawah"
+    ]
+  },
+  {
+    "kanji": "東",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 0,
+    "options": [
+      "ひがし|Timur",
+      "なか|Dalam",
+      "そと|Luar",
+      "にし|Barat"
+    ]
+  },
+  {
+    "kanji": "西",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 2,
+    "options": [
+      "みなみ|Selatan",
+      "きた|Utara",
+      "にし|Barat",
+      "よこ|Samping/Menyamping"
+    ]
+  },
+  {
+    "kanji": "南",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 1,
+    "options": [
+      "すみ|Pojok/Sudut",
+      "みなみ|Selatan",
+      "かど|Sudut luar/Belokan",
+      "あいだ|Di antara"
+    ]
+  },
+  {
+    "kanji": "北",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 0,
+    "options": [
+      "きた|Utara",
+      "ほう|Arah/Sisi",
+      "がわ|Sisi",
+      "まえ|Depan"
+    ]
+  },
+  {
+    "kanji": "横",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 2,
+    "options": [
+      "みぎ|Kanan",
+      "ひだり|Kiri",
+      "よこ|Samping/Menyamping",
+      "うえ|Atas"
+    ]
+  },
+  {
+    "kanji": "隅",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 1,
+    "options": [
+      "した|Bawah",
+      "すみ|Pojok/Sudut",
+      "なか|Dalam",
+      "そと|Luar"
+    ]
+  },
+  {
+    "kanji": "角",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 2,
+    "options": [
+      "ひがし|Timur",
+      "にし|Barat",
+      "かど|Sudut luar/Belokan",
+      "みなみ|Selatan"
+    ]
+  },
+  {
+    "kanji": "間",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 1,
+    "options": [
+      "きた|Utara",
+      "あいだ|Di antara",
+      "よこ|Samping/Menyamping",
+      "すみ|Pojok/Sudut"
+    ]
+  },
+  {
+    "kanji": "方",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 2,
+    "options": [
+      "かど|Sudut luar/Belokan",
+      "あいだ|Di antara",
+      "ほう|Arah/Sisi",
+      "がわ|Sisi"
+    ]
+  },
+  {
+    "kanji": "側",
+    "tema": "Arah, Posisi, dan Ruang (N5)",
+    "answer": 0,
+    "options": [
+      "がわ|Sisi",
+      "まえ|Depan",
+      "みぎ|Kanan",
+      "ひだり|Kiri"
+    ]
+  },
+  {
+    "kanji": "体",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 0,
+    "options": [
+      "からだ|Tubuh/Badan",
+      "あたま|Kepala",
+      "かお|Wajah",
+      "め|Mata"
+    ]
+  },
+  {
+    "kanji": "頭",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 1,
+    "options": [
+      "みみ|Telinga",
+      "あたま|Kepala",
+      "くち|Mulut",
+      "は|Gigi"
+    ]
+  },
+  {
+    "kanji": "顔",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 2,
+    "options": [
+      "て|Tangan",
+      "あし|Kaki",
+      "かお|Wajah",
+      "はな|Hidung"
+    ]
+  },
+  {
+    "kanji": "目",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 1,
+    "options": [
+      "くすり|Obat",
+      "め|Mata",
+      "こえ|Suara",
+      "からだ|Tubuh/Badan"
+    ]
+  },
+  {
+    "kanji": "耳",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 1,
+    "options": [
+      "あたま|Kepala",
+      "みみ|Telinga",
+      "かお|Wajah",
+      "め|Mata"
+    ]
+  },
+  {
+    "kanji": "口",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 0,
+    "options": [
+      "くち|Mulut",
+      "は|Gigi",
+      "て|Tangan",
+      "あし|Kaki"
+    ]
+  },
+  {
+    "kanji": "歯",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 2,
+    "options": [
+      "はな|Hidung",
+      "くすり|Obat",
+      "は|Gigi",
+      "こえ|Suara"
+    ]
+  },
+  {
+    "kanji": "手",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 1,
+    "options": [
+      "からだ|Tubuh/Badan",
+      "て|Tangan",
+      "あたま|Kepala",
+      "かお|Wajah"
+    ]
+  },
+  {
+    "kanji": "足",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 3,
+    "options": [
+      "め|Mata",
+      "みみ|Telinga",
+      "くち|Mulut",
+      "あし|Kaki"
+    ]
+  },
+  {
+    "kanji": "鼻",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 0,
+    "options": [
+      "はな|Hidung",
+      "は|Gigi",
+      "て|Tangan",
+      "あし|Kaki"
+    ]
+  },
+  {
+    "kanji": "薬",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 1,
+    "options": [
+      "はな|Hidung",
+      "くすり|Obat",
+      "こえ|Suara",
+      "からだ|Tubuh/Badan"
+    ]
+  },
+  {
+    "kanji": "声",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 2,
+    "options": [
+      "あたま|Kepala",
+      "かお|Wajah",
+      "こえ|Suara",
+      "め|Mata"
+    ]
+  },
+  {
+    "kanji": "背中",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 0,
+    "options": [
+      "せなか|Punggung",
+      "びょうき|Penyakit",
+      "かぜ|Masuk angin/Flu",
+      "ぐあい|Kondisi"
+    ]
+  },
+  {
+    "kanji": "病気",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 2,
+    "options": [
+      "かぜ|Masuk angin/Flu",
+      "ぐあい|Kondisi",
+      "びょうき|Penyakit",
+      "せなか|Punggung"
+    ]
+  },
+  {
+    "kanji": "風邪",
+    "tema": "Tubuh Manusia dan Kesehatan (N5)",
+    "answer": 3,
+    "options": [
+      "ぐあい|Kondisi",
+      "せなか|Punggung",
+      "びょうき|Penyakit",
+      "かぜ|Masuk angin/Flu"
+    ]
   }
 ]
