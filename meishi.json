@@ -2165,5 +2165,412 @@
       "にほんご|Bahasa Jepang",
       "じかんわり|Jadwal pelajaran"
     ]
+  },
+  {
+    "kanji": "船",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 0,
+    "options": [
+      "ふね|Kapal laut",
+      "くるま|Mobil/Kendaraan",
+      "はし|Jembatan",
+      "みなと|Pelabuhan"
+    ]
+  },
+  {
+    "kanji": "車",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 1,
+    "options": [
+      "ふね|Kapal laut",
+      "くるま|Mobil/Kendaraan",
+      "はし|Jembatan",
+      "みなと|Pelabuhan"
+    ]
+  },
+  {
+    "kanji": "橋",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 2,
+    "options": [
+      "ふね|Kapal laut",
+      "くるま|Mobil/Kendaraan",
+      "はし|Jembatan",
+      "みなと|Pelabuhan"
+    ]
+  },
+  {
+    "kanji": "電車",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 0,
+    "options": [
+      "でんしゃ|Kereta listrik",
+      "きっぷ|Tiket/Karcis",
+      "にもつ|Barang bawaan/Bagasi",
+      "ちず|Peta"
+    ]
+  },
+  {
+    "kanji": "切符",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 1,
+    "options": [
+      "でんしゃ|Kereta listrik",
+      "きっぷ|Tiket/Karcis",
+      "にもつ|Barang bawaan/Bagasi",
+      "ちず|Peta"
+    ]
+  },
+  {
+    "kanji": "荷物",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 2,
+    "options": [
+      "でんしゃ|Kereta listrik",
+      "きっぷ|Tiket/Karcis",
+      "にもつ|Barang bawaan/Bagasi",
+      "ちず|Peta"
+    ]
+  },
+  {
+    "kanji": "地図",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 3,
+    "options": [
+      "でんしゃ|Kereta listrik",
+      "きっぷ|Tiket/Karcis",
+      "にもつ|Barang bawaan/Bagasi",
+      "ちず|Peta"
+    ]
+  },
+  {
+    "kanji": "旅行",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 3,
+    "options": [
+      "ちず|Peta",
+      "きっぷ|Tiket/Karcis",
+      "にもつ|Barang bawaan/Bagasi",
+      "りょこう|Perjalanan/Wisata"
+    ]
+  },
+  {
+    "kanji": "自転車",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 0,
+    "options": [
+      "じてんしゃ|Sepeda",
+      "じどうしゃ|Mobil",
+      "ひこうき|Pesawat terbang",
+      "ちかてつ|Kereta bawah tanah"
+    ]
+  },
+  {
+    "kanji": "自動車",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 1,
+    "options": [
+      "じてんしゃ|Sepeda",
+      "じどうしゃ|Mobil",
+      "ひこうき|Pesawat terbang",
+      "ちかてつ|Kereta bawah tanah"
+    ]
+  },
+  {
+    "kanji": "飛行機",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 2,
+    "options": [
+      "じてんしゃ|Sepeda",
+      "じどうしゃ|Mobil",
+      "ひこうき|Pesawat terbang",
+      "ちかてつ|Kereta bawah tanah"
+    ]
+  },
+  {
+    "kanji": "地下鉄",
+    "tema": "Kendaraan dan Infrastruktur (N5)",
+    "answer": 3,
+    "options": [
+      "じてんしゃ|Sepeda",
+      "じどうしゃ|Mobil",
+      "ひこうき|Pesawat terbang",
+      "ちかてつ|Kereta bawah tanah"
+    ]
+  },
+  {
+    "kanji": "雨",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 0,
+    "options": [
+      "あめ|Hujan",
+      "ゆき|Salju",
+      "かぜ|Angin",
+      "ほし|Bintang"
+    ]
+  },
+  {
+    "kanji": "雪",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 1,
+    "options": [
+      "あめ|Hujan",
+      "ゆき|Salju",
+      "かぜ|Angin",
+      "ほし|Bintang"
+    ]
+  },
+  {
+    "kanji": "風",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 2,
+    "options": [
+      "あめ|Hujan",
+      "ゆき|Salju",
+      "かぜ|Angin",
+      "ほし|Bintang"
+    ]
+  },
+  {
+    "kanji": "星",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 3,
+    "options": [
+      "あめ|Hujan",
+      "ゆき|Salju",
+      "かぜ|Angin",
+      "ほし|Bintang"
+    ]
+  },
+  {
+    "kanji": "石",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 0,
+    "options": [
+      "いし|Batu",
+      "つき|Bulan",
+      "はな|Bunga",
+      "き|Pohon/Kayu"
+    ]
+  },
+  {
+    "kanji": "月",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 1,
+    "options": [
+      "いし|Batu",
+      "つき|Bulan",
+      "はな|Bunga",
+      "き|Pohon/Kayu"
+    ]
+  },
+  {
+    "kanji": "花",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 2,
+    "options": [
+      "いし|Batu",
+      "つき|Bulan",
+      "はな|Bunga",
+      "き|Pohon/Kayu"
+    ]
+  },
+  {
+    "kanji": "木",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 3,
+    "options": [
+      "いし|Batu",
+      "つき|Bulan",
+      "はな|Bunga",
+      "き|Pohon/Kayu"
+    ]
+  },
+  {
+    "kanji": "林",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 0,
+    "options": [
+      "はやし|Hutan kecil",
+      "もり|Hutan lebat",
+      "いけ|Kolam",
+      "そら|Langit"
+    ]
+  },
+  {
+    "kanji": "森",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 1,
+    "options": [
+      "はやし|Hutan kecil",
+      "もり|Hutan lebat",
+      "いけ|Kolam",
+      "そら|Langit"
+    ]
+  },
+  {
+    "kanji": "池",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 2,
+    "options": [
+      "はやし|Hutan kecil",
+      "もり|Hutan lebat",
+      "いけ|Kolam",
+      "そら|Langit"
+    ]
+  },
+  {
+    "kanji": "空",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 3,
+    "options": [
+      "はやし|Hutan kecil",
+      "もり|Hutan lebat",
+      "いけ|Kolam",
+      "そら|Langit"
+    ]
+  },
+  {
+    "kanji": "海",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 0,
+    "options": [
+      "うみ|Laut",
+      "やま|Gunung",
+      "かわ|Sungai",
+      "あめ|Hujan"
+    ]
+  },
+  {
+    "kanji": "山",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 1,
+    "options": [
+      "うみ|Laut",
+      "やま|Gunung",
+      "かわ|Sungai",
+      "あめ|Hujan"
+    ]
+  },
+  {
+    "kanji": "川",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 2,
+    "options": [
+      "うみ|Laut",
+      "やま|Gunung",
+      "かわ|Sungai",
+      "あめ|Hujan"
+    ]
+  },
+  {
+    "kanji": "天気",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 0,
+    "options": [
+      "てんき|Cuaca",
+      "たいよう|Matahari",
+      "せいてん|Cuaca cerah",
+      "じしん|Gempa bumi"
+    ]
+  },
+  {
+    "kanji": "太陽",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 1,
+    "options": [
+      "てんき|Cuaca",
+      "たいよう|Matahari",
+      "せいてん|Cuaca cerah",
+      "じしん|Gempa bumi"
+    ]
+  },
+  {
+    "kanji": "晴天",
+    "tema": "Alam dan Cuaca (N5)",
+    "answer": 2,
+    "options": [
+      "てんき|Cuaca",
+      "たいよう|Matahari",
+      "せいてん|Cuaca cerah",
+      "じしん|Gempa bumi"
+    ]
+  },
+  {
+    "kanji": "犬",
+    "tema": "Hewan (N5)",
+    "answer": 0,
+    "options": [
+      "いぬ|Anjing",
+      "ねこ|Kucing",
+      "とり|Burung",
+      "さかな|Ikan - hewan hidup"
+    ]
+  },
+  {
+    "kanji": "猫",
+    "tema": "Hewan (N5)",
+    "answer": 1,
+    "options": [
+      "いぬ|Anjing",
+      "ねこ|Kucing",
+      "とり|Burung",
+      "さかな|Ikan - hewan hidup"
+    ]
+  },
+  {
+    "kanji": "鳥",
+    "tema": "Hewan (N5)",
+    "answer": 2,
+    "options": [
+      "いぬ|Anjing",
+      "ねこ|Kucing",
+      "とり|Burung",
+      "さかな|Ikan - hewan hidup"
+    ]
+  },
+  {
+    "kanji": "魚",
+    "tema": "Hewan (N5)",
+    "answer": 3,
+    "options": [
+      "いぬ|Anjing",
+      "ねこ|Kucing",
+      "とり|Burung",
+      "さかな|Ikan - hewan hidup"
+    ]
+  },
+  {
+    "kanji": "牛",
+    "tema": "Hewan (N5)",
+    "answer": 0,
+    "options": [
+      "うし|Sapi",
+      "うま|Kuda",
+      "いぬ|Anjing",
+      "ねこ|Kucing"
+    ]
+  },
+  {
+    "kanji": "馬",
+    "tema": "Hewan (N5)",
+    "answer": 1,
+    "options": [
+      "うし|Sapi",
+      "うま|Kuda",
+      "いぬ|Anjing",
+      "ねこ|Kucing"
+    ]
+  },
+  {
+    "kanji": "動物",
+    "tema": "Hewan (N5)",
+    "answer": 0,
+    "options": [
+      "どうぶつ|Hewan/Binatang",
+      "せいぶつ|Makhluk hidup",
+      "こいぬ|Anak anjing",
+      "こんちゅう|Serangga"
+    ]
   }
 ]
