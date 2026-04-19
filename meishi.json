@@ -1,139 +1,7 @@
 [
   {
-    "kanji": "夫",
-    "tema": "Keluarga dan identitas",
-    "answer": 0,
-    "options": [
-      "おっと|Suami saya",
-      "つま|Istri saya",
-      "ちち|Ayah saya",
-      "あに|Kakak laki-laki saya"
-    ]
-  },
-  {
-    "kanji": "妻",
-    "tema": "Keluarga dan identitas",
-    "answer": 1,
-    "options": [
-      "はは|Ibu saya",
-      "つま|Istri saya",
-      "あね|Kakak perempuan saya",
-      "おんな|Perempuan"
-    ]
-  },
-  {
-    "kanji": "娘",
-    "tema": "Keluarga dan identitas",
-    "answer": 2,
-    "options": [
-      "いもうと|Adik perempuan saya",
-      "おんな|Perempuan",
-      "むすめ|Anak perempuan saya",
-      "あね|Kakak perempuan saya"
-    ]
-  },
-  {
-    "kanji": "父",
-    "tema": "Keluarga dan identitas",
-    "answer": 3,
-    "options": [
-      "あに|Kakak laki-laki saya",
-      "おとうと|Adik laki-laki saya",
-      "おとこ|Laki-laki",
-      "ちち|Ayah saya"
-    ]
-  },
-  {
-    "kanji": "母",
-    "tema": "Keluarga dan identitas",
-    "answer": 0,
-    "options": [
-      "はは|Ibu saya",
-      "つま|Istri saya",
-      "あね|Kakak perempuan saya",
-      "いもうと|Adik perempuan saya"
-    ]
-  },
-  {
-    "kanji": "兄",
-    "tema": "Keluarga dan identitas",
-    "answer": 1,
-    "options": [
-      "おとうと|Adik laki-laki saya",
-      "あに|Kakak laki-laki saya",
-      "おとこ|Laki-laki",
-      "ちち|Ayah saya"
-    ]
-  },
-  {
-    "kanji": "弟",
-    "tema": "Keluarga dan identitas",
-    "answer": 2,
-    "options": [
-      "ひと|Orang",
-      "あに|Kakak laki-laki saya",
-      "おとうと|Adik laki-laki saya",
-      "おとこ|Laki-laki"
-    ]
-  },
-  {
-    "kanji": "姉",
-    "tema": "Keluarga dan identitas",
-    "answer": 3,
-    "options": [
-      "はは|Ibu saya",
-      "つま|Istri saya",
-      "いもうと|Adik perempuan saya",
-      "あね|Kakak perempuan saya"
-    ]
-  },
-  {
-    "kanji": "妹",
-    "tema": "Keluarga dan identitas",
-    "answer": 0,
-    "options": [
-      "いもうと|Adik perempuan saya",
-      "むすめ|Anak perempuan saya",
-      "おんな|Perempuan",
-      "あね|Kakak perempuan saya"
-    ]
-  },
-  {
-    "kanji": "人",
-    "tema": "Keluarga dan identitas",
-    "answer": 1,
-    "options": [
-      "おとこ|Laki-laki",
-      "ひと|Orang",
-      "おんな|Perempuan",
-      "ちち|Ayah saya"
-    ]
-  },
-  {
-    "kanji": "男",
-    "tema": "Keluarga dan identitas",
-    "answer": 2,
-    "options": [
-      "あに|Kakak laki-laki saya",
-      "おとうと|Adik laki-laki saya",
-      "おとこ|Laki-laki",
-      "ひと|Orang"
-    ]
-  },
-  {
-    "kanji": "女",
-    "tema": "Keluarga dan identitas",
-    "answer": 3,
-    "options": [
-      "むすめ|Anak perempuan saya",
-      "はは|Ibu saya",
-      "ひと|Orang",
-      "おんな|Perempuan"
-    ]
-  },
-  {
     "kanji": "家族",
-    "tema": "Keluarga dan identitas",
+    "tema": "keluarga dan identitas part 1",
     "answer": 0,
     "options": [
       "かぞく|Keluarga",
@@ -144,10 +12,10 @@
   },
   {
     "kanji": "両親",
-    "tema": "Keluarga dan identitas",
+    "tema": "keluarga dan identitas part 1",
     "answer": 1,
     "options": [
-      "ふぼ|Ayah dan Ibu",
+      "かぞく|Keluarga",
       "りょうしん|Orang tua",
       "そふ|Kakek saya",
       "そぼ|Nenek saya"
@@ -155,29 +23,29 @@
   },
   {
     "kanji": "兄弟",
-    "tema": "Keluarga dan identitas",
+    "tema": "keluarga dan identitas part 1",
     "answer": 2,
     "options": [
-      "しまい|Saudara perempuan",
-      "むすこ|Anak laki-laki saya",
+      "ふぼ|Ayah dan Ibu",
+      "かぞく|Keluarga",
       "きょうだい|Saudara laki-laki",
-      "ともだち|Teman"
+      "しまい|Saudara perempuan"
     ]
   },
   {
     "kanji": "姉妹",
-    "tema": "Keluarga dan identitas",
+    "tema": "keluarga dan identitas part 1",
     "answer": 3,
     "options": [
-      "きょうだい|Saudara laki-laki",
-      "おとな|Orang dewasa",
-      "こども|Anak-anak",
+      "そぼ|Nenek saya",
+      "そふ|Kakek saya",
+      "ふぼ|Ayah dan Ibu",
       "しまい|Saudara perempuan"
     ]
   },
   {
     "kanji": "祖父",
-    "tema": "Keluarga dan identitas",
+    "tema": "keluarga dan identitas part 1",
     "answer": 0,
     "options": [
       "そふ|Kakek saya",
@@ -188,569 +56,635 @@
   },
   {
     "kanji": "祖母",
-    "tema": "Keluarga dan identitas",
+    "tema": "keluarga dan identitas part 1",
     "answer": 1,
     "options": [
-      "そふ|Kakek saya",
-      "そぼ|Nenek saya",
       "ふぼ|Ayah dan Ibu",
-      "おとな|Orang dewasa"
+      "そぼ|Nenek saya",
+      "そふ|Kakek saya",
+      "かぞく|Keluarga"
     ]
   },
   {
     "kanji": "父母",
-    "tema": "Keluarga dan identitas",
+    "tema": "keluarga dan identitas part 1",
     "answer": 2,
     "options": [
-      "りょうしん|Orang tua",
-      "そふ|Kakek saya",
+      "きょうだい|Saudara laki-laki",
+      "しまい|Saudara perempuan",
       "ふぼ|Ayah dan Ibu",
-      "そぼ|Nenek saya"
+      "りょうしん|Orang tua"
+    ]
+  },
+  {
+    "kanji": "夫",
+    "tema": "keluarga dan identitas part 1",
+    "answer": 3,
+    "options": [
+      "つま|Istri saya",
+      "ちち|Ayah saya",
+      "はは|Ibu saya",
+      "おっと|Suami saya"
+    ]
+  },
+  {
+    "kanji": "妻",
+    "tema": "keluarga dan identitas part 1",
+    "answer": 0,
+    "options": [
+      "つま|Istri saya",
+      "おっと|Suami saya",
+      "あに|Kakak laki-laki saya",
+      "おとうと|Adik laki-laki saya"
+    ]
+  },
+  {
+    "kanji": "父",
+    "tema": "keluarga dan identitas part 1",
+    "answer": 1,
+    "options": [
+      "あね|Kakak perempuan saya",
+      "ちち|Ayah saya",
+      "はは|Ibu saya",
+      "いもうと|Adik perempuan saya"
+    ]
+  },
+  {
+    "kanji": "母",
+    "tema": "keluarga dan identitas part 1",
+    "answer": 2,
+    "options": [
+      "ちち|Ayah saya",
+      "ひと|Orang",
+      "はは|Ibu saya",
+      "おとこ|Laki-laki"
+    ]
+  },
+  {
+    "kanji": "兄",
+    "tema": "keluarga dan identitas part 1",
+    "answer": 3,
+    "options": [
+      "おとうと|Adik laki-laki saya",
+      "おんな|Perempuan",
+      "むすめ|Anak perempuan saya",
+      "あに|Kakak laki-laki saya"
     ]
   },
   {
     "kanji": "息子",
-    "tema": "Keluarga dan identitas",
-    "answer": 3,
+    "tema": "keluarga dan identitas part 2",
+    "answer": 0,
     "options": [
-      "こども|Anak-anak",
+      "むすこ|Anak laki-laki saya",
       "ともだち|Teman",
       "おとな|Orang dewasa",
-      "むすこ|Anak laki-laki saya"
+      "こども|Anak-anak"
     ]
   },
   {
     "kanji": "友達",
-    "tema": "Keluarga dan identitas",
-    "answer": 0,
+    "tema": "keluarga dan identitas part 2",
+    "answer": 1,
     "options": [
+      "むすこ|Anak laki-laki saya",
       "ともだち|Teman",
-      "かぞく|Keluarga",
+      "おとな|Orang dewasa",
+      "かぞく|Keluarga"
+    ]
+  },
+  {
+    "kanji": "大人",
+    "tema": "keluarga dan identitas part 2",
+    "answer": 2,
+    "options": [
+      "こども|Anak-anak",
+      "りょうしん|Orang tua",
       "おとな|Orang dewasa",
       "きょうだい|Saudara laki-laki"
     ]
   },
   {
-    "kanji": "大人",
-    "tema": "Keluarga dan identitas",
-    "answer": 1,
-    "options": [
-      "こども|Anak-anak",
-      "おとな|Orang dewasa",
-      "むすこ|Anak laki-laki saya",
-      "ともだち|Teman"
-    ]
-  },
-  {
     "kanji": "子供",
-    "tema": "Keluarga dan identitas",
-    "answer": 2,
-    "options": [
-      "おとな|Orang dewasa",
-      "むすこ|Anak laki-laki saya",
-      "こども|Anak-anak",
-      "しまい|Saudara perempuan"
-    ]
-  },
-  {
-    "kanji": "私",
-    "tema": "Profesi dan kedudukan",
+    "tema": "keluarga dan identitas part 2",
     "answer": 3,
     "options": [
-      "ぼく|Saya - maskulin",
-      "かれ|Dia - laki-laki",
-      "だれ|Siapa",
-      "わたし|Saya"
+      "おとな|Orang dewasa",
+      "しまい|Saudara perempuan",
+      "そふ|Kakek saya",
+      "こども|Anak-anak"
     ]
   },
   {
-    "kanji": "僕",
-    "tema": "Profesi dan kedudukan",
+    "kanji": "娘",
+    "tema": "keluarga dan identitas part 2",
     "answer": 0,
     "options": [
-      "ぼく|Saya - maskulin",
-      "わたし|Saya",
-      "みな|Semua",
-      "かれ|Dia - laki-laki"
+      "むすめ|Anak perempuan saya",
+      "いもうと|Adik perempuan saya",
+      "ひと|Orang",
+      "つま|Istri saya"
     ]
   },
   {
-    "kanji": "彼",
-    "tema": "Profesi dan kedudukan",
+    "kanji": "弟",
+    "tema": "keluarga dan identitas part 2",
     "answer": 1,
     "options": [
-      "だれ|Siapa",
-      "かれ|Dia - laki-laki",
-      "わたし|Saya",
-      "ぼく|Saya - maskulin"
+      "あに|Kakak laki-laki saya",
+      "おとうと|Adik laki-laki saya",
+      "おとこ|Laki-laki",
+      "おんな|Perempuan"
     ]
   },
   {
-    "kanji": "誰",
-    "tema": "Profesi dan kedudukan",
+    "kanji": "姉",
+    "tema": "keluarga dan identitas part 2",
     "answer": 2,
     "options": [
-      "みな|Semua",
-      "わたし|Saya",
-      "だれ|Siapa",
-      "ぼく|Saya - maskulin"
+      "いもうと|Adik perempuan saya",
+      "はは|Ibu saya",
+      "あね|Kakak perempuan saya",
+      "つま|Istri saya"
     ]
   },
   {
-    "kanji": "皆",
-    "tema": "Profesi dan kedudukan",
+    "kanji": "妹",
+    "tema": "keluarga dan identitas part 2",
     "answer": 3,
     "options": [
-      "だれ|Siapa",
-      "かれ|Dia - laki-laki",
-      "わたし|Saya",
-      "みな|Semua"
+      "あね|Kakak perempuan saya",
+      "むすめ|Anak perempuan saya",
+      "ひと|Orang",
+      "いもうと|Adik perempuan saya"
+    ]
+  },
+  {
+    "kanji": "人",
+    "tema": "keluarga dan identitas part 2",
+    "answer": 0,
+    "options": [
+      "ひと|Orang",
+      "おとこ|Laki-laki",
+      "おんな|Perempuan",
+      "おっと|Suami saya"
+    ]
+  },
+  {
+    "kanji": "男",
+    "tema": "keluarga dan identitas part 2",
+    "answer": 1,
+    "options": [
+      "おんな|Perempuan",
+      "おとこ|Laki-laki",
+      "ちち|Ayah saya",
+      "あに|Kakak laki-laki saya"
+    ]
+  },
+  {
+    "kanji": "女",
+    "tema": "keluarga dan identitas part 2",
+    "answer": 2,
+    "options": [
+      "おとこ|Laki-laki",
+      "はは|Ibu saya",
+      "おんな|Perempuan",
+      "あね|Kakak perempuan saya"
     ]
   },
   {
     "kanji": "学生",
-    "tema": "Profesi dan kedudukan",
-    "answer": 0,
+    "tema": "profesi dan kedudukan",
+    "answer": 3,
     "options": [
-      "がくせい|Siswa/Mahasiswa",
       "せんせい|Guru/Pengajar",
       "いしゃ|Dokter",
-      "けいかん|Polisi"
+      "けいかん|Polisi",
+      "がくせい|Siswa/Mahasiswa"
     ]
   },
   {
     "kanji": "先生",
-    "tema": "Profesi dan kedudukan",
-    "answer": 1,
-    "options": [
-      "せいと|Murid sekolah",
-      "せんせい|Guru/Pengajar",
-      "しゃちょう|Presiden Direktur",
-      "がくせい|Siswa/Mahasiswa"
-    ]
-  },
-  {
-    "kanji": "医者",
-    "tema": "Profesi dan kedudukan",
-    "answer": 2,
-    "options": [
-      "けいかん|Polisi",
-      "しゃちょう|Presiden Direktur",
-      "いしゃ|Dokter",
-      "かのじょ|Dia - perempuan"
-    ]
-  },
-  {
-    "kanji": "警官",
-    "tema": "Profesi dan kedudukan",
-    "answer": 3,
+    "tema": "profesi dan kedudukan",
+    "answer": 0,
     "options": [
       "せんせい|Guru/Pengajar",
       "がくせい|Siswa/Mahasiswa",
       "いしゃ|Dokter",
-      "けいかん|Polisi"
+      "せいと|Murid sekolah"
     ]
   },
   {
-    "kanji": "生徒",
-    "tema": "Profesi dan kedudukan",
-    "answer": 0,
+    "kanji": "医者",
+    "tema": "profesi dan kedudukan",
+    "answer": 1,
     "options": [
+      "けいかん|Polisi",
+      "いしゃ|Dokter",
       "せいと|Murid sekolah",
+      "しゃちょう|Presiden Direktur"
+    ]
+  },
+  {
+    "kanji": "警官",
+    "tema": "profesi dan kedudukan",
+    "answer": 2,
+    "options": [
+      "しゃちょう|Presiden Direktur",
       "かのじょ|Dia - perempuan",
-      "せんせい|Guru/Pengajar",
+      "けいかん|Polisi",
       "がくせい|Siswa/Mahasiswa"
     ]
   },
   {
-    "kanji": "社長",
-    "tema": "Profesi dan kedudukan",
-    "answer": 1,
+    "kanji": "生徒",
+    "tema": "profesi dan kedudukan",
+    "answer": 3,
     "options": [
+      "がくせい|Siswa/Mahasiswa",
+      "せんせい|Guru/Pengajar",
       "いしゃ|Dokter",
+      "せいと|Murid sekolah"
+    ]
+  },
+  {
+    "kanji": "社長",
+    "tema": "profesi dan kedudukan",
+    "answer": 0,
+    "options": [
       "しゃちょう|Presiden Direktur",
       "けいかん|Polisi",
+      "せんせい|Guru/Pengajar",
       "せいと|Murid sekolah"
     ]
   },
   {
     "kanji": "彼女",
-    "tema": "Profesi dan kedudukan",
-    "answer": 2,
+    "tema": "profesi dan kedudukan",
+    "answer": 1,
     "options": [
-      "しゃちょう|Presiden Direktur",
-      "せいと|Murid sekolah",
+      "がくせい|Siswa/Mahasiswa",
       "かのじょ|Dia - perempuan",
-      "けいかん|Polisi"
+      "いしゃ|Dokter",
+      "しゃちょう|Presiden Direktur"
     ]
   },
   {
     "kanji": "留学生",
-    "tema": "Profesi dan kedudukan",
-    "answer": 3,
+    "tema": "profesi dan kedudukan",
+    "answer": 2,
     "options": [
-      "かいしゃいん|Pegawai perusahaan",
       "がいこくじん|Orang asing",
       "だいがくせい|Mahasiswa",
-      "りゅうがくせい|Pelajar asing"
+      "りゅうがくせい|Pelajar asing",
+      "こうむいん|Pegawai negeri"
     ]
   },
   {
     "kanji": "外国人",
-    "tema": "Profesi dan kedudukan",
+    "tema": "profesi dan kedudukan",
+    "answer": 3,
+    "options": [
+      "りゅうがくせい|Pelajar asing",
+      "けいさつかん|Petugas polisi",
+      "けんきゅうしゃ|Peneliti",
+      "がいこくじん|Orang asing"
+    ]
+  },
+  {
+    "kanji": "私",
+    "tema": "profesi dan kedudukan",
     "answer": 0,
     "options": [
-      "がいこくじん|Orang asing",
-      "りゅうがくせい|Pelajar asing",
-      "けいさつかん|Petugas Polisi",
-      "だいがくせい|Mahasiswa"
+      "わたし|Saya",
+      "ぼく|Saya - maskulin",
+      "かれ|Dia - laki-laki",
+      "だれ|Siapa"
+    ]
+  },
+  {
+    "kanji": "僕",
+    "tema": "profesi dan kedudukan",
+    "answer": 1,
+    "options": [
+      "わたし|Saya",
+      "ぼく|Saya - maskulin",
+      "かれ|Dia - laki-laki",
+      "みな|Semua"
+    ]
+  },
+  {
+    "kanji": "彼",
+    "tema": "profesi dan kedudukan",
+    "answer": 2,
+    "options": [
+      "だれ|Siapa",
+      "みな|Semua",
+      "かれ|Dia - laki-laki",
+      "わたし|Saya"
+    ]
+  },
+  {
+    "kanji": "誰",
+    "tema": "profesi dan kedudukan",
+    "answer": 3,
+    "options": [
+      "みな|Semua",
+      "わたし|Saya",
+      "ぼく|Saya - maskulin",
+      "だれ|Siapa"
+    ]
+  },
+  {
+    "kanji": "皆",
+    "tema": "profesi dan kedudukan",
+    "answer": 0,
+    "options": [
+      "みな|Semua",
+      "だれ|Siapa",
+      "かれ|Dia - laki-laki",
+      "ぼく|Saya - maskulin"
+    ]
+  },
+  {
+    "kanji": "時間",
+    "tema": "waktu dan kalender part 1",
+    "answer": 0,
+    "options": [
+      "じかん|Waktu",
+      "とけい|Jam",
+      "きょう|Hari ini",
+      "あした|Besok"
+    ]
+  },
+  {
+    "kanji": "時計",
+    "tema": "waktu dan kalender part 1",
+    "answer": 1,
+    "options": [
+      "きのう|Kemarin",
+      "とけい|Jam",
+      "こんしゅう|Minggu ini",
+      "らいしゅう|Minggu depan"
+    ]
+  },
+  {
+    "kanji": "今日",
+    "tema": "waktu dan kalender part 1",
+    "answer": 2,
+    "options": [
+      "あした|Besok",
+      "きのう|Kemarin",
+      "きょう|Hari ini",
+      "せんしゅう|Minggu lalu"
+    ]
+  },
+  {
+    "kanji": "明日",
+    "tema": "waktu dan kalender part 1",
+    "answer": 3,
+    "options": [
+      "こんしゅう|Minggu ini",
+      "らいしゅう|Minggu depan",
+      "せんしゅう|Minggu lalu",
+      "あした|Besok"
+    ]
+  },
+  {
+    "kanji": "昨日",
+    "tema": "waktu dan kalender part 1",
+    "answer": 0,
+    "options": [
+      "きのう|Kemarin",
+      "きょう|Hari ini",
+      "こんしゅう|Minggu ini",
+      "じかん|Waktu"
+    ]
+  },
+  {
+    "kanji": "今週",
+    "tema": "waktu dan kalender part 1",
+    "answer": 1,
+    "options": [
+      "らいしゅう|Minggu depan",
+      "こんしゅう|Minggu ini",
+      "せんしゅう|Minggu lalu",
+      "とけい|Jam"
+    ]
+  },
+  {
+    "kanji": "来週",
+    "tema": "waktu dan kalender part 1",
+    "answer": 2,
+    "options": [
+      "せんしゅう|Minggu lalu",
+      "きょう|Hari ini",
+      "らいしゅう|Minggu depan",
+      "あした|Besok"
+    ]
+  },
+  {
+    "kanji": "先週",
+    "tema": "waktu dan kalender part 1",
+    "answer": 3,
+    "options": [
+      "こんしゅう|Minggu ini",
+      "きのう|Kemarin",
+      "じかん|Waktu",
+      "せんしゅう|Minggu lalu"
     ]
   },
   {
     "kanji": "朝",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 1,
+    "tema": "waktu dan kalender part 1",
+    "answer": 0,
     "options": [
-      "ひる|Siang",
       "あさ|Pagi",
+      "ひる|Siang",
       "よる|Malam",
       "ばん|Malam"
     ]
   },
   {
     "kanji": "昼",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 2,
+    "tema": "waktu dan kalender part 1",
+    "answer": 1,
     "options": [
       "あさ|Pagi",
-      "ばん|Malam",
       "ひる|Siang",
-      "よる|Malam"
+      "よる|Malam",
+      "ばん|Malam"
     ]
   },
   {
     "kanji": "夜",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 3,
+    "tema": "waktu dan kalender part 1",
+    "answer": 2,
     "options": [
+      "あさ|Pagi",
       "ひる|Siang",
-      "ばん|Malam",
-      "はる|Musim semi",
-      "よる|Malam"
+      "よる|Malam",
+      "ばん|Malam"
     ]
   },
   {
     "kanji": "晩",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 0,
+    "tema": "waktu dan kalender part 1",
+    "answer": 3,
     "options": [
-      "ばん|Malam",
       "あさ|Pagi",
       "ひる|Siang",
-      "なつ|Musim panas"
+      "よる|Malam",
+      "ばん|Malam"
+    ]
+  },
+  {
+    "kanji": "今月",
+    "tema": "waktu dan kalender part 2",
+    "answer": 0,
+    "options": [
+      "こんげつ|Bulan ini",
+      "らいげつ|Bulan depan",
+      "せんげつ|Bulan lalu",
+      "ことし|Tahun ini"
+    ]
+  },
+  {
+    "kanji": "来月",
+    "tema": "waktu dan kalender part 2",
+    "answer": 1,
+    "options": [
+      "せんげつ|Bulan lalu",
+      "らいげつ|Bulan depan",
+      "ことし|Tahun ini",
+      "らいねん|Tahun depan"
+    ]
+  },
+  {
+    "kanji": "先月",
+    "tema": "waktu dan kalender part 2",
+    "answer": 2,
+    "options": [
+      "こんげつ|Bulan ini",
+      "らいねん|Tahun depan",
+      "せんげつ|Bulan lalu",
+      "きょねん|Tahun lalu"
+    ]
+  },
+  {
+    "kanji": "今年",
+    "tema": "waktu dan kalender part 2",
+    "answer": 3,
+    "options": [
+      "らいねん|Tahun depan",
+      "きょねん|Tahun lalu",
+      "ごぜん|Pagi/AM",
+      "ことし|Tahun ini"
+    ]
+  },
+  {
+    "kanji": "来年",
+    "tema": "waktu dan kalender part 2",
+    "answer": 0,
+    "options": [
+      "らいねん|Tahun depan",
+      "きょねん|Tahun lalu",
+      "ごぜん|Pagi/AM",
+      "ごご|Sore/PM"
+    ]
+  },
+  {
+    "kanji": "去年",
+    "tema": "waktu dan kalender part 2",
+    "answer": 1,
+    "options": [
+      "ごぜん|Pagi/AM",
+      "きょねん|Tahun lalu",
+      "ごご|Sore/PM",
+      "こんげつ|Bulan ini"
+    ]
+  },
+  {
+    "kanji": "午前",
+    "tema": "waktu dan kalender part 2",
+    "answer": 2,
+    "options": [
+      "ごご|Sore/PM",
+      "こんげつ|Bulan ini",
+      "ごぜん|Pagi/AM",
+      "らいげつ|Bulan depan"
+    ]
+  },
+  {
+    "kanji": "午後",
+    "tema": "waktu dan kalender part 2",
+    "answer": 3,
+    "options": [
+      "ごぜん|Pagi/AM",
+      "せんげつ|Bulan lalu",
+      "ことし|Tahun ini",
+      "ごご|Sore/PM"
     ]
   },
   {
     "kanji": "春",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 1,
+    "tema": "waktu dan kalender part 2",
+    "answer": 0,
     "options": [
-      "なつ|Musim panas",
       "はる|Musim semi",
+      "なつ|Musim panas",
       "あき|Musim gugur",
       "ふゆ|Musim dingin"
     ]
   },
   {
     "kanji": "夏",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 2,
+    "tema": "waktu dan kalender part 2",
+    "answer": 1,
     "options": [
       "はる|Musim semi",
-      "ふゆ|Musim dingin",
       "なつ|Musim panas",
-      "あき|Musim gugur"
+      "あき|Musim gugur",
+      "ふゆ|Musim dingin"
     ]
   },
   {
     "kanji": "秋",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 3,
+    "tema": "waktu dan kalender part 2",
+    "answer": 2,
     "options": [
-      "なつ|Musim panas",
-      "ふゆ|Musim dingin",
       "はる|Musim semi",
-      "あき|Musim gugur"
+      "なつ|Musim panas",
+      "あき|Musim gugur",
+      "ふゆ|Musim dingin"
     ]
   },
   {
     "kanji": "冬",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 0,
+    "tema": "waktu dan kalender part 2",
+    "answer": 3,
     "options": [
-      "ふゆ|Musim dingin",
-      "あき|Musim gugur",
+      "はる|Musim semi",
       "なつ|Musim panas",
-      "はる|Musim semi"
-    ]
-  },
-  {
-    "kanji": "今",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 1,
-    "options": [
-      "はん|Setengah",
-      "いま|Sekarang",
-      "とし|Tahun",
-      "つき|Bulan"
-    ]
-  },
-  {
-    "kanji": "半",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 2,
-    "options": [
-      "いま|Sekarang",
-      "つき|Bulan",
-      "はん|Setengah",
-      "ひ|Hari"
-    ]
-  },
-  {
-    "kanji": "年",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 3,
-    "options": [
-      "つき|Bulan",
-      "ひ|Hari",
-      "いま|Sekarang",
-      "とし|Tahun"
-    ]
-  },
-  {
-    "kanji": "月",
-    "tema": "Waktu dan kalender part 1",
-    "answer": 0,
-    "options": [
-      "つき|Bulan",
-      "とし|Tahun",
-      "はん|Setengah",
-      "ひ|Hari"
-    ]
-  },
-  {
-    "kanji": "日",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 1,
-    "options": [
-      "つき|Bulan",
-      "ひ|Hari",
-      "とし|Tahun",
-      "いま|Sekarang"
-    ]
-  },
-  {
-    "kanji": "時間",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 2,
-    "options": [
-      "とけい|Jam",
-      "あした|Besok",
-      "じかん|Waktu",
-      "きょう|Hari ini"
-    ]
-  },
-  {
-    "kanji": "時計",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 3,
-    "options": [
-      "じかん|Waktu",
-      "きのう|Kemarin",
-      "こんしゅう|Minggu ini",
-      "とけい|Jam"
-    ]
-  },
-  {
-    "kanji": "今日",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 0,
-    "options": [
-      "きょう|Hari ini",
-      "あした|Besok",
-      "こんげつ|Bulan ini",
-      "きのう|Kemarin"
-    ]
-  },
-  {
-    "kanji": "明日",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 1,
-    "options": [
-      "きのう|Kemarin",
-      "あした|Besok",
-      "きょう|Hari ini",
-      "らいげつ|Bulan depan"
-    ]
-  },
-  {
-    "kanji": "昨日",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 2,
-    "options": [
-      "きょう|Hari ini",
-      "せんげつ|Bulan lalu",
-      "きのう|Kemarin",
-      "あした|Besok"
-    ]
-  },
-  {
-    "kanji": "今週",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 3,
-    "options": [
-      "せんしゅう|Minggu lalu",
-      "らいしゅう|Minggu depan",
-      "ことし|Tahun ini",
-      "こんしゅう|Minggu ini"
-    ]
-  },
-  {
-    "kanji": "来週",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 0,
-    "options": [
-      "らいしゅう|Minggu depan",
-      "こんしゅう|Minggu ini",
-      "せんしゅう|Minggu lalu",
-      "らいねん|Tahun depan"
-    ]
-  },
-  {
-    "kanji": "先週",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 1,
-    "options": [
-      "らいしゅう|Minggu depan",
-      "せんしゅう|Minggu lalu",
-      "こんしゅう|Minggu ini",
-      "きょねん|Tahun lalu"
-    ]
-  },
-  {
-    "kanji": "今月",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 2,
-    "options": [
-      "らいげつ|Bulan depan",
-      "せんげつ|Bulan lalu",
-      "こんげつ|Bulan ini",
-      "ごぜん|Pagi/AM"
-    ]
-  },
-  {
-    "kanji": "来月",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 3,
-    "options": [
-      "こんげつ|Bulan ini",
-      "ごご|Sore/PM",
-      "せんげつ|Bulan lalu",
-      "らいげつ|Bulan depan"
-    ]
-  },
-  {
-    "kanji": "先月",
-    "tema": "Waktu dan kalender part 2",
-    "answer": 0,
-    "options": [
-      "せんげつ|Bulan lalu",
-      "こんげつ|Bulan ini",
-      "らいげつ|Bulan depan",
-      "まいあさ|Setiap pagi"
-    ]
-  },
-  {
-    "kanji": "今年",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 1,
-    "options": [
-      "らいねん|Tahun depan",
-      "ことし|Tahun ini",
-      "きょねん|Tahun lalu",
-      "まいにち|Setiap hari"
-    ]
-  },
-  {
-    "kanji": "来年",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 2,
-    "options": [
-      "きょねん|Tahun lalu",
-      "まいしゅう|Setiap minggu",
-      "らいねん|Tahun depan",
-      "ことし|Tahun ini"
-    ]
-  },
-  {
-    "kanji": "去年",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 3,
-    "options": [
-      "ことし|Tahun ini",
-      "らいねん|Tahun depan",
-      "まいつき|Setiap bulan",
-      "きょねん|Tahun lalu"
-    ]
-  },
-  {
-    "kanji": "午前",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 0,
-    "options": [
-      "ごぜん|Pagi/AM",
-      "ごご|Sore/PM",
-      "じかん|Waktu",
-      "とけい|Jam"
-    ]
-  },
-  {
-    "kanji": "午後",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 1,
-    "options": [
-      "ごぜん|Pagi/AM",
-      "ごご|Sore/PM",
-      "きょう|Hari ini",
-      "あした|Besok"
+      "あき|Musim gugur",
+      "ふゆ|Musim dingin"
     ]
   },
   {
     "kanji": "毎朝",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 2,
+    "tema": "waktu dan kalender part 3",
+    "answer": 0,
     "options": [
-      "まいにち|Setiap hari",
-      "まいつき|Setiap bulan",
       "まいあさ|Setiap pagi",
-      "まいしゅう|Setiap minggu"
+      "まいにち|Setiap hari",
+      "まいしゅう|Setiap minggu",
+      "まいつき|Setiap bulan"
     ]
   },
   {
     "kanji": "毎日",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 3,
-    "options": [
-      "まいあさ|Setiap pagi",
-      "まいとし|Setiap tahun",
-      "まいばん|Setiap malam",
-      "まいにち|Setiap hari"
-    ]
-  },
-  {
-    "kanji": "毎週",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 0,
+    "tema": "waktu dan kalender part 3",
+    "answer": 1,
     "options": [
       "まいしゅう|Setiap minggu",
       "まいにち|Setiap hari",
@@ -759,36 +693,102 @@
     ]
   },
   {
-    "kanji": "毎月",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 1,
+    "kanji": "毎週",
+    "tema": "waktu dan kalender part 3",
+    "answer": 2,
     "options": [
-      "まいしゅう|Setiap minggu",
       "まいつき|Setiap bulan",
       "まいとし|Setiap tahun",
+      "まいしゅう|Setiap minggu",
       "まいばん|Setiap malam"
+    ]
+  },
+  {
+    "kanji": "毎月",
+    "tema": "waktu dan kalender part 3",
+    "answer": 3,
+    "options": [
+      "まいとし|Setiap tahun",
+      "まいばん|Setiap malam",
+      "まいあさ|Setiap pagi",
+      "まいつき|Setiap bulan"
     ]
   },
   {
     "kanji": "毎年",
-    "tema": "Waktu dan kalender part 3",
-    "answer": 2,
+    "tema": "waktu dan kalender part 3",
+    "answer": 0,
     "options": [
-      "まいつき|Setiap bulan",
-      "まいあさ|Setiap pagi",
       "まいとし|Setiap tahun",
-      "まいばん|Setiap malam"
+      "まいばん|Setiap malam",
+      "まいあさ|Setiap pagi",
+      "まいにち|Setiap hari"
     ]
   },
   {
     "kanji": "毎晩",
-    "tema": "Waktu dan kalender part 3",
+    "tema": "waktu dan kalender part 3",
+    "answer": 1,
+    "options": [
+      "まいあさ|Setiap pagi",
+      "まいばん|Setiap malam",
+      "まいにち|Setiap hari",
+      "まいしゅう|Setiap minggu"
+    ]
+  },
+  {
+    "kanji": "今",
+    "tema": "waktu dan kalender part 3",
+    "answer": 2,
+    "options": [
+      "はん|Setengah",
+      "とし|Tahun",
+      "いま|Sekarang",
+      "つき|Bulan"
+    ]
+  },
+  {
+    "kanji": "半",
+    "tema": "waktu dan kalender part 3",
     "answer": 3,
     "options": [
-      "まいとし|Setiap tahun",
-      "まいしゅう|Setiap minggu",
-      "まいにち|Setiap hari",
-      "まいばん|Setiap malam"
+      "とし|Tahun",
+      "つき|Bulan",
+      "ひ|Hari",
+      "はん|Setengah"
+    ]
+  },
+  {
+    "kanji": "年",
+    "tema": "waktu dan kalender part 3",
+    "answer": 0,
+    "options": [
+      "とし|Tahun",
+      "つき|Bulan",
+      "ひ|Hari",
+      "いま|Sekarang"
+    ]
+  },
+  {
+    "kanji": "月",
+    "tema": "waktu dan kalender part 3",
+    "answer": 1,
+    "options": [
+      "ひ|Hari",
+      "つき|Bulan",
+      "いま|Sekarang",
+      "はん|Setengah"
+    ]
+  },
+  {
+    "kanji": "日",
+    "tema": "waktu dan kalender part 3",
+    "answer": 2,
+    "options": [
+      "いま|Sekarang",
+      "はん|Setengah",
+      "ひ|Hari",
+      "とし|Tahun"
     ]
   }
 ]
