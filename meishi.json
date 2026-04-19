@@ -1428,5 +1428,742 @@
       "びょうき|Penyakit",
       "かぜ|Masuk angin/Flu"
     ]
+  },
+  {
+    "kanji": "水",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "みず|Air",
+      "にく|Daging",
+      "さかな|Ikan",
+      "たまご|Telur"
+    ]
+  },
+  {
+    "kanji": "肉",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "こめ|Beras",
+      "にく|Daging",
+      "さけ|Alkohol/Sake",
+      "しお|Garam"
+    ]
+  },
+  {
+    "kanji": "魚",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "さら|Piring",
+      "はし|Sumpit",
+      "さかな|Ikan",
+      "ちゃ|Teh"
+    ]
+  },
+  {
+    "kanji": "卵",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 3,
+    "options": [
+      "みず|Air",
+      "にく|Daging",
+      "こめ|Beras",
+      "たまご|Telur"
+    ]
+  },
+  {
+    "kanji": "米",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "こめ|Beras",
+      "さけ|Alkohol/Sake",
+      "しお|Garam",
+      "さら|Piring"
+    ]
+  },
+  {
+    "kanji": "牛乳",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "くだもの|Buah-buahan",
+      "ぎゅうにゅう|Susu sapi",
+      "やさい|Sayuran",
+      "りょうり|Masakan"
+    ]
+  },
+  {
+    "kanji": "果物",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "べんとう|Kotak bekal",
+      "ぎゅうにく|Daging sapi",
+      "くだもの|Buah-buahan",
+      "ぶたにく|Daging babi"
+    ]
+  },
+  {
+    "kanji": "野菜",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 3,
+    "options": [
+      "とりにく|Daging ayam",
+      "さとう|Gula",
+      "しょうゆ|Kecap asin",
+      "やさい|Sayuran"
+    ]
+  },
+  {
+    "kanji": "料理",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "りょうり|Masakan",
+      "ちょうしょく|Sarapan",
+      "ちゅうしょく|Makan siang",
+      "ゆうしょく|Makan malam"
+    ]
+  },
+  {
+    "kanji": "弁当",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "だいどころ|Dapur",
+      "べんとう|Kotak bekal",
+      "ちゃわん|Mangkuk nasi/teh",
+      "ぎゅうにゅう|Susu sapi"
+    ]
+  },
+  {
+    "kanji": "牛肉",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "くだもの|Buah-buahan",
+      "やさい|Sayuran",
+      "ぎゅうにく|Daging sapi",
+      "りょうり|Masakan"
+    ]
+  },
+  {
+    "kanji": "豚肉",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 3,
+    "options": [
+      "べんとう|Kotak bekal",
+      "ぎゅうにく|Daging sapi",
+      "とりにく|Daging ayam",
+      "ぶたにく|Daging babi"
+    ]
+  },
+  {
+    "kanji": "鳥肉",
+    "tema": "Makanan, Minuman dan Alat Makan Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "とりにく|Daging ayam",
+      "さとう|Gula",
+      "しょうゆ|Kecap asin",
+      "ちょうしょく|Sarapan"
+    ]
+  },
+  {
+    "kanji": "酒",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "こめ|Beras",
+      "さけ|Alkohol/Sake",
+      "しお|Garam",
+      "さら|Piring"
+    ]
+  },
+  {
+    "kanji": "塩",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "はし|Sumpit",
+      "ちゃ|Teh",
+      "しお|Garam",
+      "みず|Air"
+    ]
+  },
+  {
+    "kanji": "皿",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 3,
+    "options": [
+      "にく|Daging",
+      "さかな|Ikan",
+      "たまご|Telur",
+      "さら|Piring"
+    ]
+  },
+  {
+    "kanji": "箸",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "はし|Sumpit",
+      "ちゃ|Teh",
+      "こめ|Beras",
+      "さけ|Alkohol/Sake"
+    ]
+  },
+  {
+    "kanji": "茶",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "しお|Garam",
+      "ちゃ|Teh",
+      "さら|Piring",
+      "はし|Sumpit"
+    ]
+  },
+  {
+    "kanji": "砂糖",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "しょうゆ|Kecap asin",
+      "ちょうしょく|Sarapan",
+      "さとう|Gula",
+      "ちゅうしょく|Makan siang"
+    ]
+  },
+  {
+    "kanji": "醤油",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 3,
+    "options": [
+      "ゆうしょく|Makan malam",
+      "だいどころ|Dapur",
+      "ちゃわん|Mangkuk nasi/teh",
+      "しょうゆ|Kecap asin"
+    ]
+  },
+  {
+    "kanji": "朝食",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "ちょうしょく|Sarapan",
+      "ちゅうしょく|Makan siang",
+      "ゆうしょく|Makan malam",
+      "さとう|Gula"
+    ]
+  },
+  {
+    "kanji": "昼食",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "ちょうしょく|Sarapan",
+      "ちゅうしょく|Makan siang",
+      "ゆうしょく|Makan malam",
+      "しょうゆ|Kecap asin"
+    ]
+  },
+  {
+    "kanji": "夕食",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "だいどころ|Dapur",
+      "ちゃわん|Mangkuk nasi/teh",
+      "ゆうしょく|Makan malam",
+      "ちょうしょく|Sarapan"
+    ]
+  },
+  {
+    "kanji": "台所",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 3,
+    "options": [
+      "ちゅうしょく|Makan siang",
+      "ゆうしょく|Makan malam",
+      "ちゃわん|Mangkuk nasi/teh",
+      "だいどころ|Dapur"
+    ]
+  },
+  {
+    "kanji": "茶碗",
+    "tema": "Makanan, Minuman dan Alat Makan Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "ちゃわん|Mangkuk nasi/teh",
+      "さとう|Gula",
+      "しょうゆ|Kecap asin",
+      "だいどころ|Dapur"
+    ]
+  },
+  {
+    "kanji": "服",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 1,
+    "options": [
+      "くつ|Sepatu",
+      "ふく|Pakaian",
+      "かさ|Payung",
+      "かばん|Tas"
+    ]
+  },
+  {
+    "kanji": "靴",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 2,
+    "options": [
+      "いろ|Warna",
+      "あか|Merah",
+      "くつ|Sepatu",
+      "あお|Biru"
+    ]
+  },
+  {
+    "kanji": "傘",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 3,
+    "options": [
+      "くろ|Hitam",
+      "しろ|Putih",
+      "ふく|Pakaian",
+      "かさ|Payung"
+    ]
+  },
+  {
+    "kanji": "鞄",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 0,
+    "options": [
+      "かばん|Tas",
+      "くつ|Sepatu",
+      "いろ|Warna",
+      "あか|Merah"
+    ]
+  },
+  {
+    "kanji": "色",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 1,
+    "options": [
+      "あお|Biru",
+      "いろ|Warna",
+      "くろ|Hitam",
+      "しろ|Putih"
+    ]
+  },
+  {
+    "kanji": "赤",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 2,
+    "options": [
+      "ふく|Pakaian",
+      "かさ|Payung",
+      "あか|Merah",
+      "かばん|Tas"
+    ]
+  },
+  {
+    "kanji": "青",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 3,
+    "options": [
+      "くつ|Sepatu",
+      "いろ|Warna",
+      "くろ|Hitam",
+      "あお|Biru"
+    ]
+  },
+  {
+    "kanji": "黒",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 0,
+    "options": [
+      "くろ|Hitam",
+      "しろ|Putih",
+      "あか|Merah",
+      "あお|Biru"
+    ]
+  },
+  {
+    "kanji": "白",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 1,
+    "options": [
+      "くろ|Hitam",
+      "しろ|Putih",
+      "ふく|Pakaian",
+      "くつ|Sepatu"
+    ]
+  },
+  {
+    "kanji": "洋服",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 2,
+    "options": [
+      "くつした|Kaus kaki",
+      "めがね|Kacamata",
+      "ようふく|Pakaian gaya barat",
+      "うわぎ|Jaket/Baju atasan"
+    ]
+  },
+  {
+    "kanji": "靴下",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 3,
+    "options": [
+      "したぎ|Pakaian dalam",
+      "ぼうし|Topi",
+      "さいふ|Dompet",
+      "くつした|Kaus kaki"
+    ]
+  },
+  {
+    "kanji": "眼鏡",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 0,
+    "options": [
+      "めがね|Kacamata",
+      "せびろ|Jas",
+      "がいとう|Mantel",
+      "ちゃいろ|Coklat"
+    ]
+  },
+  {
+    "kanji": "上着",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 1,
+    "options": [
+      "きいろ|Kuning",
+      "うわぎ|Jaket/Baju atasan",
+      "ようふく|Pakaian gaya barat",
+      "くつした|Kaus kaki"
+    ]
+  },
+  {
+    "kanji": "下着",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 2,
+    "options": [
+      "めがね|Kacamata",
+      "ぼうし|Topi",
+      "したぎ|Pakaian dalam",
+      "さいふ|Dompet"
+    ]
+  },
+  {
+    "kanji": "帽子",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 3,
+    "options": [
+      "せびろ|Jas",
+      "がいとう|Mantel",
+      "ちゃいろ|Coklat",
+      "ぼうし|Topi"
+    ]
+  },
+  {
+    "kanji": "財布",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 0,
+    "options": [
+      "さいふ|Dompet",
+      "きいろ|Kuning",
+      "うわぎ|Jaket/Baju atasan",
+      "したぎ|Pakaian dalam"
+    ]
+  },
+  {
+    "kanji": "背広",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 1,
+    "options": [
+      "ようふく|Pakaian gaya barat",
+      "せびろ|Jas",
+      "がいとう|Mantel",
+      "ちゃいろ|Coklat"
+    ]
+  },
+  {
+    "kanji": "外套",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 2,
+    "options": [
+      "きいろ|Kuning",
+      "めがね|Kacamata",
+      "がいとう|Mantel",
+      "ぼうし|Topi"
+    ]
+  },
+  {
+    "kanji": "茶色",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 3,
+    "options": [
+      "さいふ|Dompet",
+      "せびろ|Jas",
+      "きいろ|Kuning",
+      "ちゃいろ|Coklat"
+    ]
+  },
+  {
+    "kanji": "黄色",
+    "tema": "Pakaian, Aksesoris dan Warna (N5)",
+    "answer": 0,
+    "options": [
+      "きいろ|Kuning",
+      "ようふく|Pakaian gaya barat",
+      "くつした|Kaus kaki",
+      "うわぎ|Jaket/Baju atasan"
+    ]
+  },
+  {
+    "kanji": "本",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "はこ|Kotak",
+      "ほん|Buku",
+      "かぎ|Kunci",
+      "つくえ|Meja"
+    ]
+  },
+  {
+    "kanji": "箱",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "じ|Huruf/Karakter",
+      "かみ|Kertas",
+      "はこ|Kotak",
+      "え|Gambar/Lukisan"
+    ]
+  },
+  {
+    "kanji": "鍵",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 3,
+    "options": [
+      "ほん|Buku",
+      "つくえ|Meja",
+      "じ|Huruf/Karakter",
+      "かぎ|Kunci"
+    ]
+  },
+  {
+    "kanji": "机",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "つくえ|Meja",
+      "かみ|Kertas",
+      "え|Gambar/Lukisan",
+      "ほん|Buku"
+    ]
+  },
+  {
+    "kanji": "辞書",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "ざっし|Majalah",
+      "じしょ|Kamus",
+      "しんぶん|Koran",
+      "てちょう|Buku catatan kecil"
+    ]
+  },
+  {
+    "kanji": "雑誌",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "えんぴつ|Pensil",
+      "いす|Kursi",
+      "ざっし|Majalah",
+      "えいご|Bahasa Inggris"
+    ]
+  },
+  {
+    "kanji": "新聞",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 3,
+    "options": [
+      "さくぶん|Karangan/Esai",
+      "しゅくだい|Pekerjaan rumah/PR",
+      "しつもん|Pertanyaan",
+      "しんぶん|Koran"
+    ]
+  },
+  {
+    "kanji": "手帳",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 0,
+    "options": [
+      "てちょう|Buku catatan kecil",
+      "もんだい|Soal/Masalah",
+      "いみ|Arti/Makna",
+      "かんじ|Kanji"
+    ]
+  },
+  {
+    "kanji": "鉛筆",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 1,
+    "options": [
+      "ぶんしょう|Kalimat",
+      "えんぴつ|Pensil",
+      "じしょ|Kamus",
+      "ざっし|Majalah"
+    ]
+  },
+  {
+    "kanji": "椅子",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 2,
+    "options": [
+      "しんぶん|Koran",
+      "てちょう|Buku catatan kecil",
+      "いす|Kursi",
+      "えいご|Bahasa Inggris"
+    ]
+  },
+  {
+    "kanji": "英語",
+    "tema": "Alat Tulis dan Pendidikan Part 1 (N5)",
+    "answer": 3,
+    "options": [
+      "さくぶん|Karangan/Esai",
+      "しゅくだい|Pekerjaan rumah/PR",
+      "しつもん|Pertanyaan",
+      "えいご|Bahasa Inggris"
+    ]
+  },
+  {
+    "kanji": "字",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "じ|Huruf/Karakter",
+      "かみ|Kertas",
+      "え|Gambar/Lukisan",
+      "ほん|Buku"
+    ]
+  },
+  {
+    "kanji": "紙",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "はこ|Kotak",
+      "かみ|Kertas",
+      "かぎ|Kunci",
+      "つくえ|Meja"
+    ]
+  },
+  {
+    "kanji": "絵",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "じ|Huruf/Karakter",
+      "ほん|Buku",
+      "え|Gambar/Lukisan",
+      "はこ|Kotak"
+    ]
+  },
+  {
+    "kanji": "作文",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 3,
+    "options": [
+      "もんだい|Soal/Masalah",
+      "いみ|Arti/Makna",
+      "かんじ|Kanji",
+      "さくぶん|Karangan/Esai"
+    ]
+  },
+  {
+    "kanji": "宿題",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "しゅくだい|Pekerjaan rumah/PR",
+      "ぶんしょう|Kalimat",
+      "じしょ|Kamus",
+      "ざっし|Majalah"
+    ]
+  },
+  {
+    "kanji": "質問",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "しんぶん|Koran",
+      "しつもん|Pertanyaan",
+      "てちょう|Buku catatan kecil",
+      "えんぴつ|Pensil"
+    ]
+  },
+  {
+    "kanji": "問題",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "いす|Kursi",
+      "えいご|Bahasa Inggris",
+      "もんだい|Soal/Masalah",
+      "いみ|Arti/Makna"
+    ]
+  },
+  {
+    "kanji": "意味",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 3,
+    "options": [
+      "かんじ|Kanji",
+      "ぶんしょう|Kalimat",
+      "さくぶん|Karangan/Esai",
+      "いみ|Arti/Makna"
+    ]
+  },
+  {
+    "kanji": "漢字",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 0,
+    "options": [
+      "かんじ|Kanji",
+      "しゅくだい|Pekerjaan rumah/PR",
+      "しつもん|Pertanyaan",
+      "もんだい|Soal/Masalah"
+    ]
+  },
+  {
+    "kanji": "文章",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 1,
+    "options": [
+      "いみ|Arti/Makna",
+      "ぶんしょう|Kalimat",
+      "じしょ|Kamus",
+      "ざっし|Majalah"
+    ]
+  },
+  {
+    "kanji": "日本語",
+    "tema": "Alat Tulis dan Pendidikan Part 2 (N5)",
+    "answer": 2,
+    "options": [
+      "きょうかしょ|Buku pelajaran",
+      "まんねんひつ|Pulpen/Pena",
+      "にほんご|Bahasa Jepang",
+      "じかんわり|Jadwal pelajaran"
+    ]
   }
 ]
