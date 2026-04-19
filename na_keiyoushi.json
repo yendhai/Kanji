@@ -1,123 +1,1124 @@
 [
   {
-    "kanji": "元気",
-    "hiragana": "げんき",
-    "tema": "Kepribadian",
-    "answer": 0,
-    "options": [
-      "げんき|Sehat/Semangat",
-      "びょうき|Sakit",
-      "ゆうめい|Terkenal",
-      "ひま|Senggang"
-    ]
-  },
-  {
     "kanji": "親切",
-    "hiragana": "しんせつ",
-    "tema": "Kepribadian",
-    "answer": 1,
-    "options": [
-      "いじわる|Jahat",
-      "しんせつ|Ramah/Baik hati",
-      "まじめ|Rajin/Serius",
-      "ふまじめ|Tidak serius"
-    ]
-  },
-  {
-    "kanji": "真面目",
-    "hiragana": "まじめ",
-    "tema": "Kepribadian",
-    "answer": 2,
-    "options": [
-      "しずか|Tenang",
-      "にぎやか|Ramai",
-      "まじめ|Serius/Sungguh2",
-      "けち|Pelit"
-    ]
-  },
-  {
-    "kanji": "大変",
-    "hiragana": "たいへん",
-    "tema": "Kepribadian",
-    "answer": 3,
-    "options": [
-      "らく|Mudah/Nyaman",
-      "かんたん|Gampang",
-      "ふくざつ|Rumit",
-      "たいへん|Berat/Susah"
-    ]
-  },
-  {
-    "kanji": "大丈夫",
-    "hiragana": "だいじょうぶ",
-    "tema": "Kepribadian",
+    "tema": "Karakter & Sifat Orang",
     "answer": 0,
     "options": [
-      "だいじょうぶ|Tidak apa-apa",
-      "だめ|Tidak boleh",
-      "むり|Mustahil",
-      "むだ|Sia-sia"
-    ]
-  },
-  {
-    "kanji": "好き",
-    "hiragana": "すき",
-    "tema": "Penilaian",
-    "answer": 0,
-    "options": [
-      "すき|Suka",
-      "きらい|Benci",
-      "じょうず|Pintar",
-      "へた|Bodoh"
-    ]
-  },
-  {
-    "kanji": "嫌い",
-    "hiragana": "きらい",
-    "tema": "Penilaian",
-    "answer": 1,
-    "options": [
-      "すき|Suka",
-      "きらい|Benci/Tidak suka",
-      "とくい|Ahli",
-      "にがて|Lemah"
+      "しんせつ|Ramah",
+      "しんけい|Saraf",
+      "しんせん|Segar",
+      "しんぱい|Khawatir"
     ]
   },
   {
     "kanji": "上手",
-    "hiragana": "じょうず",
-    "tema": "Penilaian",
+    "tema": "Karakter & Sifat Orang",
     "answer": 2,
     "options": [
-      "へた|Bodoh",
-      "わるい|Jelek",
-      "じょうず|Mahir/Pintar",
-      "きれい|Cantik"
+      "かみて|Bagian atas",
+      "うわて|Lebih hebat",
+      "じょうず|Pandai",
+      "へた|Payah"
     ]
   },
   {
     "kanji": "下手",
-    "hiragana": "へた",
-    "tema": "Penilaian",
+    "tema": "Karakter & Sifat Orang",
     "answer": 3,
     "options": [
-      "うまい|Enak/Pintar",
-      "すてき|Bagus",
-      "りっぱ|Megah",
-      "へた|Kurang mahir"
+      "したて|Bagian bawah",
+      "げしゅ|Tangan bawah",
+      "じょうず|Pandai",
+      "へた|Payah/Tidak pandai"
+    ]
+  },
+  {
+    "kanji": "素敵",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 1,
+    "options": [
+      "すてき|Musuh",
+      "すてき|Indah/Luar biasa",
+      "さてき|Kiri",
+      "すだき|Bambu"
+    ]
+  },
+  {
+    "kanji": "真面目",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 0,
+    "options": [
+      "まじめ|Serius/Rajin",
+      "ふまじめ|Tidak serius",
+      "まめん|Wajah asli",
+      "ていねい|Sopan"
+    ]
+  },
+  {
+    "kanji": "熱心",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 2,
+    "options": [
+      "ねつしん|Demam",
+      "あんしん|Lega",
+      "ねっしん|Tekun/Antusias",
+      "ねっかん|Perasaan panas"
+    ]
+  },
+  {
+    "kanji": "丁寧",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 1,
+    "options": [
+      "ていね|Hati-hati",
+      "ていねい|Sopan",
+      "ちょうねい|Panjang",
+      "てんねい|Damai"
+    ]
+  },
+  {
+    "kanji": "優秀",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 3,
+    "options": [
+      "ゆうしゅう|Kesedihan",
+      "ゆうじゅう|Ragu-ragu",
+      "やさし|Mudah",
+      "ゆうしゅう|Unggul/Berprestasi"
+    ]
+  },
+  {
+    "kanji": "得意",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 1,
+    "options": [
+      "とくえ|Gambar spesial",
+      "とくい|Keahlian/Bangga",
+      "とくこ|Anak spesial",
+      "にがて|Kelemahan"
+    ]
+  },
+  {
+    "kanji": "苦手",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 0,
+    "options": [
+      "にがて|Kelemahan/Tidak suka",
+      "くしゅ|Tangan pahit",
+      "にがしゅ|Pahit",
+      "とくい|Keahlian"
+    ]
+  },
+  {
+    "kanji": "一生懸命",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 2,
+    "options": [
+      "いっしょうけんめい|Seumur hidup",
+      "いっしょけんめい|Bersama-sama",
+      "いっしょうけんめい|Bersungguh-sungguh",
+      "いっせけんめい|Dunia"
+    ]
+  },
+  {
+    "kanji": "正直",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 1,
+    "options": [
+      "せいちょく|Lurus",
+      "しょうじき|Jujur",
+      "しょうしゃく|Detil",
+      "せいじき|Benar"
+    ]
+  },
+  {
+    "kanji": "素直",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 3,
+    "options": [
+      "そなお|Cepat",
+      "すちょく|Langsung",
+      "そちょく|Jujur",
+      "すなお|Polos/Patuh"
+    ]
+  },
+  {
+    "kanji": "慎重",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 0,
+    "options": [
+      "しんちょう|Hati-hati",
+      "しんじゅう|Berat",
+      "まこと|Tulus",
+      "しんえん|Dalam"
+    ]
+  },
+  {
+    "kanji": "強気",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 2,
+    "options": [
+      "きょうき|Gila",
+      "ごうき|Kuat",
+      "つよき|Percaya diri/Tegar",
+      "よわき|Lemah"
+    ]
+  },
+  {
+    "kanji": "弱気",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 1,
+    "options": [
+      "じゃっき|Penyakit",
+      "よわき|Lemah mental/Penakut",
+      "じゃくき|Kelemahan",
+      "つよき|Kuat"
+    ]
+  },
+  {
+    "kanji": "純粋",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 3,
+    "options": [
+      "じゅんすい|Air murni",
+      "じゅんき|Udara bersih",
+      "じゅんせい|Asli",
+      "じゅんすい|Murni"
+    ]
+  },
+  {
+    "kanji": "下品",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 0,
+    "options": [
+      "げひん|Kasar/Vulgar",
+      "したしな|Barang bawah",
+      "かひん|Produk buruk",
+      "じょうひん|Elegan"
+    ]
+  },
+  {
+    "kanji": "上品",
+    "tema": "Karakter & Sifat Orang",
+    "answer": 2,
+    "options": [
+      "うえしな|Barang atas",
+      "じょうぶ|Kuat",
+      "じょうひん|Elegan/Anggun",
+      "げひん|Kasar"
+    ]
+  },
+  {
+    "kanji": "元気",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 1,
+    "options": [
+      "てんき|Cuaca",
+      "げんき|Sehat/Bersemangat",
+      "びょうき|Sakit",
+      "ほんき|Serius"
+    ]
+  },
+  {
+    "kanji": "心配",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 3,
+    "options": [
+      "しんはい|Kekalahan",
+      "しんらい|Kepercayaan",
+      "しんさい|Bencana",
+      "しんぱい|Khawatir"
+    ]
+  },
+  {
+    "kanji": "丈夫",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 0,
+    "options": [
+      "じょうぶ|Kuat/Tahan lama",
+      "じょうふ|Pria kuat",
+      "だいじょうぶ|Aman",
+      "ちゅうぶ|Bagian tengah"
+    ]
+  },
+  {
+    "kanji": "楽",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 2,
+    "options": [
+      "たの|Menyenangkan",
+      "がく|Musik",
+      "らく|Nyaman/Mudah",
+      "ごらく|Hiburan"
+    ]
+  },
+  {
+    "kanji": "退屈",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 1,
+    "options": [
+      "たいきゅう|Daya tahan",
+      "たいくつ|Membosankan",
+      "たいがく|Dikeluarkan",
+      "たいしゃ|Pulang kerja"
+    ]
+  },
+  {
+    "kanji": "夢中",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 0,
+    "options": [
+      "むちゅう|Asyik/Terobsesi",
+      "ゆめなか|Dalam mimpi",
+      "むじゅう|Tidak berbobot",
+      "ゆめちゅう|Setengah tidur"
+    ]
+  },
+  {
+    "kanji": "苦痛",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 3,
+    "options": [
+      "にがいた|Pahit",
+      "くいた|Rasa sakit",
+      "にがつう|Kesakitan",
+      "くつう|Menyiksa/Nyeri"
+    ]
+  },
+  {
+    "kanji": "活発",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 2,
+    "options": [
+      "かつはつ|Kegiatan",
+      "かつぶつ|Benda hidup",
+      "かっぱつ|Aktif/Lincah",
+      "せいかつ|Kehidupan"
+    ]
+  },
+  {
+    "kanji": "悲惨",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 1,
+    "options": [
+      "ひさん|Kesedihan",
+      "ひさん|Tragis/Mengenaskan",
+      "かなみ|Menyedihkan",
+      "ひしん|Patah hati"
+    ]
+  },
+  {
+    "kanji": "深刻",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 0,
+    "options": [
+      "しんこく|Serius/Parah",
+      "しんじょう|Hati",
+      "ふかこく|Dalam",
+      "しんこく|Laporan"
+    ]
+  },
+  {
+    "kanji": "貧弱",
+    "tema": "Kondisi Fisik & Mental",
+    "answer": 3,
+    "options": [
+      "びんじゃく|Miskin",
+      "ひんよわ|Lemah",
+      "びんよわ|Tidak berdaya",
+      "ひんじゃく|Kurang/Lemah"
+    ]
+  },
+  {
+    "kanji": "便利",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 1,
+    "options": [
+      "ふべん|Tidak praktis",
+      "べんり|Praktis/Mudah",
+      "ゆうり|Menguntungkan",
+      "げんり|Prinsip"
+    ]
+  },
+  {
+    "kanji": "不便",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 2,
+    "options": [
+      "ふべ|Tanpa alasan",
+      "ぶべん|Tidak nyaman",
+      "ふべん|Tidak praktis",
+      "ふへん|Universal"
     ]
   },
   {
     "kanji": "簡単",
-    "hiragana": "かんたん",
-    "tema": "Penilaian",
+    "tema": "Kualitas & Rating Barang",
     "answer": 0,
     "options": [
       "かんたん|Mudah/Sederhana",
-      "むずかしい|Sulit",
-      "たいせつ|Penting",
-      "しんぱい|Khawatir"
+      "かんたん|Kagum",
+      "かんただ|Hanya",
+      "かんぱん|Papan"
+    ]
+  },
+  {
+    "kanji": "駄目",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 3,
+    "options": [
+      "だも|Kuda",
+      "たも|Jaring",
+      "だめ|Diam",
+      "だめ|Tidak boleh/Payah"
+    ]
+  },
+  {
+    "kanji": "複雑",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 1,
+    "options": [
+      "こんざつ|Padat",
+      "ふくざつ|Rumit",
+      "ふくさつ|Tindasan",
+      "ふっさつ|Terbunuh"
+    ]
+  },
+  {
+    "kanji": "適当",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 0,
+    "options": [
+      "てきとう|Sesuai/Asal-asalan",
+      "てきせい|Kesesuaian",
+      "てきどう|Pindah jalur",
+      "ほんとう|Benar"
+    ]
+  },
+  {
+    "kanji": "適切",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 2,
+    "options": [
+      "てききり|Potong",
+      "てきさい|Pemuatan",
+      "てきせつ|Tepat/Sesuai",
+      "たいせつ|Penting"
+    ]
+  },
+  {
+    "kanji": "完全",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 1,
+    "options": [
+      "かんせい|Selesai",
+      "かんぜん|Sempurna/Lengkap",
+      "あんぜん|Aman",
+      "がんぜん|Di depan mata"
+    ]
+  },
+  {
+    "kanji": "完璧",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 3,
+    "options": [
+      "かんぺい|Prajurit",
+      "かんべき|Keharusan",
+      "かんはき|Buang habis",
+      "かんぺき|Sempurna"
+    ]
+  },
+  {
+    "kanji": "単純",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 0,
+    "options": [
+      "たんじゅん|Sederhana",
+      "たんじゅ|Penyelesaian",
+      "たんしゅん|Musim semi",
+      "だんじゅん|Tahapan"
+    ]
+  },
+  {
+    "kanji": "透明",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 2,
+    "options": [
+      "すきあか|Tembus cahaya",
+      "とうみょう|Cahaya",
+      "とうめい|Transparan",
+      "どうめい|Aliansi"
+    ]
+  },
+  {
+    "kanji": "高価",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 1,
+    "options": [
+      "たかち|Nilai tinggi",
+      "こうか|Mahal",
+      "こうか|Efek",
+      "たかか|Harga"
+    ]
+  },
+  {
+    "kanji": "贅沢",
+    "tema": "Kualitas & Rating Barang",
+    "answer": 0,
+    "options": [
+      "ぜいたく|Mewah/Boros",
+      "ぜいたく|Rumah besar",
+      "せいたく|Pilihan",
+      "ぜいじゅう|Pajak"
+    ]
+  },
+  {
+    "kanji": "安全",
+    "tema": "Suasana & Lingkungan",
+    "answer": 3,
+    "options": [
+      "あんしん|Lega",
+      "あんてい|Stabil",
+      "きけん|Bahaya",
+      "あんぜん|Aman"
+    ]
+  },
+  {
+    "kanji": "危険",
+    "tema": "Suasana & Lingkungan",
+    "answer": 1,
+    "options": [
+      "きかん|Periode",
+      "きけん|Bahaya",
+      "あんぜん|Aman",
+      "きげん|Batas waktu"
+    ]
+  },
+  {
+    "kanji": "快適",
+    "tema": "Suasana & Lingkungan",
+    "answer": 2,
+    "options": [
+      "かいそく|Cepat",
+      "かいせい|Cerah",
+      "かいてき|Nyaman",
+      "てきせつ|Tepat"
+    ]
+  },
+  {
+    "kanji": "平和",
+    "tema": "Suasana & Lingkungan",
+    "answer": 0,
+    "options": [
+      "へいわ|Damai",
+      "たいわ|Dialog",
+      "へいか|Paduka",
+      "ちゅうわ|Netral"
+    ]
+  },
+  {
+    "kanji": "自然",
+    "tema": "Suasana & Lingkungan",
+    "answer": 1,
+    "options": [
+      "じぜん|Sebelumnya",
+      "しぜん|Alami",
+      "じねん|Spontan",
+      "しんぜん|Persahabatan"
+    ]
+  },
+  {
+    "kanji": "独特",
+    "tema": "Suasana & Lingkungan",
+    "answer": 3,
+    "options": [
+      "とくどく|Racun",
+      "どくとう|Satu-satunya",
+      "とくとく|Keuntungan",
+      "どくとく|Unik"
+    ]
+  },
+  {
+    "kanji": "奇妙",
+    "tema": "Suasana & Lingkungan",
+    "answer": 0,
+    "options": [
+      "きみょう|Aneh/Ganjil",
+      "きみょ|Ajaib",
+      "きしょう|Langka",
+      "きぼう|Harapan"
+    ]
+  },
+  {
+    "kanji": "巨大",
+    "tema": "Suasana & Lingkungan",
+    "answer": 2,
+    "options": [
+      "きょおお|Sangat besar",
+      "ごだい|Lima besar",
+      "きょだい|Raksasa",
+      "きょたい|Tubuh besar"
+    ]
+  },
+  {
+    "kanji": "莫大",
+    "tema": "Suasana & Lingkungan",
+    "answer": 1,
+    "options": [
+      "ばくたい|Kantong besar",
+      "ばくだい|Sangat besar/Masif",
+      "まくだい|Tirai besar",
+      "ばくおお|Banyak sekali"
+    ]
+  },
+  {
+    "kanji": "有名",
+    "tema": "Penampilan & Gaya",
+    "answer": 3,
+    "options": [
+      "あるめい|Punya nama",
+      "ゆうな|Bagus",
+      "ありな|Dikenal",
+      "ゆうめい|Terkenal"
+    ]
+  },
+  {
+    "kanji": "立派",
+    "tema": "Penampilan & Gaya",
+    "answer": 0,
+    "options": [
+      "りっぱ|Megah/Hebat",
+      "たつは|Kelompok berdiri",
+      "りつは|Gelombang",
+      "りんば|Lingkaran"
+    ]
+  },
+  {
+    "kanji": "豪華",
+    "tema": "Penampilan & Gaya",
+    "answer": 2,
+    "options": [
+      "ごうか|Bunga",
+      "ごうげ|Seni",
+      "ごうか|Mewah",
+      "ごうや|Rumah besar"
+    ]
+  },
+  {
+    "kanji": "貧乏",
+    "tema": "Penampilan & Gaya",
+    "answer": 1,
+    "options": [
+      "ひんぼう|Kemiskinan",
+      "びんぼう|Miskin",
+      "びんぼ|Kekurangan",
+      "ひんほう|Hukum"
+    ]
+  },
+  {
+    "kanji": "豊富",
+    "tema": "Penampilan & Gaya",
+    "answer": 0,
+    "options": [
+      "ほうふ|Melimpah",
+      "ほうぶ|Banyak bagian",
+      "とみとみ|Sangat kaya",
+      "ほうふ|Aman"
+    ]
+  },
+  {
+    "kanji": "派手",
+    "tema": "Penampilan & Gaya",
+    "answer": 3,
+    "options": [
+      "はて|Ujung",
+      "ぱで|Pesta",
+      "はだ|Kulit",
+      "はで|Mencolok"
+    ]
+  },
+  {
+    "kanji": "地味",
+    "tema": "Penampilan & Gaya",
+    "answer": 1,
+    "options": [
+      "ちみ|Rasa tanah",
+      "じみ|Sederhana",
+      "ちあじ|Bumbu",
+      "じび|Kecil"
+    ]
+  },
+  {
+    "kanji": "大丈夫",
+    "tema": "Reaksi & Situasi",
+    "answer": 2,
+    "options": [
+      "おおじょうぶ|Orang besar",
+      "だいじょぶ|Oke",
+      "だいじょうぶ|Tidak apa-apa",
+      "だいしょうふ|Suami"
+    ]
+  },
+  {
+    "kanji": "大変",
+    "tema": "Reaksi & Situasi",
+    "answer": 0,
+    "options": [
+      "たいへん|Berat/Sulit",
+      "だいへん|Perubahan besar",
+      "おおへん|Sangat aneh",
+      "たいへだ|Gawat"
+    ]
+  },
+  {
+    "kanji": "残念",
+    "tema": "Reaksi & Situasi",
+    "answer": 3,
+    "options": [
+      "ざんおも|Pikiran sisa",
+      "さんねん|Tiga tahun",
+      "だんねん|Menyerah",
+      "ざんねん|Sayang sekali"
+    ]
+  },
+  {
+    "kanji": "無理",
+    "tema": "Reaksi & Situasi",
+    "answer": 1,
+    "options": [
+      "ふり|Merugikan",
+      "むり|Mustahil/Memaksakan",
+      "ないり|Logika hilang",
+      "むこと|Tidak berguna"
+    ]
+  },
+  {
+    "kanji": "暇",
+    "tema": "Reaksi & Situasi",
+    "answer": 0,
+    "options": [
+      "ひま|Senggang",
+      "いとま|Cuti",
+      "か|Waktu luang",
+      "きゅう|Libur"
+    ]
+  },
+  {
+    "kanji": "急",
+    "tema": "Reaksi & Situasi",
+    "answer": 2,
+    "options": [
+      "いそぎ|Buru-buru",
+      "きゅうに|Segera",
+      "きゅう|Tiba-tiba/Mendadak",
+      "きゅ|Cepat"
+    ]
+  },
+  {
+    "kanji": "非常",
+    "tema": "Reaksi & Situasi",
+    "answer": 1,
+    "options": [
+      "ひじょ|Tragedi",
+      "ひじょう|Sangat/Darurat",
+      "ふじょう|Tidak bersih",
+      "ひしょ|Sekretaris"
+    ]
+  },
+  {
+    "kanji": "面倒",
+    "tema": "Reaksi & Situasi",
+    "answer": 3,
+    "options": [
+      "めんたお|Jatuh muka",
+      "つらたお|Wajah jatuh",
+      "めんとう|Merepotkan",
+      "めんどう|Merepotkan"
+    ]
+  },
+  {
+    "kanji": "不思議",
+    "tema": "Reaksi & Situasi",
+    "answer": 0,
+    "options": [
+      "ふしぎ|Aneh/Ajaib",
+      "ぶしぎ|Tidak mikir",
+      "ふしき|Misterius",
+      "ふおもぎ|Tidak terpikir"
+    ]
+  },
+  {
+    "kanji": "失礼",
+    "tema": "Reaksi & Situasi",
+    "answer": 2,
+    "options": [
+      "しつれい|Gagal",
+      "しちれい|Tujuh etika",
+      "しつれい|Tidak sopan/Permisi",
+      "うしれい|Kehilangan etika"
+    ]
+  },
+  {
+    "kanji": "邪魔",
+    "tema": "Reaksi & Situasi",
+    "answer": 1,
+    "options": [
+      "あくま|Iblis",
+      "じゃま|Mengganggu",
+      "だま|Diam",
+      "じゃあく|Jahat"
+    ]
+  },
+  {
+    "kanji": "意外",
+    "tema": "Reaksi & Situasi",
+    "answer": 1,
+    "options": [
+      "いがい|Selain itu",
+      "いがい|Di luar dugaan",
+      "いげ|Luar batas",
+      "いが|Medis"
+    ]
+  },
+  {
+    "kanji": "変",
+    "tema": "Reaksi & Situasi",
+    "answer": 0,
+    "options": [
+      "へん|Aneh",
+      "かわり|Ganti",
+      "へんか|Perubahan",
+      "かえ|Tukar"
+    ]
+  },
+  {
+    "kanji": "勝手",
+    "tema": "Reaksi & Situasi",
+    "answer": 3,
+    "options": [
+      "かちて|Pihak menang",
+      "しょうて|Tangan menang",
+      "かて|Menang",
+      "かって|Sesuka hati"
+    ]
+  },
+  {
+    "kanji": "同様",
+    "tema": "Reaksi & Situasi",
+    "answer": 1,
+    "options": [
+      "おなよう|Sama seperti",
+      "どうよう|Serupa",
+      "どうさま|Sama",
+      "どうよう|Goyah"
+    ]
+  },
+  {
+    "kanji": "不幸",
+    "tema": "Reaksi & Situasi",
+    "answer": 2,
+    "options": [
+      "ふしあわ|Tidak bahagia",
+      "ふゆき|Tidak pergi",
+      "ふこう|Sial/Tidak bahagia",
+      "ぶこう|Tanpa kebahagiaan"
+    ]
+  },
+  {
+    "kanji": "大切",
+    "tema": "Tingkat Kepentingan",
+    "answer": 0,
+    "options": [
+      "たいせつ|Penting/Berharga",
+      "おおきり|Potongan besar",
+      "たいきり|Batas akhir",
+      "だいせつ|Penting"
+    ]
+  },
+  {
+    "kanji": "特別",
+    "tema": "Tingkat Kepentingan",
+    "answer": 3,
+    "options": [
+      "とくはつ|Ledakan",
+      "とくべ|Spesialis",
+      "とくわけ|Khususnya",
+      "とくべつ|Spesial/Istimewa"
+    ]
+  },
+  {
+    "kanji": "必要",
+    "tema": "Tingkat Kepentingan",
+    "answer": 1,
+    "options": [
+      "ひつよ|Pastikan",
+      "ひつよう|Perlu/Butuh",
+      "じゅうよう|Penting",
+      "ふよう|Tidak perlu"
+    ]
+  },
+  {
+    "kanji": "大事",
+    "tema": "Tingkat Kepentingan",
+    "answer": 2,
+    "options": [
+      "おおごと|Masalah besar",
+      "だいごと|Pekerjaan besar",
+      "だいじ|Penting",
+      "たいじ|Pembasmian"
+    ]
+  },
+  {
+    "kanji": "重要",
+    "tema": "Tingkat Kepentingan",
+    "answer": 0,
+    "options": [
+      "じゅうよう|Penting/Signifikan",
+      "ちゅうよう|Tengah",
+      "じゅうよ|Sumbangan",
+      "しゅうよう|Kapasitas"
+    ]
+  },
+  {
+    "kanji": "妥当",
+    "tema": "Tingkat Kepentingan",
+    "answer": 3,
+    "options": [
+      "だど|Lumpur",
+      "たとう|Banyak pulau",
+      "だとう|Pukulan",
+      "だとう|Pantas/Wajar"
+    ]
+  },
+  {
+    "kanji": "有利",
+    "tema": "Tingkat Kepentingan",
+    "answer": 1,
+    "options": [
+      "ありき|Keuntungan",
+      "ゆうり|Menguntungkan",
+      "ゆうき|Berguna",
+      "ふり|Kerugian"
+    ]
+  },
+  {
+    "kanji": "不利",
+    "tema": "Tingkat Kepentingan",
+    "answer": 0,
+    "options": [
+      "ふり|Merugikan",
+      "ぶき|Senjata",
+      "ふき|Ketidakadilan",
+      "ぶち|Tanpa untung"
+    ]
+  },
+  {
+    "kanji": "確実",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 2,
+    "options": [
+      "たかじつ|Kenyataan",
+      "かくしつ|Ruang tertutup",
+      "かくじつ|Pasti",
+      "かくみ|Rasa pasti"
+    ]
+  },
+  {
+    "kanji": "有効",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 1,
+    "options": [
+      "ゆうこ|Teman",
+      "ゆうこう|Valid/Berlaku",
+      "むこう|Tidak valid",
+      "ゆうがく|Belajar di luar"
+    ]
+  },
+  {
+    "kanji": "自由",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 0,
+    "options": [
+      "じゆう|Bebas",
+      "じゆ|Alasan",
+      "みずよし|Alami",
+      "しゆう|Pribadi"
+    ]
+  },
+  {
+    "kanji": "十分",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 3,
+    "options": [
+      "じゅっぷん|10 menit",
+      "とおぶん|Bagian ke-10",
+      "じゅわん|Penuh",
+      "じゅうぶん|Cukup"
+    ]
+  },
+  {
+    "kanji": "可能",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 1,
+    "options": [
+      "ふかのう|Tidak mungkin",
+      "かのう|Mungkin/Memungkinkan",
+      "かの|Bisa jadi",
+      "かよう|Selasa"
+    ]
+  },
+  {
+    "kanji": "不可能",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 0,
+    "options": [
+      "ふかのう|Tidak mungkin",
+      "ぶかのう|Mustahil",
+      "ふかの|Bukan itu",
+      "かのう|Mungkin"
+    ]
+  },
+  {
+    "kanji": "無効",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 2,
+    "options": [
+      "むこ|Orang tak dikenal",
+      "なこう|Tidak efektif",
+      "むこう|Tidak berlaku",
+      "むきょう|Tanpa batas"
+    ]
+  },
+  {
+    "kanji": "結構",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 1,
+    "options": [
+      "けっか|Hasil",
+      "けっこう|Cukup/Bagus",
+      "けっこん|Menikah",
+      "けっこう|Struktur"
+    ]
+  },
+  {
+    "kanji": "直接",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 0,
+    "options": [
+      "ちょくせつ|Langsung",
+      "じきせつ|Waktu",
+      "ちょくさつ|Pemeriksaan",
+      "なおつぎ|Berikutnya"
+    ]
+  },
+  {
+    "kanji": "曖昧",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 3,
+    "options": [
+      "あじまい|Rasa tidak enak",
+      "あいまん|Penuh",
+      "あまえ|Manja",
+      "あいまい|Ambigu/Tidak jelas"
+    ]
+  },
+  {
+    "kanji": "平等",
+    "tema": "Fakta, Status, & Kepastian",
+    "answer": 0,
+    "options": [
+      "びょうどう|Adil/Setara",
+      "へいとう|Tingkat rata",
+      "へいどう|Jalan rata",
+      "びょうとう|Bangsal"
+    ]
+  },
+  {
+    "kanji": "具体的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 2,
+    "options": [
+      "ぐうてきて|Kebetulan",
+      "くたいてき|Kelelahan",
+      "ぐたいてき|Spesifik",
+      "ぐたいてん|Titik spesifik"
+    ]
+  },
+  {
+    "kanji": "積極的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 0,
+    "options": [
+      "せっきょくてき|Proaktif",
+      "せきよくてき|Pasif",
+      "せっきょてき|Target",
+      "せきりょくてき|Kekuatan"
+    ]
+  },
+  {
+    "kanji": "消極的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 1,
+    "options": [
+      "しょうよくてき|Menghilang",
+      "しょうきょくてき|Pasif",
+      "けしきょくてき|Hapus",
+      "せっきょくてき|Proaktif"
+    ]
+  },
+  {
+    "kanji": "伝統的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 3,
+    "options": [
+      "でんとてき|Kuno",
+      "てんどうてき|Surga",
+      "でんどうてき|Listrik",
+      "でんとうてき|Tradisional"
+    ]
+  },
+  {
+    "kanji": "一般的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 0,
+    "options": [
+      "いっぱんてき|Umum",
+      "いっぱてき|Sekali jalan",
+      "いちばんてき|Paling utama",
+      "いっぱんてん|Toko umum"
+    ]
+  },
+  {
+    "kanji": "理想的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 2,
+    "options": [
+      "りおもてき|Sesuai pikiran",
+      "りそうてん|Titik ideal",
+      "りそうてき|Ideal",
+      "りそてき|Filsafat"
+    ]
+  },
+  {
+    "kanji": "現実的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 1,
+    "options": [
+      "げんしてき|Primitif",
+      "げんじつてき|Realistis",
+      "げんちてき|Lokal",
+      "げんじつでき|Bisa nyata"
+    ]
+  },
+  {
+    "kanji": "基本的",
+    "tema": "Keluarga '~Teki'",
+    "answer": 0,
+    "options": [
+      "きほんてき|Mendasar",
+      "もとほんてき|Asli",
+      "きぼんてき|Harapan",
+      "きほんてん|Poin dasar"
     ]
   }
 ]
-
