@@ -4376,5 +4376,265 @@
       "しょうたい|Mengundang",
       "そうだん|Berdiskusi"
     ]
+  },
+  {
+    "kanji": "作る",
+    "tema": "Kegiatan Dapur",
+    "answer": 0,
+    "options": [
+      "つくる|Membuat",
+      "きる|Menumis",
+      "にる|Mengaduk",
+      "ぬる|Membakar"
+    ]
+  },
+  {
+    "kanji": "切る",
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "にる|Memotong",
+      "きる|Mengiris",
+      "はかる|Merebus",
+      "つくる|Mencuci"
+    ]
+  },
+  {
+    "kanji": "煮る",
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "つくる|Membakar",
+      "にる|Merebus",
+      "ぬる|Menanak",
+      "はかる|Mengupas"
+    ]
+  },
+  {
+    "kanji": "塗る",
+    "tema": "Kegiatan Dapur",
+    "answer": 3,
+    "options": [
+      "きる|Mencampur",
+      "にる|Menakar",
+      "はかる|Menuang",
+      "ぬる|Mengoleskan"
+    ]
+  },
+  {
+    "kanji": "計る",
+    "tema": "Kegiatan Dapur",
+    "answer": 0,
+    "options": [
+      "はかる|Menakar",
+      "つくる|Mendidihkan",
+      "きる|Mendinginkan",
+      "にる|Memanaskan"
+    ]
+  },
+  {
+    "kanji": "閉める",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 0,
+    "options": [
+      "しめる|Menutup",
+      "いためる|Membuka",
+      "あたためる|Menggoreng",
+      "あつめる|Menumis"
+    ]
+  },
+  {
+    "kanji": "炒める",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "しめる|Merebus",
+      "いためる|Menumis",
+      "あたためる|Mengukus",
+      "あつめる|Menanak"
+    ]
+  },
+  {
+    "kanji": "温める",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 2,
+    "options": [
+      "いためる|Mendinginkan",
+      "あつめる|Mencuci",
+      "あたためる|Memanaskan",
+      "しめる|Mencicipi"
+    ]
+  },
+  {
+    "kanji": "開ける",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 0,
+    "options": [
+      "あける|Membuka",
+      "かける|Menutup",
+      "まける|Menyajikan",
+      "さける|Menghidangkan"
+    ]
+  },
+  {
+    "kanji": "揚げる",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "にげる|Menanak",
+      "あげる|Menggoreng",
+      "なげる|Mengukus",
+      "まげる|Meniriskan"
+    ]
+  },
+  {
+    "kanji": "混ぜる",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 0,
+    "options": [
+      "まぜる|Mencampur",
+      "ほうぜる|Memisahkan",
+      "えんぜる|Menyaring",
+      "きんぜる|Mengayak"
+    ]
+  },
+  {
+    "kanji": "茹でる",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 2,
+    "options": [
+      "かなでる|Membakar",
+      "めでる|Memanggang",
+      "ゆでる|Merebus",
+      "いでる|Mengasap"
+    ]
+  },
+  {
+    "kanji": "食べる",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "ならべる|Minum",
+      "たべる|Makan",
+      "しらべる|Mengunyah",
+      "くらべる|Menelan"
+    ]
+  },
+  {
+    "kanji": "入れる",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 3,
+    "options": [
+      "わすれる|Mengeluarkan",
+      "おくれる|Menuang",
+      "つかれる|Memeras",
+      "いれる|Memasukkan"
+    ]
+  },
+  {
+    "kanji": "焼く",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 0,
+    "options": [
+      "やく|Memanggang",
+      "たく|Mengukus",
+      "むく|Memblender",
+      "なく|Mengulek"
+    ]
+  },
+  {
+    "kanji": "炊く",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "やく|Menggoreng",
+      "たく|Menanak",
+      "むく|Merebus",
+      "なく|Menyeduh"
+    ]
+  },
+  {
+    "kanji": "剥く",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 3,
+    "options": [
+      "やく|Menimbang",
+      "たく|Menakar",
+      "なく|Mencicipi",
+      "むく|Mengupas"
+    ]
+  },
+  {
+    "kanji": "注ぐ",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "およぐ|Membekukan",
+      "そそぐ|Menuangkan",
+      "いそぐ|Mencairkan",
+      "ぬぐ|Memanaskan"
+    ]
+  },
+  {
+    "kanji": "沸かす",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 2,
+    "options": [
+      "なかす|Mengocok",
+      "かわかす|Melarutkan",
+      "わかす|Mendidihkan",
+      "うごかす|Mendinginkan"
+    ]
+  },
+  {
+    "kanji": "冷ます",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 1,
+    "options": [
+      "すます|Menghangatkan",
+      "さます|Mendinginkan",
+      "だます|Membekukan",
+      "はげます|Melumerkan"
+    ]
+  },
+  {
+    "kanji": "飲む",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 0,
+    "options": [
+      "のむ|Minum",
+      "よむ|Menggigit",
+      "やすむ|Menyesap",
+      "たのむ|Menyedot"
+    ]
+  },
+  {
+    "kanji": "洗う",
+    "special": true,
+    "tema": "Kegiatan Dapur",
+    "answer": 3,
+    "options": [
+      "かう|Membilas",
+      "うたう|Mengeringkan",
+      "わらう|Mengelap",
+      "あらう|Mencuci"
+    ]
   }
 ]
+
