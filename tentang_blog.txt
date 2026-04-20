@@ -1,0 +1,5 @@
+Membangun blog ini adalah sebuah perjalanan "trial and error" yang panjang. Awalnya, blog ini hanyalah sekumpulan catatan pribadi yang berantakan di memori ponsel. Suka dukanya terasa saat saya harus memikirkan bagaimana caranya agar orang lain bisa menikmati proses belajar yang biasanya membosankan menjadi lebih interaktif.
+
+Semua ide yang tertuang di sini adalah hasil revisi berkali-kali—mulai dari tampilan yang berulang kali diubah agar nyaman di mata (terutama mode gelap), hingga sistem kuis yang harus memastikan data dari GitHub terbaca dengan benar. Tantangan terbesarnya adalah saat harus coding melalui ponsel, memilah ribuan baris kode di layar kecil demi menciptakan sistem yang ringan namun tetap canggih.
+
+Blog ini dibuat dengan satu alasan utama: efisiensi. Saya ingin sebuah platform di mana saya (dan kalian) bisa mengetes kemampuan kanji kapan saja tanpa perlu membawa buku tebal. Meski melelahkan dalam proses pembuatannya, setiap kali satu fitur baru berhasil jalan, ada kepuasan tersendiri yang tidak bisa dibayar dengan apa pun.
