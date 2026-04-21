@@ -2572,5 +2572,225 @@
       "こいぬ|Anak anjing",
       "こんちゅう|Serangga"
     ]
+  },
+  {
+    "kanji": "歌",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 0,
+    "options": [
+      "うた|Lagu",
+      "ゆか|Lantai",
+      "まど|Jendela",
+      "と|Pintu geser kayu"
+    ]
+  },
+  {
+    "kanji": "床",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 1,
+    "options": [
+      "まど|Jendela",
+      "ゆか|Lantai",
+      "とびら|Pintu berengsel",
+      "うた|Lagu"
+    ]
+  },
+  {
+    "kanji": "窓",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 2,
+    "options": [
+      "とびら|Pintu berengsel",
+      "と|Pintu geser kayu",
+      "まど|Jendela",
+      "ゆか|Lantai"
+    ]
+  },
+  {
+    "kanji": "戸",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 3,
+    "options": [
+      "ゆか|Lantai",
+      "まど|Jendela",
+      "うた|Lagu",
+      "と|Pintu geser kayu"
+    ]
+  },
+  {
+    "kanji": "扉",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 0,
+    "options": [
+      "とびら|Pintu berengsel",
+      "うた|Lagu",
+      "ゆか|Lantai",
+      "まど|Jendela"
+    ]
+  },
+  {
+    "kanji": "手紙",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 0,
+    "options": [
+      "てがみ|Surat",
+      "しゃしん|Foto",
+      "えいが|Film",
+      "おんがく|Musik"
+    ]
+  },
+  {
+    "kanji": "写真",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 1,
+    "options": [
+      "てがみ|Surat",
+      "しゃしん|Foto",
+      "えいが|Film",
+      "おんがく|Musik"
+    ]
+  },
+  {
+    "kanji": "映画",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 2,
+    "options": [
+      "てがみ|Surat",
+      "しゃしん|Foto",
+      "えいが|Film",
+      "おんがく|Musik"
+    ]
+  },
+  {
+    "kanji": "音楽",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 3,
+    "options": [
+      "てがみ|Surat",
+      "しゃしん|Foto",
+      "えいが|Film",
+      "おんがく|Musik"
+    ]
+  },
+  {
+    "kanji": "切手",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 0,
+    "options": [
+      "きって|Prangko",
+      "はがき|Kartu pos",
+      "せんたく|Cucian/Mencuci",
+      "そうじ|Bersih-bersih"
+    ]
+  },
+  {
+    "kanji": "葉書",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 1,
+    "options": [
+      "きって|Prangko",
+      "はがき|Kartu pos",
+      "せんたく|Cucian/Mencuci",
+      "そうじ|Bersih-bersih"
+    ]
+  },
+  {
+    "kanji": "洗濯",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 2,
+    "options": [
+      "きって|Prangko",
+      "はがき|Kartu pos",
+      "せんたく|Cucian/Mencuci",
+      "そうじ|Bersih-bersih"
+    ]
+  },
+  {
+    "kanji": "掃除",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 3,
+    "options": [
+      "きって|Prangko",
+      "はがき|Kartu pos",
+      "せんたく|Cucian/Mencuci",
+      "そうじ|Bersih-bersih"
+    ]
+  },
+  {
+    "kanji": "電話",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 0,
+    "options": [
+      "でんわ|Telepon",
+      "はいざら|Asbak",
+      "ふうとう|Amplop",
+      "てんじょう|Langit-langit atap"
+    ]
+  },
+  {
+    "kanji": "灰皿",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 1,
+    "options": [
+      "でんわ|Telepon",
+      "はいざら|Asbak",
+      "ふうとう|Amplop",
+      "てんじょう|Langit-langit atap"
+    ]
+  },
+  {
+    "kanji": "封筒",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 2,
+    "options": [
+      "でんわ|Telepon",
+      "はいざら|Asbak",
+      "ふうとう|Amplop",
+      "てんじょう|Langit-langit atap"
+    ]
+  },
+  {
+    "kanji": "天井",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 3,
+    "options": [
+      "でんわ|Telepon",
+      "はいざら|Asbak",
+      "ふうとう|Amplop",
+      "てんじょう|Langit-langit atap"
+    ]
+  },
+  {
+    "kanji": "電気",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 0,
+    "options": [
+      "でんき|Listrik/Lampu",
+      "だんぼう|Mesin pemanas ruangan",
+      "れいぼう|Mesin pendingin ruangan",
+      "そうじ|Bersih-bersih"
+    ]
+  },
+  {
+    "kanji": "暖房",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 1,
+    "options": [
+      "でんき|Listrik/Lampu",
+      "だんぼう|Mesin pemanas ruangan",
+      "れいぼう|Mesin pendingin ruangan",
+      "そうじ|Bersih-bersih"
+    ]
+  },
+  {
+    "kanji": "冷房",
+    "tema": "Kehidupan Sehari-hari dan Benda Rumah (N5)",
+    "answer": 2,
+    "options": [
+      "でんき|Listrik/Lampu",
+      "だんぼう|Mesin pemanas ruangan",
+      "れいぼう|Mesin pendingin ruangan",
+      "そうじ|Bersih-bersih"
+    ]
   }
 ]
