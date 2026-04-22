@@ -680,5 +680,566 @@
       "じゅうしょ (juusho)|Alamat",
       "いなか (inaka)|Pedesaan"
     ]
+  },
+  {
+    "kanji": "糸",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 2,
+    "options": [
+      "かがみ (kagami)|Cermin",
+      "け (ke)|Bulu / Rambut",
+      "いと (ito)|Benang",
+      "はこ (hako)|Kotak"
+    ]
+  },
+  {
+    "kanji": "毛",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 0,
+    "options": [
+      "け (ke)|Bulu / Rambut",
+      "いと (ito)|Benang",
+      "はこ (hako)|Kotak",
+      "かがみ (kagami)|Cermin"
+    ]
+  },
+  {
+    "kanji": "鏡",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 3,
+    "options": [
+      "はこ (hako)|Kotak",
+      "いと (ito)|Benang",
+      "け (ke)|Bulu / Rambut",
+      "かがみ (kagami)|Cermin"
+    ]
+  },
+  {
+    "kanji": "指輪",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 1,
+    "options": [
+      "ふうとう (fuutou)|Amplop",
+      "ゆびわ (yubiwa)|Cincin",
+      "にもつ (nimotsu)|Barang bawaan",
+      "じしょ (jisho)|Kamus"
+    ]
+  },
+  {
+    "kanji": "封筒",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 2,
+    "options": [
+      "にもつ (nimotsu)|Barang bawaan",
+      "ゆびわ (yubiwa)|Cincin",
+      "ふうとう (fuutou)|Amplop",
+      "ふとん (futon)|Kasur lipat"
+    ]
+  },
+  {
+    "kanji": "荷物",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 0,
+    "options": [
+      "にもつ (nimotsu)|Barang bawaan",
+      "じしょ (jisho)|Kamus",
+      "ふとん (futon)|Kasur lipat",
+      "どうぐ (dougu)|Peralatan"
+    ]
+  },
+  {
+    "kanji": "辞書",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 3,
+    "options": [
+      "かぐ (kagu)|Perabotan rumah",
+      "どうぐ (dougu)|Peralatan",
+      "ふうとう (fuutou)|Amplop",
+      "じしょ (jisho)|Kamus"
+    ]
+  },
+  {
+    "kanji": "布団",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 1,
+    "options": [
+      "きかい (kikai)|Mesin",
+      "ふとん (futon)|Kasur lipat",
+      "ぶひん (buhin)|Suku cadang",
+      "でんぽう (denpou)|Telegram"
+    ]
+  },
+  {
+    "kanji": "道具",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 2,
+    "options": [
+      "かぐ (kagu)|Perabotan rumah",
+      "きかい (kikai)|Mesin",
+      "どうぐ (dougu)|Peralatan",
+      "ようふく (youfuku)|Pakaian ala Barat"
+    ]
+  },
+  {
+    "kanji": "家具",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 0,
+    "options": [
+      "かぐ (kagu)|Perabotan rumah",
+      "わふく (wafuku)|Pakaian tradisional",
+      "だんぼう (danbou)|Pemanas ruangan",
+      "れいぼう (reibou)|Pendingin ruangan"
+    ]
+  },
+  {
+    "kanji": "機械",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 3,
+    "options": [
+      "ぶひん (buhin)|Suku cadang",
+      "でんぽう (denpou)|Telegram",
+      "ようふく (youfuku)|Pakaian ala Barat",
+      "きかい (kikai)|Mesin"
+    ]
+  },
+  {
+    "kanji": "部品",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 1,
+    "options": [
+      "わふく (wafuku)|Pakaian tradisional",
+      "ぶひん (buhin)|Suku cadang",
+      "だんぼう (danbou)|Pemanas ruangan",
+      "れいぼう (reibou)|Pendingin ruangan"
+    ]
+  },
+  {
+    "kanji": "電報",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 2,
+    "options": [
+      "ようふく (youfuku)|Pakaian ala Barat",
+      "わふく (wafuku)|Pakaian tradisional",
+      "でんぽう (denpou)|Telegram",
+      "だんぼう (danbou)|Pemanas ruangan"
+    ]
+  },
+  {
+    "kanji": "洋服",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 0,
+    "options": [
+      "ようふく (youfuku)|Pakaian ala Barat",
+      "れいぼう (reibou)|Pendingin ruangan",
+      "ぶひん (buhin)|Suku cadang",
+      "きかい (kikai)|Mesin"
+    ]
+  },
+  {
+    "kanji": "和服",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 3,
+    "options": [
+      "ゆびわ (yubiwa)|Cincin",
+      "ふうとう (fuutou)|Amplop",
+      "にもつ (nimotsu)|Barang bawaan",
+      "わふく (wafuku)|Pakaian tradisional"
+    ]
+  },
+  {
+    "kanji": "暖房",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 1,
+    "options": [
+      "れいぼう (reibou)|Pendingin ruangan",
+      "だんぼう (danbou)|Pemanas ruangan",
+      "じしょ (jisho)|Kamus",
+      "ふとん (futon)|Kasur lipat"
+    ]
+  },
+  {
+    "kanji": "冷房",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 2,
+    "options": [
+      "どうぐ (dougu)|Peralatan",
+      "かぐ (kagu)|Perabotan rumah",
+      "れいぼう (reibou)|Pendingin ruangan",
+      "きかい (kikai)|Mesin"
+    ]
+  },
+  {
+    "kanji": "冷蔵庫",
+    "tema": "Benda, Alat, & Kebutuhan (N4)",
+    "answer": 0,
+    "options": [
+      "れいぞうこ (reizouko)|Kulkas",
+      "せんたくき (sentakuki)|Mesin cuci",
+      "そうじき (soujiki)|Penyedot debu",
+      "せんぷうき (senpuuki)|Kipas angin"
+    ]
+  },
+  {
+    "kanji": "昔",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 3,
+    "options": [
+      "いま (ima)|Sekarang",
+      "ひる (hiru)|Siang",
+      "よる (yoru)|Malam",
+      "むかし (mukashi)|Zaman dahulu"
+    ]
+  },
+  {
+    "kanji": "最近",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 1,
+    "options": [
+      "しょうらい (shourai)|Masa depan (personal)",
+      "さいきん (saikin)|Akhir-akhir ini",
+      "みらい (mirai)|Masa depan (luas)",
+      "じだい (jidai)|Era / Zaman"
+    ]
+  },
+  {
+    "kanji": "将来",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 2,
+    "options": [
+      "せいき (seiki)|Abad",
+      "へいじつ (heijitsu)|Hari kerja",
+      "しょうらい (shourai)|Masa depan (personal)",
+      "きゅうじつ (kyuujitsu)|Hari libur"
+    ]
+  },
+  {
+    "kanji": "未来",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 0,
+    "options": [
+      "みらい (mirai)|Masa depan (luas)",
+      "よてい (yotei)|Jadwal / Agenda",
+      "しあい (shiai)|Pertandingan",
+      "しゅうまつ (shuumatsu)|Akhir pekan"
+    ]
+  },
+  {
+    "kanji": "時代",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 3,
+    "options": [
+      "こんや (kon'ya)|Malam ini",
+      "さいきん (saikin)|Akhir-akhir ini",
+      "しょうらい (shourai)|Masa depan (personal)",
+      "じだい (jidai)|Era / Zaman"
+    ]
+  },
+  {
+    "kanji": "世紀",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 1,
+    "options": [
+      "へいじつ (heijitsu)|Hari kerja",
+      "せいき (seiki)|Abad",
+      "きゅうじつ (kyuujitsu)|Hari libur",
+      "よてい (yotei)|Jadwal / Agenda"
+    ]
+  },
+  {
+    "kanji": "平日",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 2,
+    "options": [
+      "しあい (shiai)|Pertandingan",
+      "しゅうまつ (shuumatsu)|Akhir pekan",
+      "へいじつ (heijitsu)|Hari kerja",
+      "こんや (kon'ya)|Malam ini"
+    ]
+  },
+  {
+    "kanji": "休日",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 0,
+    "options": [
+      "きゅうじつ (kyuujitsu)|Hari libur",
+      "さいきん (saikin)|Akhir-akhir ini",
+      "しょうらい (shourai)|Masa depan (personal)",
+      "みらい (mirai)|Masa depan (luas)"
+    ]
+  },
+  {
+    "kanji": "予定",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 3,
+    "options": [
+      "じだい (jidai)|Era / Zaman",
+      "せいき (seiki)|Abad",
+      "へいじつ (heijitsu)|Hari kerja",
+      "よてい (yotei)|Jadwal / Agenda"
+    ]
+  },
+  {
+    "kanji": "試合",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 1,
+    "options": [
+      "きゅうじつ (kyuujitsu)|Hari libur",
+      "しあい (shiai)|Pertandingan",
+      "しゅうまつ (shuumatsu)|Akhir pekan",
+      "こんや (kon'ya)|Malam ini"
+    ]
+  },
+  {
+    "kanji": "週末",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 2,
+    "options": [
+      "さいきん (saikin)|Akhir-akhir ini",
+      "しょうらい (shourai)|Masa depan (personal)",
+      "しゅうまつ (shuumatsu)|Akhir pekan",
+      "みらい (mirai)|Masa depan (luas)"
+    ]
+  },
+  {
+    "kanji": "今夜",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 0,
+    "options": [
+      "こんや (kon'ya)|Malam ini",
+      "じだい (jidai)|Era / Zaman",
+      "せいき (seiki)|Abad",
+      "へいじつ (heijitsu)|Hari kerja"
+    ]
+  },
+  {
+    "kanji": "展覧会",
+    "tema": "Waktu, Jadwal, & Acara (N4)",
+    "answer": 3,
+    "options": [
+      "うんどうかい (undoukai)|Festival olahraga",
+      "おんがくかい (ongakukai)|Konser musik",
+      "たんじょうび (tanjoubi)|Ulang tahun",
+      "てんらんかい (tenrankai)|Pameran"
+    ]
+  },
+  {
+    "kanji": "放送",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 1,
+    "options": [
+      "ばんぐみ (bangumi)|Program (TV/Radio)",
+      "ほうそう (housou)|Siaran",
+      "ほんやく (hon'yaku)|Terjemahan (tulisan)",
+      "つうやく (tsuuyaku)|Terjemahan (lisan)"
+    ]
+  },
+  {
+    "kanji": "番組",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 2,
+    "options": [
+      "れんらく (renraku)|Komunikasi / Hubungan",
+      "へんじ (henji)|Balasan / Jawaban",
+      "ばんぐみ (bangumi)|Program (TV/Radio)",
+      "はつおん (hatsuon)|Pelafalan"
+    ]
+  },
+  {
+    "kanji": "翻訳",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 0,
+    "options": [
+      "ほんやく (hon'yaku)|Terjemahan (tulisan)",
+      "ぶんぽう (bunpou)|Tata bahasa",
+      "じしょ (jisho)|Kamus",
+      "しょうせつ (shousetsu)|Novel"
+    ]
+  },
+  {
+    "kanji": "通訳",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 3,
+    "options": [
+      "にっき (nikki)|Buku harian",
+      "ほうそう (housou)|Siaran",
+      "ばんぐみ (bangumi)|Program (TV/Radio)",
+      "つうやく (tsuuyaku)|Terjemahan (lisan)"
+    ]
+  },
+  {
+    "kanji": "連絡",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 1,
+    "options": [
+      "へんじ (henji)|Balasan / Jawaban",
+      "れんらく (renraku)|Komunikasi / Hubungan",
+      "はつおん (hatsuon)|Pelafalan",
+      "ぶんぽう (bunpou)|Tata bahasa"
+    ]
+  },
+  {
+    "kanji": "返事",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 2,
+    "options": [
+      "じしょ (jisho)|Kamus",
+      "しょうせつ (shousetsu)|Novel",
+      "へんじ (henji)|Balasan / Jawaban",
+      "にっき (nikki)|Buku harian"
+    ]
+  },
+  {
+    "kanji": "発音",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 0,
+    "options": [
+      "はつおん (hatsuon)|Pelafalan",
+      "ほうそう (housou)|Siaran",
+      "ばんぐみ (bangumi)|Program (TV/Radio)",
+      "ほんやく (hon'yaku)|Terjemahan (tulisan)"
+    ]
+  },
+  {
+    "kanji": "文法",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 3,
+    "options": [
+      "つうやく (tsuuyaku)|Terjemahan (lisan)",
+      "れんらく (renraku)|Komunikasi / Hubungan",
+      "へんじ (henji)|Balasan / Jawaban",
+      "ぶんぽう (bunpou)|Tata bahasa"
+    ]
+  },
+  {
+    "kanji": "辞書",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 1,
+    "options": [
+      "はつおん (hatsuon)|Pelafalan",
+      "じしょ (jisho)|Kamus",
+      "しょうせつ (shousetsu)|Novel",
+      "にっき (nikki)|Buku harian"
+    ]
+  },
+  {
+    "kanji": "小説",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 2,
+    "options": [
+      "ほうそう (housou)|Siaran",
+      "ばんぐみ (bangumi)|Program (TV/Radio)",
+      "しょうせつ (shousetsu)|Novel",
+      "ほんやく (hon'yaku)|Terjemahan (tulisan)"
+    ]
+  },
+  {
+    "kanji": "日記",
+    "tema": "Komunikasi & Informasi (N4)",
+    "answer": 0,
+    "options": [
+      "にっき (nikki)|Buku harian",
+      "つうやく (tsuuyaku)|Terjemahan (lisan)",
+      "れんらく (renraku)|Komunikasi / Hubungan",
+      "へんじ (henji)|Balasan / Jawaban"
+    ]
+  },
+  {
+    "kanji": "脈",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 3,
+    "options": [
+      "ねつ (netsu)|Demam",
+      "ち (chi)|Darah",
+      "ほね (hone)|Tulang",
+      "みゃく (myaku)|Denyut nadi"
+    ]
+  },
+  {
+    "kanji": "熱",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 1,
+    "options": [
+      "みゃく (myaku)|Denyut nadi",
+      "ねつ (netsu)|Demam",
+      "ち (chi)|Darah",
+      "は (ha)|Gigi"
+    ]
+  },
+  {
+    "kanji": "血",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 2,
+    "options": [
+      "ほね (hone)|Tulang",
+      "ねつ (netsu)|Demam",
+      "ち (chi)|Darah",
+      "みゃく (myaku)|Denyut nadi"
+    ]
+  },
+  {
+    "kanji": "具合",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 0,
+    "options": [
+      "ぐあい (guai)|Kondisi",
+      "ちゅうしゃ (chuusha)|Suntikan",
+      "たいいん (taiin)|Keluar RS",
+      "にゅういん (nyuuin)|Masuk RS"
+    ]
+  },
+  {
+    "kanji": "注射",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 3,
+    "options": [
+      "しか (shika)|Kedokteran gigi",
+      "げか (geka)|Bedah",
+      "ぐあい (guai)|Kondisi",
+      "ちゅうしゃ (chuusha)|Suntikan"
+    ]
+  },
+  {
+    "kanji": "退院",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 1,
+    "options": [
+      "にゅういん (nyuuin)|Masuk RS",
+      "たいいん (taiin)|Keluar RS",
+      "しか (shika)|Kedokteran gigi",
+      "げか (geka)|Bedah"
+    ]
+  },
+  {
+    "kanji": "入院",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 2,
+    "options": [
+      "ぐあい (guai)|Kondisi",
+      "ちゅうしゃ (chuusha)|Suntikan",
+      "にゅういん (nyuuin)|Masuk RS",
+      "たいいん (taiin)|Keluar RS"
+    ]
+  },
+  {
+    "kanji": "歯科",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 0,
+    "options": [
+      "しか (shika)|Kedokteran gigi",
+      "げか (geka)|Bedah",
+      "ぐあい (guai)|Kondisi",
+      "ちゅうしゃ (chuusha)|Suntikan"
+    ]
+  },
+  {
+    "kanji": "外科",
+    "tema": "Tubuh & Kesehatan (N4)",
+    "answer": 3,
+    "options": [
+      "たいいん (taiin)|Keluar RS",
+      "にゅういん (nyuuin)|Masuk RS",
+      "しか (shika)|Kedokteran gigi",
+      "げか (geka)|Bedah"
+    ]
   }
 ]
