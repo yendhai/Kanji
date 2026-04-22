@@ -1,0 +1,684 @@
+[
+  {
+    "kanji": "社長",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 2,
+    "options": [
+      "ぶちょう (buchou)|Kepala bagian",
+      "かちょう (kachou)|Kepala seksi",
+      "しゃちょう (shachou)|Direktur",
+      "けいさつ (keisatsu)|Polisi"
+    ]
+  },
+  {
+    "kanji": "部長",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 0,
+    "options": [
+      "ぶちょう (buchou)|Kepala bagian",
+      "どろぼう (dorobou)|Pencuri",
+      "そふ (sofu)|Kakek (sendiri)",
+      "そぼ (sobo)|Nenek (sendiri)"
+    ]
+  },
+  {
+    "kanji": "課長",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 3,
+    "options": [
+      "むすこ (musuko)|Anak laki-laki (sendiri)",
+      "しゅじん (shujin)|Suami",
+      "かない (kanai)|Istri (sendiri)",
+      "かちょう (kachou)|Kepala seksi"
+    ]
+  },
+  {
+    "kanji": "警察",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 1,
+    "options": [
+      "じょせい (josei)|Perempuan",
+      "けいさつ (keisatsu)|Polisi",
+      "だんせい (dansei)|Laki-laki",
+      "しみん (shimin)|Warga kota"
+    ]
+  },
+  {
+    "kanji": "泥棒",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 1,
+    "options": [
+      "せんもん (senmon)|Keahlian",
+      "どろぼう (dorobou)|Pencuri",
+      "てんいん (ten'in)|Pegawai toko",
+      "しゃちょう (shachou)|Direktur"
+    ]
+  },
+  {
+    "kanji": "祖父",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 0,
+    "options": [
+      "そふ (sofu)|Kakek (sendiri)",
+      "そぼ (sobo)|Nenek (sendiri)",
+      "むすこ (musuko)|Anak laki-laki (sendiri)",
+      "しゅじん (shujin)|Suami"
+    ]
+  },
+  {
+    "kanji": "祖母",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 2,
+    "options": [
+      "かない (kanai)|Istri (sendiri)",
+      "じょせい (josei)|Perempuan",
+      "そぼ (sobo)|Nenek (sendiri)",
+      "だんせい (dansei)|Laki-laki"
+    ]
+  },
+  {
+    "kanji": "息子",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 3,
+    "options": [
+      "しみん (shimin)|Warga kota",
+      "せんもん (senmon)|Keahlian",
+      "てんいん (ten'in)|Pegawai toko",
+      "むすこ (musuko)|Anak laki-laki (sendiri)"
+    ]
+  },
+  {
+    "kanji": "娘",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 1,
+    "options": [
+      "ちち (chichi)|Ayah",
+      "むすめ (musume)|Anak perempuan (sendiri)",
+      "はは (haha)|Ibu",
+      "あに (ani)|Kakak laki-laki"
+    ]
+  },
+  {
+    "kanji": "主人",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 0,
+    "options": [
+      "しゅじん (shujin)|Suami / Tuan rumah",
+      "しゃちょう (shachou)|Direktur",
+      "ぶちょう (buchou)|Kepala bagian",
+      "かちょう (kachou)|Kepala seksi"
+    ]
+  },
+  {
+    "kanji": "家内",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 2,
+    "options": [
+      "けいさつ (keisatsu)|Polisi",
+      "どろぼう (dorobou)|Pencuri",
+      "かない (kanai)|Istri (sendiri)",
+      "そふ (sofu)|Kakek (sendiri)"
+    ]
+  },
+  {
+    "kanji": "女性",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 1,
+    "options": [
+      "そぼ (sobo)|Nenek (sendiri)",
+      "じょせい (josei)|Perempuan",
+      "むすこ (musuko)|Anak laki-laki (sendiri)",
+      "しゅじん (shujin)|Suami"
+    ]
+  },
+  {
+    "kanji": "男性",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 3,
+    "options": [
+      "かない (kanai)|Istri (sendiri)",
+      "しみん (shimin)|Warga kota",
+      "せんもん (senmon)|Keahlian",
+      "だんせい (dansei)|Laki-laki"
+    ]
+  },
+  {
+    "kanji": "市民",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 0,
+    "options": [
+      "しみん (shimin)|Warga kota",
+      "てんいん (ten'in)|Pegawai toko",
+      "しゃちょう (shachou)|Direktur",
+      "ぶちょう (buchou)|Kepala bagian"
+    ]
+  },
+  {
+    "kanji": "専門",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 2,
+    "options": [
+      "かちょう (kachou)|Kepala seksi",
+      "けいさつ (keisatsu)|Polisi",
+      "せんもん (senmon)|Keahlian / Jurusan",
+      "どろぼう (dorobou)|Pencuri"
+    ]
+  },
+  {
+    "kanji": "店員",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 1,
+    "options": [
+      "そふ (sofu)|Kakek (sendiri)",
+      "てんいん (ten'in)|Pegawai toko",
+      "そぼ (sobo)|Nenek (sendiri)",
+      "むすこ (musuko)|Anak laki-laki (sendiri)"
+    ]
+  },
+  {
+    "kanji": "運転手",
+    "tema": "Masyarakat, Pekerjaan, & Hubungan Sosial (N4)",
+    "answer": 3,
+    "options": [
+      "けいさつかん (keisatsukan)|Polisi",
+      "かんごし (kangoshi)|Perawat",
+      "せいじか (seijika)|Politikus",
+      "うんてんしゅ (untenshu)|Sopir"
+    ]
+  },
+  {
+    "kanji": "予習",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 0,
+    "options": [
+      "よしゅう (yoshuu)|Persiapan pelajaran",
+      "ふくしゅう (fukushuu)|Mengulang pelajaran",
+      "こうぎ (kougi)|Kuliah",
+      "けいざい (keizai)|Ekonomi"
+    ]
+  },
+  {
+    "kanji": "復習",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 2,
+    "options": [
+      "ほうりつ (houritsu)|Hukum",
+      "しっぱい (shippai)|Kegagalan",
+      "ふくしゅう (fukushuu)|Mengulang pelajaran",
+      "せいこう (seikou)|Kesuksesan"
+    ]
+  },
+  {
+    "kanji": "講義",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 1,
+    "options": [
+      "りゆう (riyuu)|Alasan",
+      "こうぎ (kougi)|Kuliah",
+      "やくそく (yakusoku)|Janji",
+      "きそく (kisoku)|Peraturan"
+    ]
+  },
+  {
+    "kanji": "経済",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 3,
+    "options": [
+      "けいかく (keikaku)|Rencana",
+      "よしゅう (yoshuu)|Persiapan pelajaran",
+      "ふくしゅう (fukushuu)|Mengulang pelajaran",
+      "けいざい (keizai)|Ekonomi"
+    ]
+  },
+  {
+    "kanji": "法律",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 0,
+    "options": [
+      "ほうりつ (houritsu)|Hukum",
+      "しっぱい (shippai)|Kegagalan",
+      "せいこう (seikou)|Kesuksesan",
+      "りゆう (riyuu)|Alasan"
+    ]
+  },
+  {
+    "kanji": "失敗",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 1,
+    "options": [
+      "やくそく (yakusoku)|Janji",
+      "しっぱい (shippai)|Kegagalan",
+      "きそく (kisoku)|Peraturan",
+      "けいかく (keikaku)|Rencana"
+    ]
+  },
+  {
+    "kanji": "成功",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 2,
+    "options": [
+      "よしゅう (yoshuu)|Persiapan pelajaran",
+      "ふくしゅう (fukushuu)|Mengulang pelajaran",
+      "せいこう (seikou)|Kesuksesan",
+      "こうぎ (kougi)|Kuliah"
+    ]
+  },
+  {
+    "kanji": "理由",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 3,
+    "options": [
+      "けいざい (keizai)|Ekonomi",
+      "ほうりつ (houritsu)|Hukum",
+      "しっぱい (shippai)|Kegagalan",
+      "りゆう (riyuu)|Alasan"
+    ]
+  },
+  {
+    "kanji": "約束",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 0,
+    "options": [
+      "やくそく (yakusoku)|Janji",
+      "せいこう (seikou)|Kesuksesan",
+      "きそく (kisoku)|Peraturan",
+      "けいかく (keikaku)|Rencana"
+    ]
+  },
+  {
+    "kanji": "規則",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 1,
+    "options": [
+      "よしゅう (yoshuu)|Persiapan pelajaran",
+      "きそく (kisoku)|Peraturan",
+      "ふくしゅう (fukushuu)|Mengulang pelajaran",
+      "こうぎ (kougi)|Kuliah"
+    ]
+  },
+  {
+    "kanji": "計画",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 1 (N4)",
+    "answer": 2,
+    "options": [
+      "けいざい (keizai)|Ekonomi",
+      "ほうりつ (houritsu)|Hukum",
+      "けいかく (keikaku)|Rencana",
+      "しっぱい (shippai)|Kegagalan"
+    ]
+  },
+  {
+    "kanji": "紹介",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 3,
+    "options": [
+      "じゅんび (junbi)|Persiapan",
+      "けいけん (keiken)|Pengalaman",
+      "げんいん (gen'in)|Penyebab",
+      "しょうかい (shoukai)|Perkenalan"
+    ]
+  },
+  {
+    "kanji": "準備",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 0,
+    "options": [
+      "じゅんび (junbi)|Persiapan",
+      "けっか (kekka)|Hasil",
+      "かんけい (kankei)|Hubungan",
+      "いけん (iken)|Pendapat / Opini"
+    ]
+  },
+  {
+    "kanji": "経験",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 1,
+    "options": [
+      "ちゅうい (chuui)|Perhatian / Peringatan",
+      "けいけん (keiken)|Pengalaman",
+      "ぶんか (bunka)|Budaya",
+      "そつぎょう (sotsugyou)|Kelulusan"
+    ]
+  },
+  {
+    "kanji": "原因",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 2,
+    "options": [
+      "はつおん (hatsuon)|Pelafalan",
+      "しょうかい (shoukai)|Perkenalan",
+      "げんいん (gen'in)|Penyebab",
+      "じゅんび (junbi)|Persiapan"
+    ]
+  },
+  {
+    "kanji": "結果",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 3,
+    "options": [
+      "けいけん (keiken)|Pengalaman",
+      "かんけい (kankei)|Hubungan",
+      "いけん (iken)|Pendapat / Opini",
+      "けっか (kekka)|Hasil"
+    ]
+  },
+  {
+    "kanji": "関係",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 0,
+    "options": [
+      "かんけい (kankei)|Hubungan",
+      "ちゅうい (chuui)|Perhatian / Peringatan",
+      "ぶんか (bunka)|Budaya",
+      "そつぎょう (sotsugyou)|Kelulusan"
+    ]
+  },
+  {
+    "kanji": "意見",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 1,
+    "options": [
+      "はつおん (hatsuon)|Pelafalan",
+      "いけん (iken)|Pendapat / Opini",
+      "しょうかい (shoukai)|Perkenalan",
+      "じゅんび (junbi)|Persiapan"
+    ]
+  },
+  {
+    "kanji": "注意",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 2,
+    "options": [
+      "けいけん (keiken)|Pengalaman",
+      "げんいん (gen'in)|Penyebab",
+      "ちゅうい (chuui)|Perhatian / Peringatan",
+      "けっか (kekka)|Hasil"
+    ]
+  },
+  {
+    "kanji": "文化",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 3,
+    "options": [
+      "かんけい (kankei)|Hubungan",
+      "いけん (iken)|Pendapat / Opini",
+      "そつぎょう (sotsugyou)|Kelulusan",
+      "ぶんか (bunka)|Budaya"
+    ]
+  },
+  {
+    "kanji": "卒業",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 0,
+    "options": [
+      "そつぎょう (sotsugyou)|Kelulusan",
+      "はつおん (hatsuon)|Pelafalan",
+      "しょうかい (shoukai)|Perkenalan",
+      "じゅんび (junbi)|Persiapan"
+    ]
+  },
+  {
+    "kanji": "発音",
+    "tema": "Pendidikan, Ekonomi, & Konsep Abstrak part 2 (N4)",
+    "answer": 1,
+    "options": [
+      "けいけん (keiken)|Pengalaman",
+      "はつおん (hatsuon)|Pelafalan",
+      "げんいん (gen'in)|Penyebab",
+      "けっか (kekka)|Hasil"
+    ]
+  },
+  {
+    "kanji": "地震",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 0,
+    "options": [
+      "じしん (jishin)|Gempa bumi",
+      "たいふう (taifuu)|Angin topan",
+      "けしき (keshiki)|Pemandangan",
+      "きせつ (kisetsu)|Musim"
+    ]
+  },
+  {
+    "kanji": "台風",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 1,
+    "options": [
+      "かいがん (kaigan)|Pantai / Pesisir",
+      "たいふう (taifuu)|Angin topan",
+      "りょかん (ryokan)|Penginapan tradisional",
+      "かいじょう (kaijou)|Tempat acara"
+    ]
+  },
+  {
+    "kanji": "景色",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 2,
+    "options": [
+      "こうじょう (koujou)|Pabrik",
+      "じしん (jishin)|Gempa bumi",
+      "けしき (keshiki)|Pemandangan",
+      "たいふう (taifuu)|Angin topan"
+    ]
+  },
+  {
+    "kanji": "季節",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 3,
+    "options": [
+      "かいがん (kaigan)|Pantai / Pesisir",
+      "りょかん (ryokan)|Penginapan tradisional",
+      "かいじょう (kaijou)|Tempat acara",
+      "きせつ (kisetsu)|Musim"
+    ]
+  },
+  {
+    "kanji": "海岸",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 0,
+    "options": [
+      "かいがん (kaigan)|Pantai / Pesisir",
+      "こうじょう (koujou)|Pabrik",
+      "じしん (jishin)|Gempa bumi",
+      "けしき (keshiki)|Pemandangan"
+    ]
+  },
+  {
+    "kanji": "旅館",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 1,
+    "options": [
+      "たいふう (taifuu)|Angin topan",
+      "りょかん (ryokan)|Penginapan tradisional",
+      "きせつ (kisetsu)|Musim",
+      "かいじょう (kaijou)|Tempat acara"
+    ]
+  },
+  {
+    "kanji": "港",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 2,
+    "options": [
+      "てら (tera)|Kuil Buddha",
+      "むら (mura)|Desa",
+      "みなと (minato)|Pelabuhan",
+      "もり (mori)|Hutan lebat"
+    ]
+  },
+  {
+    "kanji": "会場",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 3,
+    "options": [
+      "こうじょう (koujou)|Pabrik",
+      "じしん (jishin)|Gempa bumi",
+      "けしき (keshiki)|Pemandangan",
+      "かいじょう (kaijou)|Tempat acara"
+    ]
+  },
+  {
+    "kanji": "工場",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 0,
+    "options": [
+      "こうじょう (koujou)|Pabrik",
+      "たいふう (taifuu)|Angin topan",
+      "きせつ (kisetsu)|Musim",
+      "かいがん (kaigan)|Pantai / Pesisir"
+    ]
+  },
+  {
+    "kanji": "寺",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 1,
+    "options": [
+      "みなと (minato)|Pelabuhan",
+      "てら (tera)|Kuil Buddha",
+      "むら (mura)|Desa",
+      "もり (mori)|Hutan lebat"
+    ]
+  },
+  {
+    "kanji": "村",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 2,
+    "options": [
+      "もり (mori)|Hutan lebat",
+      "みなと (minato)|Pelabuhan",
+      "むら (mura)|Desa",
+      "てら (tera)|Kuil Buddha"
+    ]
+  },
+  {
+    "kanji": "森",
+    "tema": "Alam, Geografi, & Tempat part 1 (N4)",
+    "answer": 3,
+    "options": [
+      "てら (tera)|Kuil Buddha",
+      "むら (mura)|Desa",
+      "みなと (minato)|Pelabuhan",
+      "もり (mori)|Hutan lebat"
+    ]
+  },
+  {
+    "kanji": "神社",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 0,
+    "options": [
+      "じんじゃ (jinja)|Kuil Shinto",
+      "せかい (sekai)|Dunia",
+      "ちり (chiri)|Geografi",
+      "こうがい (kougai)|Pinggiran kota"
+    ]
+  },
+  {
+    "kanji": "美術館",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 1,
+    "options": [
+      "えいがかん (eigakan)|Bioskop",
+      "びじゅつかん (bijutsukan)|Museum seni",
+      "どうぶつえん (doubutsuen)|Kebun binatang",
+      "としょかん (toshokan)|Perpustakaan"
+    ]
+  },
+  {
+    "kanji": "動物園",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 2,
+    "options": [
+      "としょかん (toshokan)|Perpustakaan",
+      "えいがかん (eigakan)|Bioskop",
+      "どうぶつえん (doubutsuen)|Kebun binatang",
+      "びじゅつかん (bijutsukan)|Museum seni"
+    ]
+  },
+  {
+    "kanji": "世界",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 3,
+    "options": [
+      "いなか (inaka)|Pedesaan",
+      "じゅうしょ (juusho)|Alamat",
+      "じんじゃ (jinja)|Kuil Shinto",
+      "せかい (sekai)|Dunia"
+    ]
+  },
+  {
+    "kanji": "地理",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 0,
+    "options": [
+      "ちり (chiri)|Geografi",
+      "こうがい (kougai)|Pinggiran kota",
+      "いなか (inaka)|Pedesaan",
+      "じゅうしょ (juusho)|Alamat"
+    ]
+  },
+  {
+    "kanji": "郊外",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 1,
+    "options": [
+      "じんじゃ (jinja)|Kuil Shinto",
+      "こうがい (kougai)|Pinggiran kota",
+      "せかい (sekai)|Dunia",
+      "ちり (chiri)|Geografi"
+    ]
+  },
+  {
+    "kanji": "田舎",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 2,
+    "options": [
+      "じゅうしょ (juusho)|Alamat",
+      "じんじゃ (jinja)|Kuil Shinto",
+      "いなか (inaka)|Pedesaan",
+      "せかい (sekai)|Dunia"
+    ]
+  },
+  {
+    "kanji": "林",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 3,
+    "options": [
+      "みずうみ (mizuumi)|Danau",
+      "しま (shima)|Pulau",
+      "みなと (minato)|Pelabuhan",
+      "はやし (hayashi)|Hutan kecil"
+    ]
+  },
+  {
+    "kanji": "湖",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 0,
+    "options": [
+      "みずうみ (mizuumi)|Danau",
+      "しま (shima)|Pulau",
+      "はやし (hayashi)|Hutan kecil",
+      "もり (mori)|Hutan lebat"
+    ]
+  },
+  {
+    "kanji": "島",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 1,
+    "options": [
+      "はやし (hayashi)|Hutan kecil",
+      "しま (shima)|Pulau",
+      "みずうみ (mizuumi)|Danau",
+      "むら (mura)|Desa"
+    ]
+  },
+  {
+    "kanji": "住所",
+    "tema": "Alam, Geografi, & Tempat part 2 (N4)",
+    "answer": 2,
+    "options": [
+      "ちり (chiri)|Geografi",
+      "こうがい (kougai)|Pinggiran kota",
+      "じゅうしょ (juusho)|Alamat",
+      "いなか (inaka)|Pedesaan"
+    ]
+  }
+]
