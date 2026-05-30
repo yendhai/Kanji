@@ -99,6 +99,17 @@
     ]
   },
   {
+    "kanji": "降ります",
+    "tema": "Kelompok 1 N5 part 1",
+    "answer": 1,
+    "options": [
+      "はしります|Berlari",
+      "ふります|Turun (hujan/salju)",
+      "こまります|Kesulitan",
+      "わたります|Menyeberang"
+    ]
+  },
+  {
     "kanji": "働きます",
     "tema": "Kelompok 1 N5 part 1",
     "answer": 2,
@@ -641,17 +652,6 @@
     "kanji": "走ります",
     "tema": "Kelompok 1 N5 part 4",
     "answer": 0,
-    "options": [
-      "はしります|Berlari",
-      "ふります|Turun (hujan/salju)",
-      "こまります|Kesulitan",
-      "わたります|Menyeberang"
-    ]
-  },
-  {
-    "kanji": "降ります",
-    "tema": "Kelompok 1 N5 part 4",
-    "answer": 1,
     "options": [
       "はしります|Berlari",
       "ふります|Turun (hujan/salju)",
