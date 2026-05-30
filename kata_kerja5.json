@@ -5,7 +5,7 @@
     "answer": 0,
     "options": [
       "あるきます|Berjalan",
-      "いきます|Pergi",
+      "さきます|Mekar",
       "かきます|Menulis",
       "ききます|Mendengar"
     ]
@@ -27,7 +27,7 @@
     "answer": 2,
     "options": [
       "あるきます|Berjalan",
-      "いきます|Pergi",
+      "さきます|Mekar",
       "かきます|Menulis",
       "ききます|Mendengar"
     ]
@@ -82,7 +82,7 @@
     "answer": 0,
     "options": [
       "ひきます|Bermain (alat musik)",
-      "ひきます|Menarik",
+      "つきます|Tiba",
       "はたらきます|Bekerja",
       "みがきます|Menggosok"
     ]
@@ -92,7 +92,7 @@
     "tema": "Kelompok 1 N5 part 1",
     "answer": 1,
     "options": [
-      "ひきます|Bermain (alat musik)",
+      "つきます|Tiba",
       "ひきます|Menarik",
       "はたらきます|Bekerja",
       "みがきます|Menggosok"
@@ -103,7 +103,7 @@
     "tema": "Kelompok 1 N5 part 1",
     "answer": 2,
     "options": [
-      "ひきます|Bermain (alat musik)",
+      "うごきます|Bergerak",
       "ひきます|Menarik",
       "はたらきます|Bekerja",
       "みがきます|Menggosok"
@@ -114,7 +114,7 @@
     "tema": "Kelompok 1 N5 part 1",
     "answer": 3,
     "options": [
-      "ひきます|Bermain (alat musik)",
+      "うごきます|Bergerak",
       "ひきます|Menarik",
       "はたらきます|Bekerja",
       "みがきます|Menggosok"
@@ -128,7 +128,7 @@
       "ふきます|Bertiup",
       "かわきます|Mengering",
       "あるきます|Berjalan",
-      "いきます|Pergi"
+      "ひきます|Menarik"
     ]
   },
   {
@@ -139,7 +139,7 @@
       "ふきます|Bertiup",
       "かわきます|Mengering",
       "あるきます|Berjalan",
-      "いきます|Pergi"
+      "ひきます|Menarik"
     ]
   },
   {
@@ -369,7 +369,7 @@
     "options": [
       "あいます|Bertemu",
       "あらいます|Mencuci",
-      "いいます|Berkata",
+      "すいます|Menghisap",
       "うたいます|Bernyanyi"
     ]
   },
@@ -380,7 +380,7 @@
     "options": [
       "あいます|Bertemu",
       "あらいます|Mencuci",
-      "いいます|Berkata",
+      "すいます|Menghisap",
       "うたいます|Bernyanyi"
     ]
   },
@@ -396,13 +396,24 @@
     ]
   },
   {
+    "kanji": "帰ります",
+    "tema": "Kelompok 1 N5 part 3",
+    "answer": 0,
+    "options": [
+      "かえります|Pulang",
+      "おわります|Selesai",
+      "はしります|Berlari",
+      "わかります|Mengerti"
+    ]
+  },
+  {
     "kanji": "歌います",
     "tema": "Kelompok 1 N5 part 3",
     "answer": 3,
     "options": [
       "あいます|Bertemu",
       "あらいます|Mencuci",
-      "いいます|Berkata",
+      "すいます|Menghisap",
       "うたいます|Bernyanyi"
     ]
   },
@@ -422,7 +433,7 @@
     "tema": "Kelompok 1 N5 part 3",
     "answer": 1,
     "options": [
-      "かいます|Membeli",
+      "うたいます|Bernyanyi",
       "すいます|Menghisap",
       "つかいます|Menggunakan",
       "ちがいます|Berbeda"
@@ -433,7 +444,7 @@
     "tema": "Kelompok 1 N5 part 3",
     "answer": 2,
     "options": [
-      "かいます|Membeli",
+      "うたいます|Bernyanyi",
       "すいます|Menghisap",
       "つかいます|Menggunakan",
       "ちがいます|Berbeda"
@@ -444,7 +455,7 @@
     "tema": "Kelompok 1 N5 part 3",
     "answer": 3,
     "options": [
-      "かいます|Membeli",
+      "うたいます|Bernyanyi",
       "すいます|Menghisap",
       "つかいます|Menggunakan",
       "ちがいます|Berbeda"
@@ -456,7 +467,7 @@
     "answer": 0,
     "options": [
       "はらいます|Membayar",
-      "かいます|Membeli",
+      "あいます|Bertemu",
       "すいます|Menghisap",
       "つかいます|Menggunakan"
     ]
@@ -808,7 +819,7 @@
     "answer": 0,
     "options": [
       "しめます|Menutup",
-      "しめます|Mengencangkan",
+      "ほめます|Memuji",
       "やめます|Berhenti (kerja)",
       "つとめます|Bekerja (di perusahaan)"
     ]
@@ -818,7 +829,7 @@
     "tema": "Kelompok 2 N5 part 1",
     "answer": 1,
     "options": [
-      "しめます|Menutup",
+      "あつめます|Mengumpulkan",
       "しめます|Mengencangkan",
       "やめます|Berhenti (kerja)",
       "つとめます|Bekerja (di perusahaan)"
@@ -830,7 +841,7 @@
     "answer": 2,
     "options": [
       "しめます|Menutup",
-      "しめます|Mengencangkan",
+      "ほめます|Memuji",
       "やめます|Berhenti (kerja)",
       "つとめます|Bekerja (di perusahaan)"
     ]
@@ -841,7 +852,7 @@
     "answer": 3,
     "options": [
       "しめます|Menutup",
-      "しめます|Mengencangkan",
+      "あつめます|Mengumpulkan",
       "やめます|Berhenti (kerja)",
       "つとめます|Bekerja (di perusahaan)"
     ]
@@ -899,6 +910,17 @@
       "かります|Meminjam",
       "たります|Cukup",
       "いのります|Berdoa"
+    ]
+  },
+  {
+    "kanji": "浴びます",
+    "tema": "Kelompok 2 N5 part 2",
+    "answer": 0,
+    "options": [
+      "あびます|Mandi",
+      "よびます|Memanggil",
+      "おびます|Membawa/Mengandung",
+      "えらびます|Memilih"
     ]
   },
   {
@@ -1009,6 +1031,17 @@
       "かけます|Menggantung",
       "つけます|Menyalakan",
       "まけます|Kalah"
+    ]
+  },
+  {
+    "kanji": "起きます",
+    "tema": "Kelompok 2 N5 part 2",
+    "answer": 0,
+    "options": [
+      "おきます|Bangun tidur",
+      "いきます|Pergi",
+      "かきます|Menulis",
+      "ききます|Mendengar"
     ]
   },
   {
