@@ -7,7 +7,7 @@
       "あるきます|Berjalan",
       "さきます|Mekar",
       "かきます|Menulis",
-      "ききます|Mendengar"
+      "ききます|Mendengar/Bertanya"
     ]
   },
   {
@@ -29,7 +29,7 @@
       "あるきます|Berjalan",
       "さきます|Mekar",
       "かきます|Menulis",
-      "ききます|Mendengar"
+      "ききます|Mendengar/Bertanya"
     ]
   },
   {
@@ -40,7 +40,7 @@
       "さきます|Mekar",
       "つきます|Tiba",
       "なきます|Menangis",
-      "ききます|Mendengar"
+      "ききます|Mendengar/Bertanya"
     ]
   },
   {
@@ -1125,17 +1125,6 @@
     "kanji": "洗濯します",
     "tema": "Kelompok 3 N5",
     "answer": 0,
-    "options": [
-      "せんたくします|Mencuci baju",
-      "かいものします|Berbelanja",
-      "でんわします|Menelepon",
-      "れんしゅうします|Berlatih"
-    ]
-  },
-  {
-    "kanji": "買い物します",
-    "tema": "Kelompok 3 N5",
-    "answer": 1,
     "options": [
       "せんたくします|Mencuci baju",
       "かいものします|Berbelanja",
