@@ -924,6 +924,50 @@
     ]
   },
   {
+    "kanji": "降ります",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 1,
+    "options": [
+      "かります|Meminjam",
+      "おります|Turun (kendaraan)",
+      "たります|Cukup",
+      "こります|Jera / Kapok"
+    ]
+  },
+  {
+    "kanji": "借ります",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 3,
+    "options": [
+      "おります|Turun (kendaraan)",
+      "こります|Jera / Kapok",
+      "たります|Cukup",
+      "かります|Meminjam"
+    ]
+  },
+  {
+    "kanji": "足ります",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 0,
+    "options": [
+      "たります|Cukup",
+      "かります|Meminjam",
+      "おります|Turun (kendaraan)",
+      "こります|Jera / Kapok"
+    ]
+  },
+  {
+    "kanji": "懲ります",
+    "tema": "kelompok 2 N5 part 1",
+    "answer": 2,
+    "options": [
+      "かります|Meminjam",
+      "おります|Turun (kendaraan)",
+      "こります|Jera / Kapok",
+      "たります|Cukup"
+    ]
+  },
+  {
     "kanji": "覚えます",
     "tema": "kelompok 2 N5 part 2",
     "answer": 1,
