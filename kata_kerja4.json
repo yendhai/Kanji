@@ -110,6 +110,72 @@
     ]
   },
   {
+    "kanji": "打ちます",
+    "tema": "Kelompok 1 N4 part 2",
+    "answer": 1,
+    "options": [
+      "かちます|Menang",
+      "うちます|Memukul",
+      "たちます|Berlalu",
+      "そだちます|Tumbuh"
+    ]
+  },
+  {
+    "kanji": "勝ちます",
+    "tema": "Kelompok 1 N4 part 2",
+    "answer": 3,
+    "options": [
+      "おちます|Jatuh",
+      "たちます|Berdiri",
+      "うちます|Memukul",
+      "かちます|Menang"
+    ]
+  },
+  {
+    "kanji": "育ちます",
+    "tema": "Kelompok 1 N4 part 2",
+    "answer": 0,
+    "options": [
+      "そだちます|Tumbuh",
+      "たちます|Berlalu",
+      "うちます|Memukul",
+      "おちます|Jatuh"
+    ]
+  },
+  {
+    "kanji": "建ちます",
+    "tema": "Kelompok 1 N4 part 2",
+    "answer": 2,
+    "options": [
+      "たちます|Berlalu",
+      "かちます|Menang",
+      "たちます|Berdiri",
+      "うちます|Memukul"
+    ]
+  },
+  {
+    "kanji": "経ちます",
+    "tema": "Kelompok 1 N4 part 2",
+    "answer": 1,
+    "options": [
+      "たちます|Berdiri",
+      "たちます|Berlalu",
+      "おちます|Jatuh",
+      "そだちます|Tumbuh"
+    ]
+  },
+  {
+    "kanji": "落ちます",
+    "tema": "Kelompok 1 N4 part 2",
+    "answer": 0,
+    "options": [
+      "おちます|Jatuh",
+      "そだちます|Tumbuh",
+      "かちます|Menang",
+      "たちます|Berdiri"
+    ]
+  },
+  {
     "kanji": "怒ります",
     "tema": "Kelompok 1 N4 part 2",
     "answer": 2,
@@ -263,6 +329,7 @@
       "しかります|Memarahi"
     ]
   },
+
   {
     "kanji": "減ります",
     "tema": "Kelompok 1 N4 part 3",
@@ -756,6 +823,94 @@
       "はずします|Melepas",
       "のこします|Menyisakan",
       "なおします|Memperbaiki"
+    ]
+  },
+  {
+    "kanji": "噛みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 1,
+    "options": [
+      "ぬすみます|Mencuri",
+      "かみます|Menggigit",
+      "すすみます|Maju",
+      "たたみます|Melipat"
+    ]
+  },
+  {
+    "kanji": "込みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 2,
+    "options": [
+      "つつみます|Membungkus",
+      "しずみます|Tenggelam",
+      "こみます|Menjadi sesak",
+      "ふみます|Menginjak"
+    ]
+  },
+  {
+    "kanji": "盗みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 0,
+    "options": [
+      "ぬすみます|Mencuri",
+      "かみます|Menggigit",
+      "こみます|Menjadi sesak",
+      "すすみます|Maju"
+    ]
+  },
+  {
+    "kanji": "踏みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 3,
+    "options": [
+      "しずみます|Tenggelam",
+      "たたみます|Melipat",
+      "つつみます|Membungkus",
+      "ふみます|Menginjak"
+    ]
+  },
+  {
+    "kanji": "包みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 1,
+    "options": [
+      "こみます|Menjadi sesak",
+      "つつみます|Membungkus",
+      "ふみます|Menginjak",
+      "ぬすみます|Mencuri"
+    ]
+  },
+  {
+    "kanji": "進みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 2,
+    "options": [
+      "かみます|Menggigit",
+      "たたみます|Melipat",
+      "すすみます|Maju",
+      "しずみます|Tenggelam"
+    ]
+  },
+  {
+    "kanji": "畳みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 0,
+    "options": [
+      "たたみます|Melipat",
+      "こみます|Menjadi sesak",
+      "ふみます|Menginjak",
+      "つつみます|Membungkus"
+    ]
+  },
+  {
+    "kanji": "沈みます",
+    "tema": "Kelompok 1 N4 part 7",
+    "answer": 3,
+    "options": [
+      "すすみます|Maju",
+      "ぬすみます|Mencuri",
+      "かみます|Menggigit",
+      "しずみます|Tenggelam"
     ]
   },
   {
