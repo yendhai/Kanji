@@ -1,6 +1,5 @@
 [
   {
-    "title": "Level N5",
     "kanji": "歩きます",
     "tema": "Kelompok 1 N5 ​〜きます",
     "answer": 2,
@@ -138,7 +137,7 @@
     "answer": 2,
     "options": [
       "あるきます|Berjalan",
-      "さきます|Mekar",
+      "ひきます|Bermain (alat musik)",
       "かわきます|Mengering",
       "はたらきます|Bekerja"
     ]
@@ -159,8 +158,8 @@
     "tema": "Kelompok 1 N5 ​〜します, 〜みます",
     "answer": 3,
     "options": [
-      "だします|Mengeluarkan",
-      "さします|Memakai (payung)",
+      "よごします|Mengotori",
+      "さします|Menunjuk",
       "さがします|Mencari",
       "かえします|Mengembalikan"
     ]
@@ -188,12 +187,12 @@
     ]
   },
   {
-    "kanji": "指します",
+    "kanji": "​指します",
     "tema": "Kelompok 1 N5 ​〜します, 〜みます",
     "answer": 1,
     "options": [
       "はなします|Berbicara",
-      "さします|Memakai (payung)",
+      "さします|Menunjuk",
       "なおします|Memperbaiki",
       "かします|Meminjamkan"
     ]
@@ -205,7 +204,7 @@
     "options": [
       "おします|Menekan",
       "けします|Mematikan",
-      "さがします|Mencari",
+      "よごします|Mengotori",
       "だします|Mengeluarkan"
     ]
   },
@@ -215,7 +214,7 @@
     "answer": 2,
     "options": [
       "かえします|Mengembalikan",
-      "さします|Memakai (payung)",
+      "さします|Menunjuk",
       "はなします|Berbicara",
       "なおします|Memperbaiki"
     ]
@@ -236,10 +235,21 @@
     "tema": "Kelompok 1 N5 ​〜します, 〜みます",
     "answer": 1,
     "options": [
-      "おします|Menekan",
+      "よごします|Mengotori",
       "さがします|Mencari",
       "はなします|Berbicara",
-      "さします|Memakai (payung)"
+      "さします|Menunjuk"
+    ]
+  },
+  {
+    "kanji": "汚します",
+    "tema": "Kelompok 1 N5 ​〜します, 〜みます",
+    "answer": 1,
+    "options": [
+      "おします|Menekan",
+      "よごします|Mengotori",
+      "けします|Mematikan",
+      "さがします|Mencari"
     ]
   },
   {
@@ -458,7 +468,7 @@
     "options": [
       "つくります|Membuat",
       "しります|Mengetahui",
-      "うります|Menjual",
+      "なおります|Diperbaiki",
       "かえります|Pulang"
     ]
   },
@@ -545,7 +555,7 @@
     "answer": 0,
     "options": [
       "はいります|Masuk",
-      "あやまります|Meminta maaf",
+      "なおります|Diperbaiki",
       "くもります|Mendung",
       "とります|Mengambil"
     ]
@@ -600,9 +610,20 @@
     "answer": 3,
     "options": [
       "こまります|Kesulitan",
-      "うります|Menjual",
+      "わります|Memecahkan",
       "のります|Naik (kendaraan)",
       "あやまります|Meminta maaf"
+    ]
+  },
+  {
+    "kanji": "治ります",
+    "tema": "Kelompok 1 N5 ​〜ります",
+    "answer": 2,
+    "options": [
+      "かえります|Pulang",
+      "ふります|Turun (hujan/salju)",
+      "なおります|Sembuh / Pulih",
+      "うります|Menjual"
     ]
   },
   {
@@ -610,10 +631,21 @@
     "tema": "Kelompok 1 N5 ​〜ります",
     "answer": 2,
     "options": [
+      "きります|Memotong",
+      "わります|Memecahkan",
+      "なおります|Diperbaiki",
+      "あやまります|Meminta maaf"
+    ]
+  },
+  {
+    "kanji": "割ります",
+    "tema": "Kelompok 1 N5 ​〜ります",
+    "answer": 2,
+    "options": [
       "わたります|Menyeberang",
-      "ふります|Turun (hujan/salju)",
-      "なおります|Sembuh / Pulih",
-      "しります|Mengetahui"
+      "はいります|Masuk",
+      "わります|Memecahkan",
+      "くもります|Mendung"
     ]
   },
   {
@@ -865,7 +897,7 @@
     "options": [
       "ほめます|Memuji",
       "しめます|Menutup",
-      "あつめます|Mengumpulkan",
+      "とめます|Menghentikan",
       "やめます|Berhenti (kerja)"
     ]
   },
@@ -907,7 +939,7 @@
     "tema": "Kelompok 2 N5 〜れます, 〜めます, 〜ります",
     "answer": 1,
     "options": [
-      "ほめます|Memuji",
+      "とめます|Menghentikan",
       "あつめます|Mengumpulkan",
       "やめます|Berhenti (kerja)",
       "しめます|Mengencangkan"
@@ -919,6 +951,17 @@
     "answer": 0,
     "options": [
       "ほめます|Memuji",
+      "しめます|Menutup",
+      "つとめます|Bekerja (di perusahaan)",
+      "あつめます|Mengumpulkan"
+    ]
+  },
+  {
+    "kanji": "止めます",
+    "tema": "Kelompok 2 N5 〜れます, 〜めます, 〜ります",
+    "answer": 0,
+    "options": [
+      "とめます|Menghentikan",
       "しめます|Menutup",
       "つとめます|Bekerja (di perusahaan)",
       "あつめます|Mengumpulkan"
@@ -996,7 +1039,7 @@
     "answer": 0,
     "options": [
       "こたえます|Menjawab",
-      "かんがえます|Berpikir",
+      "きえます|Padam",
       "おしえます|Mengajar",
       "かえます|Mengubah"
     ]
@@ -1018,6 +1061,17 @@
     "answer": 0,
     "options": [
       "かえます|Mengubah",
+      "きえます|Padam",
+      "かんがえます|Berpikir",
+      "おぼえます|Mengingat"
+    ]
+  },
+  {
+    "kanji": "消えます",
+    "tema": "Kelompok 2 N5 〜えます, 〜けます, 〜ます",
+    "answer": 0,
+    "options": [
+      "きえます|Padam",
       "おしえます|Mengajar",
       "かんがえます|Berpikir",
       "おぼえます|Mengingat"
@@ -1119,7 +1173,7 @@
       "そうじします|Bersih-bersih",
       "せんたくします|Mencuci baju",
       "べんきょうします|Belajar",
-      "けっこんします|Menikah"
+      "れんしゅうします|Berlatih"
     ]
   },
   {
@@ -1140,7 +1194,7 @@
     "options": [
       "りょこうします|Bepergian",
       "せつめいします|Menjelaskan",
-      "やくそくします|Berjanji",
+      "そうじします|Bersih-bersih",
       "さんぽします|Jalan-jalan"
     ]
   },
@@ -1149,10 +1203,10 @@
     "tema": "kelompok 3 N5 part 1",
     "answer": 1,
     "options": [
-      "あんないします|Memandu",
+      "でんわします|Menelepon",
       "そうじします|Bersih-bersih",
-      "じゅんびします|Bersiap",
-      "うんてんします|Mengemudi"
+      "せんたくします|Mencuci baju",
+      "けっこんします|Menikah"
     ]
   },
   {
@@ -1160,10 +1214,10 @@
     "tema": "kelompok 3 N5 part 1",
     "answer": 2,
     "options": [
-      "しつもんします|Bertanya",
-      "そうだんします|Berdiskusi",
+      "さんぽします|Jalan-jalan",
+      "りょこうします|Bepergian",
       "せんたくします|Mencuci baju",
-      "ちゅういします|Berhati-hati"
+      "べんきょうします|Belajar"
     ]
   },
   {
@@ -1172,7 +1226,7 @@
     "answer": 0,
     "options": [
       "でんわします|Menelepon",
-      "よやくします|Memesan",
+      "せつめいします|Menjelaskan",
       "べんきょうします|Belajar",
       "けっこんします|Menikah"
     ]
@@ -1195,7 +1249,7 @@
     "options": [
       "でんわします|Menelepon",
       "せつめいします|Menjelaskan",
-      "やくそくします|Berjanji",
+      "けっこんします|Menikah",
       "りょこうします|Bepergian"
     ]
   },
@@ -1204,10 +1258,10 @@
     "tema": "kelompok 3 N5 part 1",
     "answer": 2,
     "options": [
-      "あんないします|Memandu",
-      "じゅんびします|Bersiap",
+      "べんきょうします|Belajar",
+      "れんしゅうします|Berlatih",
       "せつめいします|Menjelaskan",
-      "うんてんします|Mengemudi"
+      "そうじします|Bersih-bersih"
     ]
   },
   {
@@ -1228,8 +1282,8 @@
     "options": [
       "よやくします|Memesan",
       "あんないします|Memandu",
-      "べんきょうします|Belajar",
-      "けっこんします|Menikah"
+      "じゅんびします|Bersiap",
+      "うんてんします|Mengemudi"
     ]
   },
   {
@@ -1237,9 +1291,9 @@
     "tema": "kelompok 3 N5 part 2",
     "answer": 3,
     "options": [
-      "さんぽします|Jalan-jalan",
-      "そうじします|Bersih-bersih",
-      "せんたくします|Mencuci baju",
+      "しつもんします|Bertanya",
+      "そうだんします|Berdiskusi",
+      "ちゅういします|Berhati-hati",
       "じゅんびします|Bersiap"
     ]
   },
@@ -1248,10 +1302,10 @@
     "tema": "kelompok 3 N5 part 2",
     "answer": 2,
     "options": [
-      "でんわします|Menelepon",
-      "れんしゅうします|Berlatih",
+      "やくそくします|Berjanji",
+      "あんないします|Memandu",
       "うんてんします|Mengemudi",
-      "りょこうします|Bepergian"
+      "よやくします|Memesan"
     ]
   },
   {
@@ -1260,7 +1314,7 @@
     "answer": 0,
     "options": [
       "しつもんします|Bertanya",
-      "せつめいします|Menjelaskan",
+      "じゅんびします|Bersiap",
       "やくそくします|Berjanji",
       "あんないします|Memandu"
     ]
@@ -1282,9 +1336,9 @@
     "answer": 2,
     "options": [
       "よやくします|Memesan",
-      "べんきょうします|Belajar",
+      "やくそくします|Berjanji",
       "ちゅういします|Berhati-hati",
-      "けっこんします|Menikah"
+      "しつもんします|Bertanya"
     ]
   },
   {
@@ -1292,9 +1346,9 @@
     "tema": "kelompok 3 N5 part 2",
     "answer": 3,
     "options": [
-      "さんぽします|Jalan-jalan",
-      "そうじします|Bersih-bersih",
-      "せんたくします|Mencuci baju",
+      "やくそくします|Berjanji",
+      "あんないします|Memandu",
+      "そうだんします|Berdiskusi",
       "よやくします|Memesan"
     ]
   }
