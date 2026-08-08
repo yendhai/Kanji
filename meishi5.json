@@ -2521,6 +2521,7 @@
   },
   {
     "kanji": "鳥",
+    "furigana": "asdf",
     "tema": "Hewan (N5)",
     "answer": 2,
     "options": [
@@ -2532,6 +2533,7 @@
   },
   {
     "kanji": "魚",
+    "furigana": "asdf2",
     "tema": "Hewan (N5)",
     "answer": 3,
     "options": [
@@ -2543,6 +2545,7 @@
   },
   {
     "kanji": "牛",
+    "furigana": "asdf1",
     "tema": "Hewan (N5)",
     "answer": 0,
     "options": [
