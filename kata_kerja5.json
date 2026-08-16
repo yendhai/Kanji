@@ -828,10 +828,10 @@
   {
     "kanji": "閉まります",
     "tema": "Kelompok 1 N5 ​〜ぎます, 〜ちます, 〜まります, 〜かります",
-    "answer": 1,
+    "answer": 0,
     "options": [
-      "とまります|Berhenti",
       "しまります|Tertutup",
+      "とまります|Berhenti",
       "はじまります|Dimulai",
       "きまります|Ditetapkan"
     ]
@@ -839,23 +839,23 @@
   {
     "kanji": "止まります",
     "tema": "Kelompok 1 N5 ​〜ぎます, 〜ちます, 〜まります, 〜かります",
-    "answer": 2,
+    "answer": 1,
     "options": [
-      "はじまります|Dimulai",
-      "きまります|Ditetapkan",
+      "しまります|Tertutup",
       "とまります|Berhenti",
-      "かかります|Membutuhkan (waktu/biaya)"
+      "はじまります|Dimulai",
+      "きまります|Ditetapkan"
     ]
   },
   {
     "kanji": "始まります",
     "tema": "Kelompok 1 N5 ​〜ぎます, 〜ちます, 〜まります, 〜かります",
-    "answer": 0,
+    "answer": 2,
     "options": [
+      "しまります|Tertutup",
+      "とまります|Berhenti",
       "はじまります|Dimulai",
-      "きまります|Ditetapkan",
-      "かかります|Membutuhkan (waktu/biaya)",
-      "わかります|Mengerti"
+      "きまります|Ditetapkan"
     ]
   },
   {
@@ -863,9 +863,9 @@
     "tema": "Kelompok 1 N5 ​〜ぎます, 〜ちます, 〜まります, 〜かります",
     "answer": 3,
     "options": [
-      "かかります|Membutuhkan (waktu/biaya)",
-      "わかります|Mengerti",
-      "あずかります|Menerima titipan",
+      "しまります|Tertutup",
+      "とまります|Berhenti",
+      "はじまります|Dimulai",
       "きまります|Ditetapkan"
     ]
   },
@@ -877,7 +877,7 @@
       "わかります|Mengerti",
       "あずかります|Menerima titipan",
       "かかります|Membutuhkan (waktu/biaya)",
-      "しまります|Tertutup"
+      "たすかります|Tertolong / Sangat membantu"
     ]
   },
   {
@@ -887,8 +887,8 @@
     "options": [
       "わかります|Mengerti",
       "あずかります|Menerima titipan",
-      "しまります|Tertutup",
-      "とまります|Berhenti"
+      "かかります|Membutuhkan (waktu/biaya)",
+      "たすかります|Tertolong / Sangat membantu"
     ]
   },
   {
@@ -896,10 +896,21 @@
     "tema": "Kelompok 1 N5 ​〜ぎます, 〜ちます, 〜まります, 〜かります",
     "answer": 1,
     "options": [
-      "しまります|Tertutup",
+      "わかります|Mengerti",
       "あずかります|Menerima titipan",
-      "とまります|Berhenti",
-      "はじまります|Dimulai"
+      "かかります|Membutuhkan (waktu/biaya)",
+      "たすかります|Tertolong / Sangat membantu"
+    ]
+  },
+  {
+    "kanji": "助かります",
+    "tema": "Kelompok 1 N5 ​〜ぎます, 〜ちます, 〜まります, 〜かります",
+    "answer": 3,
+    "options": [
+      "わかります|Mengerti",
+      "あずかります|Menerima titipan",
+      "かかります|Membutuhkan (waktu/biaya)",
+      "たすかります|Tertolong / Sangat membantu"
     ]
   },
   {
