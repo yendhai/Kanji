@@ -63,7 +63,7 @@
       "つきます|Tiba",
       "なきます|Menangis",
       "ひきます|Bermain (alat musik)",
-      "ひきます|Menarik"
+      "はたらきます|Bekerja"
     ]
   },
   {
@@ -72,8 +72,8 @@
     "answer": 3,
     "options": [
       "ひきます|Bermain (alat musik)",
-      "ひきます|Menarik",
       "はたらきます|Bekerja",
+      "みがきます|Menggosok",
       "なきます|Menangis"
     ]
   },
@@ -82,7 +82,7 @@
     "tema": "Kelompok 1 N5 ​〜きます",
     "answer": 1,
     "options": [
-      "ひきます|Menarik",
+      "ふきます|Bertiup",
       "ひきます|Bermain (alat musik)",
       "はたらきます|Bekerja",
       "みがきます|Menggosok"
@@ -93,10 +93,10 @@
     "tema": "Kelompok 1 N5 ​〜きます",
     "answer": 2,
     "options": [
-      "はたらきます|Bekerja",
-      "みがきます|Menggosok",
+      "あるきます|Berjalan",
+      "いきます|Pergi",
       "ひきます|Menarik",
-      "ふきます|Bertiup"
+      "かきます|Menulis"
     ]
   },
   {
@@ -117,7 +117,7 @@
     "options": [
       "ふきます|Bertiup",
       "かわきます|Mengering",
-      "あるきます|Berjalan",
+      "ひきます|Menarik",
       "みがきます|Menggosok"
     ]
   },
@@ -128,8 +128,8 @@
     "options": [
       "かわきます|Mengering",
       "ふきます|Bertiup",
-      "あるきます|Berjalan",
-      "いきます|Pergi"
+      "ひきます|Menarik",
+      "あるきます|Berjalan"
     ]
   },
   {
@@ -137,10 +137,10 @@
     "tema": "Kelompok 1 N5 ​〜きます",
     "answer": 2,
     "options": [
+      "ひきます|Menarik",
       "あるきます|Berjalan",
-      "いきます|Pergi",
       "かわきます|Mengering",
-      "かきます|Menulis"
+      "いきます|Pergi"
     ]
   },
   {
