@@ -2542,6 +2542,18 @@
       "とり|Burung",
       "さかな|Ikan - hewan hidup"
     ]
+
+  {
+    "kanji": "jahs",
+    "furigana": "asdf2",
+    "tema": "Hewan (N5)",
+    "answer": 3,
+    "options": [
+      "いぬ",
+      "ねこ",
+      "とり",
+      "さかな"
+    ]
   },
   {
     "kanji": "牛",
