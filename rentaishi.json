@@ -6,10 +6,10 @@
     "tema": "Umum",
     "answer": 0,
     "options": [
-      "ini (dekat pembicara) | ini (dekat pembicara)",
-      "itu (dekat lawan bicara) | itu (dekat lawan bicara)",
-      "itu (jauh) | itu (jauh)",
-      "yang mana | yang mana"
+      "ini (dekat pembicara)",
+      "itu (dekat lawan bicara)",
+      "itu (jauh)",
+      ""
     ]
   },
   {
@@ -18,10 +18,10 @@
     "tema": "Umum",
     "answer": 1,
     "options": [
-      "ini | ini",
-      "itu (dekat lawan bicara) | itu (dekat lawan bicara)",
-      "itu (jauh) | itu (jauh)",
-      "yang mana | yang mana"
+      "ini",
+      "itu (dekat lawan bicara)",
+      "itu (jauh)",
+      "yang mana"
     ]
   },
   {
