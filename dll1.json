@@ -1,5 +1,5 @@
 [
-  {"title": "K.Kerja PM",kanji": "欠かす", "furigana": "かかす", "tema": "kelompok 1 part 1", "answer": 0, "options": ["Melewatkan", "Bekerja", "Menjaga", "Membuat"]},
+  {"title": "K.Kerja PM","kanji": "欠かす", "furigana": "かかす", "tema": "kelompok 1 part 1", "answer": 0, "options": ["Melewatkan", "Bekerja", "Menjaga", "Membuat"]},
   {"kanji": "働く", "furigana": "はたらく", "tema": "kelompok 1 part 1", "answer": 1, "options": ["Menjaga", "Bekerja", "Membuat", "Menghilangkan"]},
   {"kanji": "衛る", "furigana": "まもる", "tema": "kelompok 1 part 1", "answer": 2, "options": ["Membuat", "Menghilangkan", "Menjaga", "Ditentukan"]},
   {"kanji": "作る", "furigana": "つくる", "tema": "kelompok 1 part 1", "answer": 3, "options": ["Menghilangkan", "Ditentukan", "Melindungi", "Membuat"]},
