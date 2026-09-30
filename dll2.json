@@ -328,5 +328,5 @@
   {"kanji": "関係", "furigana": "かんけい", "tema": "Angka, waktu, jumlah & kata abstrak part 3", "answer": 2, "options": ["Fakta / kenyataan", "Hasil / akibat", "Hubungan / kaitan", "Pengaruh / dampak"]},
   {"kanji": "影響", "furigana": "えいきょう", "tema": "Angka, waktu, jumlah & kata abstrak part 3", "answer": 1, "options": ["Hasil / akibat", "Pengaruh / dampak", "Fakta / kenyataan", "Penyebab / alasan"]},
   {"kanji": "結果", "furigana": "けっか", "tema": "Angka, waktu, jumlah & kata abstrak part 3", "answer": 1, "options": ["Fakta / kenyataan", "Hasil / akibat", "Penyebab / alasan", "Metode / cara"]},
-  {"kanji": "事実", "furigana": "じじつ", "tema": "Angka, waktu, jumlah & kata abstrak part 3", "answer": 1, "options": ["Penyebab / alasan", "Fakta / kenyataan", "Syarat / kondisi", "Metode / cara"]},
+  {"kanji": "事実", "furigana": "じじつ", "tema": "Angka, waktu, jumlah & kata abstrak part 3", "answer": 1, "options": ["Penyebab / alasan", "Fakta / kenyataan", "Syarat / kondisi", "Metode / cara"]}
 ]
