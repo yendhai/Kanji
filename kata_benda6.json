@@ -1,0 +1,22 @@
+[
+{"title":"共通","kanji":"場所","tema":"Tempat dan Lokasi (N5)","answer":0,"options":["ばしょ|Tempat","しょぞく|Afiliasi","だいどころ|Dapur","きんじょ|Lingkungan sekitar"]},
+{"kanji":"住所","tema":"Tempat dan Lokasi (N5)","answer":0,"options":["じゅうしょ|Alamat","めいしょ|Tempat terkenal","べんじょ|Toilet","しょとく|Pendapatan"]},
+{"kanji":"台所","tema":"Tempat dan Lokasi (N5)","answer":1,"options":["きんじょ|Lingkungan sekitar","だいどころ|Dapur","ところどころ|Di sana-sini","たんしょ|Kekurangan"]},
+{"kanji":"近所","tema":"Tempat dan Lokasi (N5)","answer":1,"options":["めいしょ|Tempat terkenal","きんじょ|Lingkungan sekitar","しょちょう|Kepala kantor","じゅうしょ|Alamat"]},
+{"kanji":"便所","tema":"Tempat dan Lokasi (N5)","answer":0,"options":["べんじょ|Toilet","しょじ|Kepemilikan","しょちょう|Kepala kantor","ところどころ|Di sana-sini"]},
+{"kanji":"所々","tema":"Tempat dan Lokasi (N5)","answer":0,"options":["ところどころ|Di sana-sini","たんしょ|Kekurangan","ばしょ|Tempat","しょとく|Pendapatan"]},
+{"kanji":"事務所","tema":"Tempat Umum dan Kantor (N4)","answer":3,"options":["しやくしょ|Balai kota","えいぎょうしょ|Kantor cabang","しんりょうじょ|Klinik","じむしょ|Kantor"]},
+{"kanji":"市役所","tema":"Tempat Umum dan Kantor (N4)","answer":2,"options":["えいぎょうしょ|Kantor cabang","ていりゅうじょ|Halte","しやくしょ|Balai kota","けんきゅうじょ|Lembaga penelitian"]},
+{"kanji":"研究所","tema":"Tempat Umum dan Kantor (N4)","answer":3,"options":["じむしょ|Kantor","しんりょうじょ|Klinik","えいぎょうしょ|Kantor cabang","けんきゅうじょ|Lembaga penelitian"]},
+{"kanji":"診療所","tema":"Tempat Umum dan Kantor (N4)","answer":0,"options":["しんりょうじょ|Klinik","しやくしょ|Balai kota","けんきゅうじょ|Lembaga penelitian","ていりゅうじょ|Halte"]},
+{"kanji":"停留所","tema":"Tempat Umum dan Kantor (N4)","answer":2,"options":["けんきゅうじょ|Lembaga penelitian","しやくしょ|Balai kota","ていりゅうじょ|Halte","しんりょうじょ|Klinik"]},
+{"kanji":"営業所","tema":"Tempat Umum dan Kantor (N4)","answer":2,"options":["ていりゅうじょ|Halte","じむしょ|Kantor","えいぎょうしょ|Kantor cabang","しんりょうじょ|Klinik"]},
+{"kanji":"名所","tema":"Tempat Umum dan Kantor (N4)","answer":1,"options":["ちょうしょ|Kelebihan","めいしょ|Tempat terkenal","しょちょう|Kepala kantor","しょとく|Pendapatan"]},
+{"kanji":"長所","tema":"Sifat dan Hal Abstrak (N3)","answer":0,"options":["ちょうしょ|Kelebihan","きんじょ|Lingkungan sekitar","だいどころ|Dapur","ところどころ|Di sana-sini"]},
+{"kanji":"短所","tema":"Sifat dan Hal Abstrak (N3)","answer":1,"options":["しょとく|Pendapatan","たんしょ|Kekurangan","めいしょ|Tempat terkenal","だいどころ|Dapur"]},
+{"kanji":"所長","tema":"Sifat dan Hal Abstrak (N3)","answer":2,"options":["ところどころ|Di sana-sini","めいしょ|Tempat terkenal","しょちょう|Kepala kantor","たんしょ|Kekurangan"]},
+{"kanji":"所得","tema":"Sifat dan Hal Abstrak (N3)","answer":3,"options":["ちょうしょ|Kelebihan","しょじ|Kepemilikan","しょちょう|Kepala kantor","しょとく|Pendapatan"]},
+{"kanji":"所持","tema":"Sifat dan Hal Abstrak (N3)","answer":2,"options":["しょちょう|Kepala kantor","めいしょ|Tempat terkenal","しょじ|Kepemilikan","ちょうしょ|Kelebihan"]},
+{"kanji":"所属","tema":"Sifat dan Hal Abstrak (N3)","answer":3,"options":["きんじょ|Lingkungan sekitar","めいしょ|Tempat terkenal","しょとく|Pendapatan","しょぞく|Afiliasi"]},
+{"kanji":"所","tema":"Kanji Tunggal (N4)","answer":2,"options":["しやくしょ|Balai kota","しょぞく|Afiliasi","ところ|Tempat, bagian","しょちょう|Kepala kantor"]}
+]
