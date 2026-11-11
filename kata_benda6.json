@@ -50,7 +50,7 @@
 {"kanji":"天気予報","tema":"Kanji 気","answer":1,"options":["ふんいき|Suasana","てんきよほう|Prakiraan cuaca","でんきだい|Tagihan listrik","きしょうだい|Badan meteorologi"]},
 {"kanji":"気象台","tema":"Kanji 気","answer":2,"options":["てんきよほう|Prakiraan cuaca","でんきだい|Tagihan listrik","きしょうだい|Badan meteorologi","にんきもの|Orang populer"]},
 
-  {"kanji":"食事","tema":"Kanji 食","answer":0,"options":["しょくじ|Makan, hidangan","しょくよう|Dapat dimakan","だんじき|Puasa","しょくぜん|Sebelum makan"]},
+{"kanji":"食事","tema":"Kanji 食","answer":0,"options":["しょくじ|Makan, hidangan","しょくよう|Dapat dimakan","だんじき|Puasa","しょくぜん|Sebelum makan"]},
 {"kanji":"食堂","tema":"Kanji 食","answer":3,"options":["ちゅうしょく|Makan siang","けいしょく|Makanan ringan","へんしょく|Pilih-pilih makanan","しょくどう|Kantin, ruang makan"]},
 {"kanji":"食品","tema":"Kanji 食","answer":3,"options":["ちゅうしょく|Makan siang","しょっかん|Tekstur makanan","しょくひ|Biaya makan","しょくひん|Produk makanan"]},
 {"kanji":"食材","tema":"Kanji 食","answer":1,"options":["いんしょく|Makan dan minum","しょくざい|Bahan masakan","ちょうしょく|Sarapan","しょくどう|Kantin, ruang makan"]},
