@@ -18,6 +18,7 @@
 {"kanji":"所得","tema":"Kanji 所","answer":3,"options":["ところどころ|Di sana-sini","しょぞく|Afiliasi","だいどころ|Dapur","しょとく|Pendapatan"]},
 {"kanji":"所持","tema":"Kanji 所","answer":2,"options":["しょとく|Pendapatan","めいしょ|Tempat terkenal","しょじ|Kepemilikan","たんしょ|Kekurangan"]},
 {"kanji":"所属","tema":"Kanji 所","answer":2,"options":["だいどころ|Dapur","べんじょ|Toilet","しょぞく|Afiliasi","ところどころ|Di sana-sini"]},
+
 {"kanji":"天気","tema":"Kanji 気 Part 1","answer":0,"options":["てんき|Cuaca","きぶん|Suasana hati","かんき|Ventilasi","くうき|Udara"]},
 {"kanji":"人気","tema":"Kanji 気 Part 1","answer":2,"options":["さむけ|Menggigil","きこう|Iklim","にんき|Populer","びょうき|Sakit"]},
 {"kanji":"病気","tema":"Kanji 気 Part 1","answer":0,"options":["びょうき|Sakit","きこう|Iklim","ゆげ|Uap","ゆうき|Keberanian"]},
@@ -31,6 +32,7 @@
 {"kanji":"換気","tema":"Kanji 気 Part 1","answer":3,"options":["きおん|Suhu udara","きぶん|Suasana hati","けいき|Kondisi ekonomi","かんき|Ventilasi"]},
 {"kanji":"湯気","tema":"Kanji 気 Part 1","answer":1,"options":["てんき|Cuaca","ゆげ|Uap","くうき|Udara","かんき|Ventilasi"]},
 {"kanji":"寒気","tema":"Kanji 気 Part 1","answer":2,"options":["びょうき|Sakit","ゆうき|Keberanian","さむけ|Menggigil","きこう|Iklim"]},
+
 {"kanji":"気配","tema":"Kanji 気 Part 2","answer":2,"options":["きたい|Gas","きしょう|Meteorologi","けはい|Tanda, kehadiran","かっき|Semangat, hidup"]},
 {"kanji":"活気","tema":"Kanji 気 Part 2","answer":0,"options":["かっき|Semangat, hidup","けはい|Tanda, kehadiran","きあつ|Tekanan udara","きたい|Gas"]},
 {"kanji":"気体","tema":"Kanji 気 Part 2","answer":2,"options":["きあつ|Tekanan udara","きしょう|Meteorologi","きたい|Gas","けはい|Tanda, kehadiran"]},
@@ -42,6 +44,7 @@
 {"kanji":"天気図","tema":"Kanji 気 Part 2","answer":2,"options":["きしょうだい|Badan meteorologi","ふんいき|Suasana","てんきず|Peta cuaca","でんきだい|Tagihan listrik"]},
 {"kanji":"天気予報","tema":"Kanji 気 Part 2","answer":1,"options":["てんきず|Peta cuaca","てんきよほう|Prakiraan cuaca","きしょうだい|Badan meteorologi","でんきだい|Tagihan listrik"]},
 {"kanji":"気象台","tema":"Kanji 気 Part 2","answer":3,"options":["ふんいき|Suasana","でんきだい|Tagihan listrik","にんきもの|Orang populer","きしょうだい|Badan meteorologi"]},
+
 {"kanji":"食事","tema":"Kanji 食 Part 1","answer":2,"options":["しょくひ|Biaya makan","しょくたく|Meja makan","しょくじ|Makan, hidangan","しょっかん|Tekstur makanan"]},
 {"kanji":"食堂","tema":"Kanji 食 Part 1","answer":3,"options":["しゅしょく|Makanan pokok","しょくざい|Bahan masakan","ゆうしょく|Makan malam","しょくどう|Kantin, ruang makan"]},
 {"kanji":"食品","tema":"Kanji 食 Part 1","answer":0,"options":["しょくひん|Produk makanan","ゆうしょく|Makan malam","しゅしょく|Makanan pokok","しょくどう|Kantin, ruang makan"]},
@@ -61,6 +64,7 @@
 {"kanji":"洋食","tema":"Kanji 食 Part 1","answer":3,"options":["しょくえん|Garam dapur","がいしょく|Makan di luar","わしょく|Masakan Jepang","ようしょく|Masakan Barat"]},
 {"kanji":"主食","tema":"Kanji 食 Part 1","answer":2,"options":["しょくざい|Bahan masakan","しょっき|Peralatan makan","しゅしょく|Makanan pokok","しょくよう|Dapat dimakan"]},
 {"kanji":"給食","tema":"Kanji 食 Part 1","answer":1,"options":["わしょく|Masakan Jepang","きゅうしょく|Makan siang sekolah/kantor","ようしょく|Masakan Barat","がいしょく|Makan di luar"]},
+
 {"kanji":"試食","tema":"Kanji 食 Part 2","answer":2,"options":["へんしょく|Pilih-pilih makanan","さいしょく|Makan sayuran","ししょく|Mencicipi","しょくぜん|Sebelum makan"]},
 {"kanji":"偏食","tema":"Kanji 食 Part 2","answer":3,"options":["けいしょく|Makanan ringan","しょくもつ|Makanan (secara umum)","いんしょく|Makan dan minum","へんしょく|Pilih-pilih makanan"]},
 {"kanji":"飲食","tema":"Kanji 食 Part 2","answer":1,"options":["だんじき|Puasa","いんしょく|Makan dan minum","にくしょく|Makan daging","しょくご|Setelah makan"]},
@@ -79,6 +83,7 @@
 {"kanji":"食物繊維","tema":"Kanji 食 Part 2","answer":0,"options":["しょくもつせんい|Serat makanan","しょくしゅうかん|Kebiasaan makan","しょくひんえいせい|Sanitasi makanan","しょくせいかつ|Pola makan"]},
 {"kanji":"食文化","tema":"Kanji 食 Part 2","answer":0,"options":["しょくぶんか|Budaya makan","しょくひんえいせい|Sanitasi makanan","しょくもつせんい|Serat makanan","しょくせいかつ|Pola makan"]},
 {"kanji":"食品添加物","tema":"Kanji 食 Part 2","answer":0,"options":["しょくひんてんかぶつ|Bahan tambahan pangan","しょくりょうひん|Bahan pangan","しょくぶんか|Budaya makan","しょくちゅうどく|Keracunan makanan"]},
+
 {"kanji":"動物","tema":"Kanji 物 Part 1","answer":0,"options":["どうぶつ|Hewan","しなもの|Barang dagangan","ぶっか|Harga barang","きもの|Kimono"]},
 {"kanji":"植物","tema":"Kanji 物 Part 1","answer":0,"options":["しょくぶつ|Tumbuhan","ぶつり|Fisika","たてもの|Bangunan","にせもの|Palsu"]},
 {"kanji":"荷物","tema":"Kanji 物 Part 1","answer":1,"options":["しょくぶつ|Tumbuhan","にもつ|Barang bawaan","たてもの|Bangunan","ぶつり|Fisika"]},
@@ -95,6 +100,7 @@
 {"kanji":"物質","tema":"Kanji 物 Part 1","answer":0,"options":["ぶっしつ|Zat","ものがたり|Cerita","けんぶつ|Wisata, melihat-lihat","めいぶつ|Produk khas"]},
 {"kanji":"本物","tema":"Kanji 物 Part 1","answer":0,"options":["ほんもの|Asli","にもつ|Barang bawaan","しょくぶつ|Tumbuhan","せいぶつ|Makhluk hidup"]},
 {"kanji":"偽物","tema":"Kanji 物 Part 1","answer":1,"options":["くだもの|Buah","にせもの|Palsu","ぶっしつ|Zat","ものがたり|Cerita"]},
+
 {"kanji":"物音","tema":"Kanji 物 Part 2","answer":3,"options":["おおもの|Orang penting","かいぶつ|Monster","しるもの|Hidangan berkuah","ものおと|Bunyi-bunyian"]},
 {"kanji":"穀物","tema":"Kanji 物 Part 2","answer":3,"options":["こうぶつ|Mineral","しょくもつ|Makanan (secara umum)","ものおと|Bunyi-bunyian","こくもつ|Biji-bijian"]},
 {"kanji":"異物","tema":"Kanji 物 Part 2","answer":2,"options":["さくもつ|Tanaman pertanian","こうぶつ|Makanan kesukaan","いぶつ|Benda asing","にもの|Masakan rebus"]},
@@ -111,6 +117,7 @@
 {"kanji":"煮物","tema":"Kanji 物 Part 2","answer":1,"options":["さくもつ|Tanaman pertanian","にもの|Masakan rebus","ものごと|Segala hal","じつぶつ|Benda aslinya"]},
 {"kanji":"漬物","tema":"Kanji 物 Part 2","answer":3,"options":["いぶつ|Benda asing","にもの|Masakan rebus","こうぶつ|Makanan kesukaan","つけもの|Acar"]},
 {"kanji":"汁物","tema":"Kanji 物 Part 2","answer":2,"options":["じんぶつ|Tokoh","いぶつ|Benda asing","しるもの|Hidangan berkuah","つけもの|Acar"]},
+
 {"kanji":"洗濯物","tema":"Kanji 物 Part 3","answer":0,"options":["せんたくもの|Cucian","どうしょくぶつ|Flora dan fauna","きけんぶつ|Barang berbahaya","てんかぶつ|Bahan tambahan"]},
 {"kanji":"動物園","tema":"Kanji 物 Part 3","answer":1,"options":["いぶつこんにゅう|Kontaminasi benda asing","どうぶつえん|Kebun binatang","どうぶつせい|Bersifat hewani","びせいぶつ|Mikroorganisme"]},
 {"kanji":"博物館","tema":"Kanji 物 Part 3","answer":1,"options":["びせいぶつ|Mikroorganisme","はくぶつかん|Museum","いぶつこんにゅう|Kontaminasi benda asing","どうぶつえん|Kebun binatang"]},
@@ -123,6 +130,7 @@
 {"kanji":"植物油","tema":"Kanji 物 Part 3","answer":1,"options":["てんかぶつ|Bahan tambahan","しょくぶつゆ|Minyak nabati","せんたくもの|Cucian","きけんぶつ|Barang berbahaya"]},
 {"kanji":"動物性","tema":"Kanji 物 Part 3","answer":1,"options":["のうさくぶつ|Hasil pertanian","どうぶつせい|Bersifat hewani","せんたくもの|Cucian","しょくぶつゆ|Minyak nabati"]},
 {"kanji":"異物混入","tema":"Kanji 物 Part 3","answer":0,"options":["いぶつこんにゅう|Kontaminasi benda asing","のうさくぶつ|Hasil pertanian","びせいぶつ|Mikroorganisme","どうぶつせい|Bersifat hewani"]},
+
 {"kanji":"仕事","tema":"Kanji 事 Part 1","answer":2,"options":["しょくじ|Makan, hidangan","じこ|Kecelakaan","しごと|Pekerjaan","かじ|Pekerjaan rumah tangga"]},
 {"kanji":"食事","tema":"Kanji 事 Part 1","answer":2,"options":["かじ|Pekerjaan rumah tangga","ぎょうじ|Acara","しょくじ|Makan, hidangan","じこ|Kecelakaan"]},
 {"kanji":"事故","tema":"Kanji 事 Part 1","answer":1,"options":["へんじ|Jawaban, balasan","じこ|Kecelakaan","ぎょうじ|Acara","かじ|Pekerjaan rumah tangga"]},
@@ -138,6 +146,7 @@
 {"kanji":"事業","tema":"Kanji 事 Part 1","answer":1,"options":["じじょう|Keadaan, alasan","じぎょう|Usaha, bisnis","じむ|Urusan administrasi","ようじ|Urusan, keperluan"]},
 {"kanji":"記事","tema":"Kanji 事 Part 1","answer":3,"options":["こうじ|Pekerjaan konstruksi","じぎょう|Usaha, bisnis","じけん|Kasus, insiden","きじ|Artikel"]},
 {"kanji":"行事","tema":"Kanji 事 Part 1","answer":1,"options":["きじ|Artikel","ぎょうじ|Acara","へんじ|Jawaban, balasan","じけん|Kasus, insiden"]},
+
 {"kanji":"知事","tema":"Kanji 事 Part 2","answer":1,"options":["かんじ|Panitia, penyelenggara","ちじ|Gubernur","ものごと|Segala hal","じこう|Butir, hal"]},
 {"kanji":"理事","tema":"Kanji 事 Part 2","answer":0,"options":["りじ|Direktur","ほうじ|Upacara peringatan arwah","しょうじ|Perdagangan","あくじ|Perbuatan jahat"]},
 {"kanji":"幹事","tema":"Kanji 事 Part 2","answer":1,"options":["ことがら|Perkara","かんじ|Panitia, penyelenggara","じんじ|Personalia (SDM)","じこう|Butir, hal"]},
@@ -156,6 +165,7 @@
 {"kanji":"軍事","tema":"Kanji 事 Part 2","answer":1,"options":["ちじ|Gubernur","ぐんじ|Urusan militer","ものごと|Segala hal","じぜん|Sebelumnya"]},
 {"kanji":"商事","tema":"Kanji 事 Part 2","answer":3,"options":["ほうじ|Upacara peringatan arwah","じたい|Situasi","ばんじ|Semua urusan","しょうじ|Perdagangan"]},
 {"kanji":"人事","tema":"Kanji 事 Part 2","answer":0,"options":["じんじ|Personalia (SDM)","けいじ|Detektif polisi","りじ|Direktur","あくじ|Perbuatan jahat"]},
+
 {"kanji":"事務所","tema":"Kanji 事 Part 3","answer":3,"options":["じぎょうしょ|Fasilitas usaha, pabrik","むじこ|Tanpa kecelakaan","じこげんいん|Penyebab kecelakaan","じむしょ|Kantor perusahaan"]},
 {"kanji":"出来事","tema":"Kanji 事 Part 3","answer":2,"options":["じむいん|Pegawai administrasi","じんじぶ|Departemen personalia","できごと|Kejadian, peristiwa","じむさぎょう|Pekerjaan administrasi"]},
 {"kanji":"事業所","tema":"Kanji 事 Part 3","answer":2,"options":["じむしつ|Ruang administrasi","むじこ|Tanpa kecelakaan","じぎょうしょ|Fasilitas usaha, pabrik","じこげんいん|Penyebab kecelakaan"]},
@@ -175,6 +185,7 @@
 {"kanji":"交通事故","tema":"Kanji 事 Part 3","answer":3,"options":["しんぱいごと|Hal yang dikhawatirkan","できごと|Kejadian, peristiwa","しょくじだい|Biaya makan","こうつうじこ|Kecelakaan lalu lintas"]},
 {"kanji":"心配事","tema":"Kanji 事 Part 3","answer":1,"options":["できごと|Kejadian, peristiwa","しんぱいごと|Hal yang dikhawatirkan","じんじぶ|Departemen personalia","じむいん|Pegawai administrasi"]},
 {"kanji":"約束事","tema":"Kanji 事 Part 3","answer":0,"options":["やくそくごと|Aturan, kesepakatan","ねんじゅうぎょうじ|Acara tahunan","しごとば|Tempat kerja","とうじしゃ|Pihak terkait"]},
+
 {"kanji":"人間","tema":"Kanji 人 Part 1","answer":1,"options":["おとな|Orang dewasa","にんげん|Manusia","こいびと|Kekasih","にんずう|Jumlah orang"]},
 {"kanji":"人気","tema":"Kanji 人 Part 1","answer":1,"options":["おとな|Orang dewasa","にんき|Populer","じんぶつ|Tokoh","にんげん|Manusia"]},
 {"kanji":"人口","tema":"Kanji 人 Part 1","answer":0,"options":["じんこう|Penduduk","にんき|Populer","じんぶつ|Tokoh","ゆうじん|Teman"]},
@@ -195,6 +206,7 @@
 {"kanji":"美人","tema":"Kanji 人 Part 1","answer":1,"options":["ちじん|Kenalan","びじん|Wanita cantik","にんぎょう|Boneka","ほんにん|Yang bersangkutan"]},
 {"kanji":"老人","tema":"Kanji 人 Part 1","answer":1,"options":["ちじん|Kenalan","ろうじん|Lansia","びじん|Wanita cantik","にんぎょう|Boneka"]},
 {"kanji":"人々","tema":"Kanji 人 Part 1","answer":1,"options":["ろうじん|Lansia","ひとびと|Orang-orang","びじん|Wanita cantik","びょうにん|Orang sakit"]},
+
 {"kanji":"一人","tema":"Kanji 人 Part 2","answer":0,"options":["ひとり|Satu orang","しょうにん|Pedagang","さんにん|Tiga orang","じんけん|Hak asasi manusia"]},
 {"kanji":"二人","tema":"Kanji 人 Part 2","answer":1,"options":["しょうにん|Pedagang","ふたり|Dua orang","にんじょう|Rasa kemanusiaan","ひとり|Satu orang"]},
 {"kanji":"三人","tema":"Kanji 人 Part 2","answer":3,"options":["やくにん|Pejabat","じんけん|Hak asasi manusia","こじん|Individu","さんにん|Tiga orang"]},
@@ -215,6 +227,7 @@
 {"kanji":"人材","tema":"Kanji 人 Part 2","answer":2,"options":["ひとり|Satu orang","にんじょう|Rasa kemanusiaan","じんざい|Sumber daya manusia","ふたり|Dua orang"]},
 {"kanji":"人参","tema":"Kanji 人 Part 2","answer":0,"options":["にんじん|Wortel","じんざい|Sumber daya manusia","なんにん|Berapa orang","ふたり|Dua orang"]},
 {"kanji":"人情","tema":"Kanji 人 Part 2","answer":0,"options":["にんじょう|Rasa kemanusiaan","しょうにん|Pedagang","さんにん|Tiga orang","ひとり|Satu orang"]},
+
 {"kanji":"日本人","tema":"Kanji 人 Part 3","answer":2,"options":["じゅうにんといろ|Lain orang lain selera","せいじんしき|Upacara kedewasaan","にほんじん|Orang Jepang","ひとごと|Urusan orang lain"]},
 {"kanji":"外国人","tema":"Kanji 人 Part 3","answer":2,"options":["じんけんひ|Biaya tenaga kerja","ひとでぶそく|Kekurangan tenaga kerja","がいこくじん|Orang asing","にほんじん|Orang Jepang"]},
 {"kanji":"中国人","tema":"Kanji 人 Part 3","answer":0,"options":["ちゅうごくじん|Orang Tiongkok","にんげんかんけい|Hubungan antarmanusia","にんげんせい|Sifat kemanusiaan","かんりにん|Pengelola gedung"]},
@@ -233,6 +246,7 @@
 {"kanji":"人間性","tema":"Kanji 人 Part 3","answer":3,"options":["せわにん|Pengurus, penyelenggara","かんりにん|Pengelola gedung","にんげんかんけい|Hubungan antarmanusia","にんげんせい|Sifat kemanusiaan"]},
 {"kanji":"成人式","tema":"Kanji 人 Part 3","answer":1,"options":["ほしょうにん|Penjamin","せいじんしき|Upacara kedewasaan","げいのうじん|Selebritas","いちにんまえ|Mandiri, satu porsi"]},
 {"kanji":"十人十色","tema":"Kanji 人 Part 3","answer":0,"options":["じゅうにんといろ|Lain orang lain selera","ほしょうにん|Penjamin","いちにんまえ|Mandiri, satu porsi","せいじんしき|Upacara kedewasaan"]},
+
 {"kanji":"今日","tema":"Kanji 日 Part 1","answer":0,"options":["きょう|Hari ini","しゅくじつ|Hari libur nasional","あした|Besok","にっき|Buku harian"]},
 {"kanji":"明日","tema":"Kanji 日 Part 1","answer":2,"options":["にほん|Jepang","にちじ|Tanggal dan waktu","あした|Besok","にっちゅう|Siang hari"]},
 {"kanji":"昨日","tema":"Kanji 日 Part 1","answer":1,"options":["にっこう|Sinar matahari","きのう|Kemarin","にちじょう|Sehari-hari","きょう|Hari ini"]},
@@ -251,6 +265,7 @@
 {"kanji":"祝日","tema":"Kanji 日 Part 1","answer":0,"options":["しゅくじつ|Hari libur nasional","あした|Besok","にっき|Buku harian","にほん|Jepang"]},
 {"kanji":"休日","tema":"Kanji 日 Part 1","answer":3,"options":["まいにち|Setiap hari","きのう|Kemarin","にってい|Jadwal","きゅうじつ|Hari libur"]},
 {"kanji":"先日","tema":"Kanji 日 Part 1","answer":2,"options":["きゅうじつ|Hari libur","にってい|Jadwal","せんじつ|Beberapa hari lalu","まいにち|Setiap hari"]},
+
 {"kanji":"後日","tema":"Kanji 日 Part 2","answer":3,"options":["がんじつ|Hari Tahun Baru","しゅうじつ|Sepanjang hari","れんじつ|Hari demi hari berturut-turut","ごじつ|Di kemudian hari"]},
 {"kanji":"翌日","tema":"Kanji 日 Part 2","answer":1,"options":["ごじつ|Di kemudian hari","よくじつ|Keesokan harinya","ほうにち|Kunjungan ke Jepang","ぜんじつ|Hari sebelumnya"]},
 {"kanji":"前日","tema":"Kanji 日 Part 2","answer":3,"options":["しゅうじつ|Sepanjang hari","ごじつ|Di kemudian hari","ほうにち|Kunjungan ke Jepang","ぜんじつ|Hari sebelumnya"]},
@@ -267,6 +282,7 @@
 {"kanji":"日陰","tema":"Kanji 日 Part 2","answer":0,"options":["ひかげ|Tempat teduh","どにち|Sabtu dan Minggu","ひがさ|Payung matahari","らいにち|Datang ke Jepang"]},
 {"kanji":"日傘","tema":"Kanji 日 Part 2","answer":0,"options":["ひがさ|Payung matahari","ぜんじつ|Hari sebelumnya","どにち|Sabtu dan Minggu","よくじつ|Keesokan harinya"]},
 {"kanji":"土日","tema":"Kanji 日 Part 2","answer":3,"options":["ほうにち|Kunjungan ke Jepang","ぜんじつ|Hari sebelumnya","よくじつ|Keesokan harinya","どにち|Sabtu dan Minggu"]},
+
 {"kanji":"一日","tema":"Kanji 日 Part 3","answer":3,"options":["むいか|Tanggal 6, enam hari","よっか|Tanggal 4, empat hari","なのか|Tanggal 7, tujuh hari","ついたち|Tanggal 1"]},
 {"kanji":"二日","tema":"Kanji 日 Part 3","answer":3,"options":["いつか|Tanggal 5, lima hari","はつか|Tanggal 20, dua puluh hari","ここのか|Tanggal 9, sembilan hari","ふつか|Tanggal 2, dua hari"]},
 {"kanji":"三日","tema":"Kanji 日 Part 3","answer":3,"options":["とおか|Tanggal 10, sepuluh hari","ようか|Tanggal 8, delapan hari","ふつか|Tanggal 2, dua hari","みっか|Tanggal 3, tiga hari"]},
@@ -278,6 +294,7 @@
 {"kanji":"九日","tema":"Kanji 日 Part 3","answer":0,"options":["ここのか|Tanggal 9, sembilan hari","いつか|Tanggal 5, lima hari","はつか|Tanggal 20, dua puluh hari","ついたち|Tanggal 1"]},
 {"kanji":"十日","tema":"Kanji 日 Part 3","answer":0,"options":["とおか|Tanggal 10, sepuluh hari","ここのか|Tanggal 9, sembilan hari","はつか|Tanggal 20, dua puluh hari","ふつか|Tanggal 2, dua hari"]},
 {"kanji":"二十日","tema":"Kanji 日 Part 3","answer":3,"options":["ついたち|Tanggal 1","いつか|Tanggal 5, lima hari","なのか|Tanggal 7, tujuh hari","はつか|Tanggal 20, dua puluh hari"]},
+
 {"kanji":"日曜日","tema":"Kanji 日 Part 4","answer":0,"options":["にちようび|Hari Minggu","ていきゅうび|Hari libur tetap","もくようび|Hari Kamis","すいようび|Hari Rabu"]},
 {"kanji":"月曜日","tema":"Kanji 日 Part 4","answer":3,"options":["かようび|Hari Selasa","どようび|Hari Sabtu","いちにちじゅう|Sepanjang hari","げつようび|Hari Senin"]},
 {"kanji":"火曜日","tema":"Kanji 日 Part 4","answer":2,"options":["にちようび|Hari Minggu","すいようび|Hari Rabu","かようび|Hari Selasa","にちじょうてき|Bersifat sehari-hari"]},
